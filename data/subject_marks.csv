@@ -1,0 +1,6001 @@
+student_id,subject,marks
+STU0001,Digital Electronics,66.4
+STU-0001,Signals & Systems,78.0
+STU0001,Microprocessors,75.1
+STU0001,Mathematics,72.7
+STU0001,Communication Skills,66.1
+STU0002,Web Technologies,61.7
+STU0002,DBMS,76.6
+STU0002,Computer Networks,64.9
+STU0002,Mathematics,68.5
+STU0002,Communication Skills,69.8
+STU0003,Thermodynamics,57.4
+STU0003,Fluid Mechanics,57.8
+STU0003,Manufacturing,57.0
+STU0003,Mathematics,72.5
+STU0003,Communication Skills,49.8
+STU0004,Digital Electronics,59.7
+ STU0004 ,Signals & Systems,64.7
+STU0004,Microprocessors,80.3
+STU0004,Mathematics,67.9
+STU0004,Communication Skills,58.3
+STU0005,Data Structures,47.0
+STU0005,DBMS,55.4
+STU0005,Operating Systems,28.1
+STU0005,Mathematics,39.0
+STU0005,Communication Skills,44.1
+STU0006,Structural Analysis,39.4
+STU0006,Surveying,35.5
+STU0006,Geotechnical Engg,35.6
+STU0006,Mathematics,35.9
+STU0006,Communication Skills,51.2
+STU0007,Digital Electronics,58.3
+STU0007,Signals & Systems,62.4
+STU0007,Microprocessors,62.4
+STU0007,Mathematics,66.6
+STU0007,Communication Skills,71.2
+STU0008,Thermodynamics,57.6
+STU0008,Fluid Mechanics,55.8
+STU0008,Manufacturing,80.7
+STU0008,Mathematics,62.8
+STU0008,Communication Skills,57.5
+STU0009,Data Structures,79.0
+STU0009,DBMS,72.4
+STU0009,Operating Systems,86.1
+STU0009,Mathematics,80.2
+STU0009,Communication Skills,86.1
+STU0010,Web Technologies,80.4
+STU0010,DBMS,95.6
+STU0010,Computer Networks,80.4
+STU0010,Mathematics,69.8
+STU0010,Communication Skills,76.9
+STU0011,Web Technologies,89.4
+STU0011,DBMS,75.1
+STU0011,Computer Networks,76.9
+STU0011,Mathematics,86.3
+STU0011,Communication Skills,90.9
+STU0012,Structural Analysis,41.8
+STU0012,Surveying,50.3
+STU0012,Geotechnical Engg,32.8
+STU0012,Mathematics,40.0
+STU0012,Communication Skills,63.9
+STU0013,Digital Electronics,56.8
+STU0013,Signals & Systems,67.7
+STU0013,Microprocessors,57.6
+STU0013,Mathematics,57.0
+STU0013,Communication Skills,26.7
+STU0014,Thermodynamics,67.5
+STU0014,Fluid Mechanics,65.6
+STU0014,Manufacturing,72.1
+STU0014,Mathematics,66.9
+STU0014,Communication Skills,83.1
+STU0015,Web Technologies,75.6
+STU0015,DBMS,100.0
+STU0015,Computer Networks,86.7
+STU0015,Mathematics,86.4
+STU0015,Communication Skills,79.1
+STU0016,Data Structures,85.6
+STU0016,DBMS,100.0
+STU0016,Operating Systems,62.2
+STU0016,Mathematics,85.4
+STU0016,Communication Skills,75.4
+STU0017,Machine Learning,73.1
+STU0017,Python Programming,84.4
+STU0017,Statistics,78.7
+STU0017,Mathematics,90.8
+STU0017,Communication Skills,84.0
+STU0018,Data Structures,49.7
+STU0018,DBMS,72.0
+STU0018,Operating Systems,54.3
+STU0018,Mathematics,53.1
+STU0018,Communication Skills,40.6
+STU0019,Thermodynamics,57.8
+STU0019,Fluid Mechanics,57.1
+STU0019,Manufacturing,55.1
+STU0019,Mathematics,54.6
+STU0019,Communication Skills,56.3
+STU0020,Digital Electronics,76.3
+STU0020,Signals & Systems,78.6
+STU0020,Microprocessors,78.0
+STU0020,Mathematics,67.9
+STU0020,Communication Skills,75.6
+STU0021,Digital Electronics,50.4
+STU0021,Signals & Systems,60.0
+STU0021,Microprocessors,50.4
+STU0021,Mathematics,21.2
+STU0021,Communication Skills,56.7
+STU0022,Web Technologies,69.3
+STU0022,DBMS,52.5
+STU0022,Computer Networks,69.1
+STU0022,Mathematics,60.5
+STU0022,Communication Skills,74.4
+STU0023,Structural Analysis,61.1
+STU0023,Surveying,55.8
+STU0023,Geotechnical Engg,56.3
+STU0023,Mathematics,63.5
+STU0023,Communication Skills,63.0
+STU0024,Thermodynamics,71.6
+STU0024,Fluid Mechanics,86.4
+STU0024,Manufacturing,88.3
+STU0024,Mathematics,84.2
+STU0024,Communication Skills,72.1
+STU0025,Digital Electronics,46.3
+STU0025,Signals & Systems,58.9
+STU0025,Microprocessors,61.4
+STU0025,Mathematics,57.8
+STU-0025,Communication Skills,56.3
+STU0026,Data Structures,47.3
+STU0026,DBMS,24.4
+STU0026,Operating Systems,12.2
+STU0026,Mathematics,29.7
+STU0026,Communication Skills,35.0
+STU0027,Machine Learning,64.7
+STU0027,Python Programming,56.7
+STU0027,Statistics,59.8
+STU0027,Mathematics,73.1
+STU0027,Communication Skills,71.9
+STU0028,Data Structures,55.8
+STU0028,DBMS,62.2
+STU0028,Operating Systems,53.6
+STU0028,Mathematics,57.1
+STU0028,Communication Skills,53.8
+STU0029,Data Structures,70.2
+ STU0029 ,DBMS,58.7
+STU0029,Operating Systems,64.9
+STU0029,Mathematics,57.1
+STU0029,Communication Skills,64.0
+STU0030,Digital Electronics,49.0
+STU0030,Signals & Systems,49.4
+STU0030,Microprocessors,55.4
+STU0030,Mathematics,54.5
+STU0030,Communication Skills,58.9
+STU0031,Digital Electronics,59.3
+STU0031,Signals & Systems,58.8
+STU0031,Microprocessors,64.4
+STU0031,Mathematics,59.1
+STU0031,Communication Skills,58.9
+STU0032,Structural Analysis,68.5
+STU0032,Surveying,74.0
+STU0032,Geotechnical Engg,63.9
+STU0032,Mathematics,54.6
+STU0032,Communication Skills,63.6
+STU0033,Web Technologies,41.2
+STU0033,DBMS,53.2
+STU0033,Computer Networks,40.1
+STU0033,Mathematics,29.8
+STU0033,Communication Skills,31.7
+STU0034,Web Technologies,49.2
+STU0034,DBMS,67.2
+STU0034,Computer Networks,51.6
+STU0034,Mathematics,51.1
+STU0034,Communication Skills,51.4
+STU0035,Machine Learning,59.6
+STU0035,Python Programming,68.6
+STU0035,Statistics,74.6
+STU0035,Mathematics,65.5
+STU-0035,Communication Skills,72.7
+STU0036,Data Structures,60.5
+STU0036,DBMS,57.7
+STU0036,Operating Systems,55.6
+STU0036,Mathematics,32.0
+STU0036,Communication Skills,28.8
+STU0037,Data Structures,58.4
+STU0037,DBMS,49.4
+STU0037,Operating Systems,46.5
+STU0037,Mathematics,39.9
+STU0037,Communication Skills,52.5
+STU0038,Machine Learning,73.8
+STU0038,Python Programming,70.3
+STU0038,Statistics,77.6
+STU0038,Mathematics,72.2
+STU0038,Communication Skills,82.8
+STU0039,Data Structures,73.7
+STU0039,DBMS,83.4
+STU0039,Operating Systems,75.9
+STU0039,Mathematics,79.4
+STU0039,Communication Skills,AB
+STU-0040,Digital Electronics,64.2
+STU0040,Signals & Systems,62.9
+STU0040,Microprocessors,65.6
+STU0040,Mathematics,60.5
+STU0040,Communication Skills,48.7
+STU0041,Web Technologies,22.1
+stu_0041,DBMS,48.8
+stu_0041,Computer Networks,31.8
+STU0041,Mathematics,31.9
+STU0041,Communication Skills,39.3
+STU0042,Thermodynamics,82.8
+STU0042,Fluid Mechanics,74.1
+STU0042,Manufacturing,72.5
+STU0042,Mathematics,64.1
+STU0042,Communication Skills,59.1
+STU0043,Digital Electronics,35.5
+STU0043,Signals & Systems,39.5
+STU0043,Microprocessors,32.0
+STU-0043,Mathematics,45.2
+STU0043,Communication Skills,23.3
+STU0044,Web Technologies,66.8
+STU0044,DBMS,79.7
+STU0044,Computer Networks,55.9
+STU0044,Mathematics,64.2
+STU0044,Communication Skills,67.8
+STU0045,Thermodynamics,52.5
+STU0045,Fluid Mechanics,38.1
+STU0045,Manufacturing,66.9
+STU0045,Mathematics,37.2
+STU0045,Communication Skills,64.3
+STU0046,Thermodynamics,38.1
+STU0046,Fluid Mechanics,61.0
+STU0046,Manufacturing,35.4
+STU0046,Mathematics,55.0
+STU0046,Communication Skills,55.0
+STU0047,Web Technologies,55.8
+STU0047,DBMS,67.8
+STU0047,Computer Networks,40.3
+STU0047,Mathematics,65.6
+STU0047,Communication Skills,52.8
+STU0048,Web Technologies,56.2
+ STU0048 ,DBMS,65.7
+STU0048,Computer Networks,59.2
+STU0048,Mathematics,69.0
+STU0048,Communication Skills,65.9
+STU0049,Digital Electronics,58.0
+STU0049,Signals & Systems,43.0
+STU0049,Microprocessors,45.5
+STU0049,Mathematics,56.9
+STU0049,Communication Skills,59.2
+STU0050,Data Structures,54.3
+STU0050,DBMS,71.3
+STU0050,Operating Systems,78.2
+STU0050,Mathematics,66.4
+STU0050,Communication Skills,73.2
+STU0051,Data Structures,57.7
+STU0051,DBMS,68.4
+STU0051,Operating Systems,55.2
+STU0051,Mathematics,62.2
+STU0051,Communication Skills,73.2
+STU0052,Data Structures,74.8
+STU0052,DBMS,69.1
+STU0052,Operating Systems,82.2
+STU0052,Mathematics,68.3
+STU0052,Communication Skills,67.8
+STU0053,Thermodynamics,64.3
+STU0053,Fluid Mechanics,64.3
+STU0053,Manufacturing,66.2
+STU0053,Mathematics,58.2
+STU0053,Communication Skills,69.4
+STU0054,Digital Electronics,68.8
+STU0054,Signals & Systems,48.5
+STU0054,Microprocessors,53.0
+STU0054,Mathematics,42.7
+STU0054,Communication Skills,55.6
+STU0055,Digital Electronics,52.0
+STU0055,Signals & Systems,53.0
+STU0055,Microprocessors,49.9
+STU0055,Mathematics,58.8
+STU0055,Communication Skills,60.7
+STU0056,Thermodynamics,36.3
+STU0056,Fluid Mechanics,48.8
+STU0056,Manufacturing,54.7
+STU0056,Mathematics,25.6
+STU0056,Communication Skills,38.8
+STU0057,Web Technologies,58.1
+STU0057,DBMS,52.4
+STU0057,Computer Networks,62.4
+STU0057,Mathematics,65.0
+STU0057,Communication Skills,59.7
+STU0058,Machine Learning,50.3
+STU0058,Python Programming,49.5
+STU0058,Statistics,56.9
+STU0058,Mathematics,64.5
+STU0058,Communication Skills,70.4
+STU0059,Data Structures,28.2
+STU0059,DBMS,48.9
+STU0059,Operating Systems,37.6
+STU0059,Mathematics,22.3
+STU0059,Communication Skills,49.1
+STU0060,Data Structures,56.4
+STU0060,DBMS,51.0
+STU0060,Operating Systems,42.7
+STU0060,Mathematics,52.7
+STU0060,Communication Skills,60.6
+STU0061,Digital Electronics,62.3
+ STU0061 ,Signals & Systems,41.1
+STU0061,Microprocessors,46.4
+STU0061,Mathematics,48.3
+STU0061,Communication Skills,54.2
+STU0062,Machine Learning,76.4
+STU0062,Python Programming,87.6
+STU0062,Statistics,82.7
+STU0062,Mathematics,84.0
+STU0062,Communication Skills,86.2
+STU0063,Machine Learning,36.3
+STU0063,Python Programming,44.2
+STU0063,Statistics,32.8
+STU0063,Mathematics,38.1
+STU0063,Communication Skills,32.8
+STU0064,Digital Electronics,42.3
+STU0064,Signals & Systems,52.6
+STU0064,Microprocessors,29.5
+STU0064,Mathematics,47.4
+STU0064,Communication Skills,47.1
+STU0065,Digital Electronics,81.9
+STU0065,Signals & Systems,AB
+STU0065,Microprocessors,67.2
+STU0065,Mathematics,71.9
+STU0065,Communication Skills,68.8
+STU0066,Machine Learning,76.7
+STU0066,Python Programming,61.3
+STU0066,Statistics,77.2
+STU0066,Mathematics,78.7
+STU0066,Communication Skills,87.9
+STU0067,Machine Learning,45.7
+STU0067,Python Programming,39.6
+STU0067,Statistics,44.9
+STU0067,Mathematics,55.0
+STU0067,Communication Skills,49.3
+stu0068,Web Technologies,65.7
+STU0068,DBMS,69.5
+STU0068,Computer Networks,64.6
+STU0068,Mathematics,44.3
+STU0068,Communication Skills,54.3
+STU0069,Data Structures,71.1
+STU0069,DBMS,70.6
+STU0069,Operating Systems,69.4
+STU0069,Mathematics,69.5
+STU0069,Communication Skills,73.9
+STU0070,Web Technologies,41.0
+STU-0070,DBMS,37.4
+STU0070,Computer Networks,45.9
+STU0070,Mathematics,47.3
+STU0070,Communication Skills,51.6
+STU0071,Data Structures,42.3
+STU0071,DBMS,30.4
+STU0071,Operating Systems,31.5
+STU0071,Mathematics,41.3
+STU0071,Communication Skills,32.3
+STU0072,Web Technologies,59.6
+STU0072,DBMS,46.8
+STU0072,Computer Networks,61.4
+STU0072,Mathematics,52.4
+STU0072,Communication Skills,54.4
+STU0073,Thermodynamics,89.4
+STU0073,Fluid Mechanics,84.7
+STU0073,Manufacturing,75.2
+STU0073,Mathematics,88.4
+stu0073,Communication Skills,93.3
+STU0074,Data Structures,66.7
+STU0074,DBMS,37.9
+STU0074,Operating Systems,48.2
+STU0074,Mathematics,60.6
+STU0074,Communication Skills,47.2
+STU0075,Data Structures,67.2
+STU0075,DBMS,70.9
+STU0075,Operating Systems,73.3
+STU0075,Mathematics,51.3
+STU0075,Communication Skills,57.4
+STU0076,Web Technologies,71.4
+STU0076,DBMS,74.4
+STU0076,Computer Networks,88.3
+STU0076,Mathematics,72.3
+STU0076,Communication Skills,68.3
+STU0077,Web Technologies,100.0
+STU0077,DBMS,82.3
+STU0077,Computer Networks,87.2
+STU0077,Mathematics,92.9
+STU0077,Communication Skills,95.3
+STU0078,Digital Electronics,53.8
+STU0078,Signals & Systems,54.6
+STU0078,Microprocessors,61.7
+STU0078,Mathematics,39.8
+STU0078,Communication Skills,47.2
+STU0079,Machine Learning,57.9
+STU0079,Python Programming,61.4
+STU0079,Statistics,68.4
+STU0079,Mathematics,70.2
+STU0079,Communication Skills,64.8
+STU0080,Thermodynamics,80.2
+STU0080,Fluid Mechanics,86.4
+STU0080,Manufacturing,84.0
+STU-0080,Mathematics,83.1
+STU0080,Communication Skills,97.9
+STU0081,Digital Electronics,45.5
+STU0081,Signals & Systems,51.8
+STU0081,Microprocessors,46.0
+STU0081,Mathematics,57.3
+STU0081,Communication Skills,59.4
+STU0082,Web Technologies,71.8
+STU0082,DBMS,88.6
+STU0082,Computer Networks,73.0
+STU0082,Mathematics,82.0
+STU0082,Communication Skills,61.5
+STU0083,Thermodynamics,41.1
+STU0083,Fluid Mechanics,40.9
+STU0083,Manufacturing,41.9
+STU0083,Mathematics,56.3
+STU0083,Communication Skills,49.4
+STU0084,Data Structures,62.7
+STU0084,DBMS,52.7
+STU0084,Operating Systems,59.6
+STU0084,Mathematics,58.2
+STU0084,Communication Skills,60.4
+STU0085,Data Structures,46.9
+STU0085,DBMS,AB
+STU0085,Operating Systems,70.1
+STU0085,Mathematics,58.2
+STU0085,Communication Skills,65.3
+STU0086,Data Structures,50.5
+STU0086,DBMS,57.9
+STU0086,Operating Systems,54.0
+stu_0086,Mathematics,52.7
+STU0086,Communication Skills,39.3
+STU0087,Digital Electronics,63.4
+STU0087,Signals & Systems,50.9
+STU0087,Microprocessors,51.9
+STU0087,Mathematics,54.3
+STU0087,Communication Skills,45.4
+STU0088,Machine Learning,67.0
+STU0088,Python Programming,60.4
+STU0088,Statistics,70.9
+STU0088,Mathematics,72.2
+STU0088,Communication Skills,65.5
+stu_0089,Data Structures,75.5
+STU0089,DBMS,73.4
+STU0089,Operating Systems,70.4
+ STU0089 ,Mathematics,79.4
+STU0089,Communication Skills,74.7
+STU0090,Machine Learning,66.7
+STU0090,Python Programming,57.0
+STU0090,Statistics,49.6
+STU0090,Mathematics,62.4
+STU0090,Communication Skills,72.7
+STU0091,Data Structures,45.3
+STU0091,DBMS,70.1
+STU0091,Operating Systems,56.7
+STU0091,Mathematics,62.4
+STU0091,Communication Skills,58.4
+STU0092,Digital Electronics,65.3
+STU0092,Signals & Systems,74.9
+STU0092,Microprocessors,56.0
+STU0092,Mathematics,78.5
+STU0092,Communication Skills,71.5
+STU0093,Web Technologies,53.4
+STU0093,DBMS,38.6
+STU0093,Computer Networks,61.5
+STU0093,Mathematics,43.3
+STU0093,Communication Skills,55.6
+STU0094,Web Technologies,61.9
+STU0094,DBMS,69.6
+STU0094,Computer Networks,62.1
+STU0094,Mathematics,67.0
+STU0094,Communication Skills,65.8
+STU0095,Web Technologies,74.7
+STU0095,DBMS,65.1
+STU0095,Computer Networks,73.7
+STU0095,Mathematics,63.5
+STU0095,Communication Skills,67.5
+STU0096,Digital Electronics,98.7
+STU0096,Signals & Systems,99.3
+STU0096,Microprocessors,92.4
+STU0096,Mathematics,84.1
+STU0096,Communication Skills,100.0
+STU0097,Web Technologies,68.1
+STU0097,DBMS,55.6
+STU0097,Computer Networks,70.0
+STU0097,Mathematics,58.1
+STU0097,Communication Skills,49.0
+STU0098,Data Structures,69.6
+STU0098,DBMS,56.5
+STU0098,Operating Systems,57.0
+STU0098,Mathematics,51.8
+STU0098,Communication Skills,53.5
+STU0099,Data Structures,74.1
+STU0099,DBMS,64.7
+STU0099,Operating Systems,85.1
+STU0099,Mathematics,64.5
+STU0099,Communication Skills,73.7
+STU0100,Structural Analysis,62.6
+STU0100,Surveying,69.9
+STU0100,Geotechnical Engg,55.4
+STU0100,Mathematics,66.0
+STU0100,Communication Skills,72.5
+STU0101,Structural Analysis,61.5
+stu0101,Surveying,54.2
+STU0101,Geotechnical Engg,55.8
+STU0101,Mathematics,55.5
+STU0101,Communication Skills,46.2
+STU0102,Digital Electronics,47.9
+STU0102,Signals & Systems,60.4
+STU0102,Microprocessors,52.0
+STU0102,Mathematics,53.2
+STU0102,Communication Skills,47.4
+STU0103,Data Structures,65.4
+STU0103,DBMS,64.3
+STU0103,Operating Systems,50.8
+STU0103,Mathematics,73.9
+STU0103,Communication Skills,71.6
+STU0104,Structural Analysis,51.3
+STU0104,Surveying,46.3
+STU0104,Geotechnical Engg,51.5
+STU0104,Mathematics,34.9
+STU0104,Communication Skills,49.2
+STU0105,Digital Electronics,66.3
+STU0105,Signals & Systems,57.2
+STU0105,Microprocessors,46.0
+STU0105,Mathematics,41.1
+STU0105,Communication Skills,77.5
+STU0106,Digital Electronics,63.3
+STU0106,Signals & Systems,65.2
+STU0106,Microprocessors,67.1
+STU0106,Mathematics,57.0
+STU0106,Communication Skills,58.7
+STU0107,Web Technologies,71.9
+STU0107,DBMS,67.7
+STU0107,Computer Networks,70.8
+STU0107,Mathematics,80.5
+STU0107,Communication Skills,72.6
+STU0108,Data Structures,59.5
+STU0108,DBMS,55.7
+STU0108,Operating Systems,57.4
+STU0108,Mathematics,59.0
+STU0108,Communication Skills,60.3
+STU0109,Data Structures,44.9
+STU0109,DBMS,38.6
+STU0109,Operating Systems,50.9
+STU0109,Mathematics,28.5
+STU0109,Communication Skills,41.4
+STU0110,Structural Analysis,40.4
+STU0110,Surveying,39.2
+STU0110,Geotechnical Engg,30.4
+STU-0110,Mathematics,31.1
+STU0110,Communication Skills,34.4
+STU0111,Web Technologies,36.4
+STU0111,DBMS,49.7
+STU0111,Computer Networks,52.6
+STU0111,Mathematics,45.2
+STU0111,Communication Skills,35.6
+STU0112,Data Structures,40.7
+STU0112,DBMS,35.9
+STU0112,Operating Systems,45.3
+STU0112,Mathematics,49.6
+STU0112,Communication Skills,35.4
+STU0113,Web Technologies,63.6
+STU0113,DBMS,54.7
+STU0113,Computer Networks,74.3
+STU0113,Mathematics,52.0
+STU0113,Communication Skills,60.7
+STU0114,Machine Learning,48.9
+STU0114,Python Programming,46.3
+STU0114,Statistics,31.7
+STU0114,Mathematics,44.9
+STU0114,Communication Skills,45.5
+STU-0115,Data Structures,51.0
+ STU0115 ,DBMS,61.5
+STU0115,Operating Systems,75.0
+STU0115,Mathematics,46.3
+ STU0115 ,Communication Skills,48.0
+STU0116,Thermodynamics,39.7
+STU0116,Fluid Mechanics,47.6
+STU0116,Manufacturing,47.7
+STU0116,Mathematics,64.5
+STU0116,Communication Skills,51.2
+STU0117,Digital Electronics,41.6
+STU0117,Signals & Systems,56.5
+STU0117,Microprocessors,50.7
+STU0117,Mathematics,60.4
+STU0117,Communication Skills,66.4
+STU0118,Digital Electronics,72.8
+STU0118,Signals & Systems,86.6
+STU0118,Microprocessors,80.0
+STU0118,Mathematics,67.1
+STU0118,Communication Skills,66.3
+STU0119,Web Technologies,64.9
+STU0119,DBMS,68.6
+STU0119,Computer Networks,absent
+STU0119,Mathematics,83.2
+STU0119,Communication Skills,67.4
+STU0120,Digital Electronics,57.6
+STU0120,Signals & Systems,absent
+STU0120,Microprocessors,52.9
+STU0120,Mathematics,65.7
+STU0120,Communication Skills,59.5
+ STU0121 ,Machine Learning,66.4
+ STU0121 ,Python Programming,52.1
+STU0121,Statistics,48.1
+STU0121,Mathematics,73.4
+STU0121,Communication Skills,49.2
+STU0122,Digital Electronics,60.6
+STU0122,Signals & Systems,49.0
+STU0122,Microprocessors,58.6
+STU0122,Mathematics,68.6
+STU0122,Communication Skills,71.9
+STU0123,Data Structures,62.2
+STU0123,DBMS,61.0
+STU0123,Operating Systems,65.2
+STU0123,Mathematics,72.6
+STU0123,Communication Skills,absent
+STU0124,Web Technologies,76.6
+stu0124,DBMS,71.4
+STU0124,Computer Networks,63.3
+STU0124,Mathematics,75.3
+STU0124,Communication Skills,72.0
+STU0125,Data Structures,41.4
+STU0125,DBMS,57.1
+STU0125,Operating Systems,44.8
+STU0125,Mathematics,41.3
+STU0125,Communication Skills,49.2
+STU0126,Machine Learning,71.8
+STU0126,Python Programming,78.4
+STU0126,Statistics,60.0
+STU0126,Mathematics,62.4
+STU0126,Communication Skills,67.3
+STU0127,Web Technologies,35.9
+STU0127,DBMS,32.2
+STU0127,Computer Networks,38.0
+STU0127,Mathematics,47.8
+STU0127,Communication Skills,41.8
+STU0128,Data Structures,60.4
+STU0128,DBMS,62.4
+STU0128,Operating Systems,66.0
+STU0128,Mathematics,63.7
+STU0128,Communication Skills,58.7
+STU0129,Data Structures,76.4
+STU0129,DBMS,80.8
+STU0129,Operating Systems,67.2
+STU0129,Mathematics,59.4
+STU0129,Communication Skills,64.1
+STU0130,Machine Learning,62.9
+STU0130,Python Programming,64.6
+STU0130,Statistics,57.4
+STU0130,Mathematics,47.6
+STU0130,Communication Skills,52.6
+STU0131,Data Structures,82.4
+STU0131,DBMS,94.9
+STU0131,Operating Systems,75.6
+STU0131,Mathematics,80.3
+STU0131,Communication Skills,75.1
+STU0132,Structural Analysis,53.2
+STU0132,Surveying,55.6
+STU0132,Geotechnical Engg,36.6
+STU0132,Mathematics,59.6
+STU0132,Communication Skills,44.3
+STU0133,Machine Learning,79.4
+STU0133,Python Programming,57.4
+STU0133,Statistics,50.1
+STU0133,Mathematics,64.7
+STU0133,Communication Skills,60.4
+STU0134,Web Technologies,65.3
+STU0134,DBMS,55.7
+STU0134,Computer Networks,62.3
+STU0134,Mathematics,51.8
+STU0134,Communication Skills,76.0
+STU0135,Machine Learning,37.9
+STU0135,Python Programming,61.6
+STU0135,Statistics,67.1
+STU0135,Mathematics,59.8
+STU0135,Communication Skills,71.9
+STU0136,Data Structures,62.9
+STU0136,DBMS,56.8
+STU0136,Operating Systems,50.7
+STU-0136,Mathematics,55.7
+STU0136,Communication Skills,74.6
+STU0137,Structural Analysis,67.9
+STU0137,Surveying,64.8
+STU0137,Geotechnical Engg,50.9
+STU0137,Mathematics,55.6
+STU0137,Communication Skills,61.8
+STU0138,Machine Learning,73.4
+STU0138,Python Programming,77.3
+STU0138,Statistics,84.0
+STU0138,Mathematics,82.5
+STU0138,Communication Skills,71.7
+STU0139,Thermodynamics,80.5
+STU0139,Fluid Mechanics,83.9
+STU0139,Manufacturing,77.5
+STU0139,Mathematics,81.2
+STU0139,Communication Skills,78.2
+STU0140,Data Structures,60.6
+STU0140,DBMS,76.8
+STU0140,Operating Systems,70.1
+STU0140,Mathematics,61.9
+STU0140,Communication Skills,70.7
+STU0141,Machine Learning,68.7
+STU0141,Python Programming,62.8
+STU0141,Statistics,68.5
+STU0141,Mathematics,absent
+STU0141,Communication Skills,69.7
+STU0142,Machine Learning,56.2
+STU0142,Python Programming,51.9
+STU0142,Statistics,49.6
+STU0142,Mathematics,56.5
+STU0142,Communication Skills,56.1
+STU0143,Structural Analysis,59.8
+STU0143,Surveying,53.5
+STU0143,Geotechnical Engg,53.6
+STU0143,Mathematics,AB
+STU0143,Communication Skills,82.3
+STU0144,Machine Learning,55.1
+STU0144,Python Programming,55.2
+STU0144,Statistics,49.4
+STU0144,Mathematics,60.0
+STU0144,Communication Skills,49.0
+STU0145,Machine Learning,63.2
+STU0145,Python Programming,75.7
+STU0145,Statistics,70.8
+STU0145,Mathematics,78.0
+STU0145,Communication Skills,75.2
+STU0146,Data Structures,84.0
+STU0146,DBMS,83.4
+STU0146,Operating Systems,84.2
+STU0146,Mathematics,80.1
+STU0146,Communication Skills,100.0
+STU0147,Web Technologies,43.9
+STU0147,DBMS,AB
+STU0147,Computer Networks,61.7
+STU0147,Mathematics,64.7
+STU0147,Communication Skills,61.3
+STU0148,Machine Learning,46.3
+STU0148,Python Programming,21.2
+STU0148,Statistics,AB
+STU0148,Mathematics,42.2
+STU0148,Communication Skills,42.1
+STU0149,Web Technologies,40.4
+STU0149,DBMS,55.4
+STU0149,Computer Networks,52.0
+STU0149,Mathematics,63.9
+STU0149,Communication Skills,68.2
+STU0150,Data Structures,94.8
+STU0150,DBMS,82.6
+STU0150,Operating Systems,79.9
+STU0150,Mathematics,64.3
+STU0150,Communication Skills,80.5
+STU0151,Thermodynamics,66.4
+STU0151,Fluid Mechanics,57.8
+STU0151,Manufacturing,57.0
+STU0151,Mathematics,70.9
+STU0151,Communication Skills,66.5
+STU0152,Thermodynamics,61.5
+STU0152,Fluid Mechanics,68.0
+STU0152,Manufacturing,56.6
+STU0152,Mathematics,78.1
+STU0152,Communication Skills,52.3
+STU0153,Data Structures,77.4
+STU0153,DBMS,73.6
+STU0153,Operating Systems,64.5
+STU0153,Mathematics,75.9
+STU0153,Communication Skills,67.0
+STU0154,Machine Learning,71.9
+STU0154,Python Programming,54.0
+STU0154,Statistics,79.4
+STU0154,Mathematics,65.0
+STU0154,Communication Skills,62.5
+STU0155,Data Structures,72.4
+STU0155,DBMS,58.2
+STU0155,Operating Systems,86.4
+STU0155,Mathematics,76.3
+STU0155,Communication Skills,83.4
+STU0156,Digital Electronics,61.4
+STU0156,Signals & Systems,69.6
+STU0156,Microprocessors,72.4
+STU0156,Mathematics,76.5
+STU0156,Communication Skills,69.7
+STU0157,Web Technologies,74.7
+STU0157,DBMS,78.7
+STU0157,Computer Networks,87.6
+STU0157,Mathematics,88.6
+STU0157,Communication Skills,71.4
+STU0158,Digital Electronics,63.5
+STU0158,Signals & Systems,84.5
+STU0158,Microprocessors,68.1
+STU0158,Mathematics,64.4
+STU0158,Communication Skills,66.1
+STU0159,Digital Electronics,82.9
+STU0159,Signals & Systems,82.4
+STU0159,Microprocessors,75.3
+STU0159,Mathematics,81.0
+STU0159,Communication Skills,59.7
+STU0160,Digital Electronics,58.1
+STU0160,Signals & Systems,52.8
+STU0160,Microprocessors,57.8
+STU0160,Mathematics,62.4
+STU0160,Communication Skills,52.9
+STU0161,Data Structures,61.3
+STU0161,DBMS,42.7
+STU0161,Operating Systems,46.4
+STU0161,Mathematics,62.9
+STU0161,Communication Skills,56.9
+STU0162,Structural Analysis,79.5
+STU0162,Surveying,92.4
+STU0162,Geotechnical Engg,84.9
+STU0162,Mathematics,90.7
+STU0162,Communication Skills,95.7
+STU0163,Data Structures,66.3
+STU0163,DBMS,77.0
+STU0163,Operating Systems,62.4
+STU0163,Mathematics,58.9
+STU0163,Communication Skills,66.7
+STU0164,Data Structures,69.5
+STU0164,DBMS,62.1
+STU0164,Operating Systems,88.6
+STU0164,Mathematics,77.2
+STU0164,Communication Skills,71.5
+STU0165,Machine Learning,75.7
+STU0165,Python Programming,64.8
+STU0165,Statistics,69.3
+STU0165,Mathematics,74.2
+STU0165,Communication Skills,66.4
+STU0166,Web Technologies,58.0
+STU0166,DBMS,60.5
+STU0166,Computer Networks,52.3
+STU0166,Mathematics,60.6
+STU0166,Communication Skills,61.4
+STU0167,Thermodynamics,67.4
+STU0167,Fluid Mechanics,60.2
+STU0167,Manufacturing,79.9
+STU0167,Mathematics,60.2
+STU0167,Communication Skills,59.8
+STU0168,Thermodynamics,79.6
+STU0168,Fluid Mechanics,77.8
+STU0168,Manufacturing,75.2
+STU0168,Mathematics,96.6
+STU0168,Communication Skills,73.2
+STU0169,Web Technologies,64.1
+STU0169,DBMS,70.0
+STU0169,Computer Networks,65.0
+STU0169,Mathematics,75.0
+STU0169,Communication Skills,54.7
+STU0170,Structural Analysis,33.1
+STU0170,Surveying,35.8
+STU0170,Geotechnical Engg,40.0
+STU0170,Mathematics,33.6
+STU0170,Communication Skills,48.2
+STU0171,Web Technologies,63.2
+STU0171,DBMS,68.0
+stu0171,Computer Networks,57.1
+STU0171,Mathematics,60.0
+STU0171,Communication Skills,67.0
+STU0172,Machine Learning,100.0
+STU0172,Python Programming,absent
+STU0172,Statistics,84.3
+STU0172,Mathematics,94.7
+STU0172,Communication Skills,95.9
+STU0173,Data Structures,64.1
+ STU0173 ,DBMS,53.0
+STU0173,Operating Systems,50.2
+STU0173,Mathematics,51.5
+STU0173,Communication Skills,64.6
+STU0174,Structural Analysis,43.6
+STU0174,Surveying,38.0
+STU0174,Geotechnical Engg,38.5
+STU0174,Mathematics,29.4
+STU0174,Communication Skills,28.7
+STU0175,Data Structures,85.0
+STU0175,DBMS,99.7
+STU0175,Operating Systems,84.9
+STU0175,Mathematics,99.6
+STU0175,Communication Skills,91.4
+STU0176,Data Structures,93.3
+STU0176,DBMS,68.4
+STU0176,Operating Systems,68.2
+STU0176,Mathematics,68.2
+STU0176,Communication Skills,77.7
+STU0177,Web Technologies,55.1
+STU0177,DBMS,66.3
+STU0177,Computer Networks,53.5
+STU0177,Mathematics,64.4
+STU0177,Communication Skills,52.0
+STU0178,Structural Analysis,57.4
+STU0178,Surveying,50.0
+STU0178,Geotechnical Engg,55.9
+STU0178,Mathematics,64.7
+STU0178,Communication Skills,60.2
+STU0179,Thermodynamics,56.8
+STU0179,Fluid Mechanics,77.1
+STU0179,Manufacturing,78.7
+STU0179,Mathematics,87.5
+STU0179,Communication Skills,70.6
+STU0180,Digital Electronics,47.1
+STU0180,Signals & Systems,45.4
+STU0180,Microprocessors,51.5
+STU0180,Mathematics,51.2
+STU0180,Communication Skills,56.4
+STU0181,Thermodynamics,63.2
+STU0181,Fluid Mechanics,68.1
+STU0181,Manufacturing,77.8
+STU0181,Mathematics,75.5
+STU0181,Communication Skills,77.8
+STU0182,Thermodynamics,81.7
+STU0182,Fluid Mechanics,70.6
+STU0182,Manufacturing,59.1
+STU0182,Mathematics,65.7
+STU0182,Communication Skills,68.5
+STU0183,Machine Learning,68.9
+STU0183,Python Programming,67.2
+stu_0183,Statistics,77.7
+STU0183,Mathematics,74.6
+STU0183,Communication Skills,82.7
+STU0184,Web Technologies,46.8
+STU0184,DBMS,60.3
+STU0184,Computer Networks,61.5
+STU0184,Mathematics,69.5
+STU0184,Communication Skills,56.6
+STU0185,Digital Electronics,63.8
+STU0185,Signals & Systems,65.7
+STU0185,Microprocessors,56.8
+STU0185,Mathematics,63.5
+STU0185,Communication Skills,absent
+STU0186,Digital Electronics,77.7
+STU0186,Signals & Systems,83.5
+STU0186,Microprocessors,88.5
+ STU0186 ,Mathematics,64.2
+STU0186,Communication Skills,84.4
+STU0187,Web Technologies,48.3
+STU0187,DBMS,60.2
+STU0187,Computer Networks,70.4
+STU0187,Mathematics,41.4
+STU0187,Communication Skills,AB
+STU0188,Data Structures,45.4
+STU0188,DBMS,53.4
+STU0188,Operating Systems,50.5
+STU0188,Mathematics,43.6
+STU0188,Communication Skills,56.1
+STU0189,Digital Electronics,52.8
+STU0189,Signals & Systems,68.5
+STU0189,Microprocessors,62.3
+STU0189,Mathematics,74.6
+STU0189,Communication Skills,62.3
+STU0190,Data Structures,60.2
+STU0190,DBMS,78.8
+STU0190,Operating Systems,66.8
+STU0190,Mathematics,68.8
+STU0190,Communication Skills,62.5
+STU0191,Structural Analysis,55.5
+STU0191,Surveying,76.5
+STU0191,Geotechnical Engg,67.1
+STU0191,Mathematics,79.9
+STU0191,Communication Skills,72.5
+STU0192,Data Structures,78.4
+STU0192,DBMS,54.0
+STU0192,Operating Systems,83.2
+STU0192,Mathematics,59.5
+STU0192,Communication Skills,54.9
+STU0193,Data Structures,61.7
+STU0193,DBMS,69.6
+STU0193,Operating Systems,absent
+STU0193,Mathematics,64.1
+STU0193,Communication Skills,53.8
+STU0194,Thermodynamics,78.4
+STU0194,Fluid Mechanics,67.1
+STU0194,Manufacturing,70.8
+STU0194,Mathematics,73.8
+STU0194,Communication Skills,73.4
+STU0195,Data Structures,64.5
+STU0195,DBMS,56.8
+STU0195,Operating Systems,69.3
+STU0195,Mathematics,59.2
+STU0195,Communication Skills,78.0
+STU0196,Data Structures,42.4
+STU0196,DBMS,61.6
+STU0196,Operating Systems,56.5
+STU0196,Mathematics,43.9
+STU-0196,Communication Skills,62.4
+STU0197,Machine Learning,69.4
+STU0197,Python Programming,60.4
+STU0197,Statistics,53.6
+STU0197,Mathematics,60.9
+STU0197,Communication Skills,70.8
+STU0198,Thermodynamics,86.6
+STU0198,Fluid Mechanics,80.6
+STU0198,Manufacturing,89.9
+STU0198,Mathematics,NA
+STU0198,Communication Skills,95.0
+STU0199,Data Structures,46.1
+STU0199,DBMS,46.1
+STU0199,Operating Systems,38.9
+STU0199,Mathematics,45.6
+STU0199,Communication Skills,56.5
+STU0200,Web Technologies,61.6
+STU0200,DBMS,60.6
+STU0200,Computer Networks,66.4
+STU0200,Mathematics,57.8
+STU0200,Communication Skills,56.5
+STU0201,Digital Electronics,42.8
+STU0201,Signals & Systems,45.2
+STU0201,Microprocessors,45.6
+STU0201,Mathematics,49.9
+STU0201,Communication Skills,44.1
+STU0202,Structural Analysis,58.3
+STU0202,Surveying,66.5
+STU0202,Geotechnical Engg,70.9
+STU0202,Mathematics,76.1
+STU0202,Communication Skills,53.6
+STU0203,Machine Learning,65.7
+STU0203,Python Programming,55.6
+STU0203,Statistics,49.0
+STU0203,Mathematics,55.2
+STU0203,Communication Skills,53.9
+STU0204,Data Structures,32.6
+STU0204,DBMS,41.2
+STU0204,Operating Systems,36.8
+STU0204,Mathematics,30.4
+STU0204,Communication Skills,56.0
+STU0205,Data Structures,47.8
+STU0205,DBMS,68.6
+STU0205,Operating Systems,62.7
+STU0205,Mathematics,63.7
+STU0205,Communication Skills,75.6
+STU0206,Data Structures,45.9
+STU0206,DBMS,54.5
+STU0206,Operating Systems,66.9
+STU0206,Mathematics,52.3
+STU0206,Communication Skills,54.3
+STU0207,Data Structures,33.7
+STU0207,DBMS,43.9
+STU0207,Operating Systems,36.7
+STU0207,Mathematics,44.8
+STU0207,Communication Skills,37.9
+STU0208,Digital Electronics,68.0
+STU0208,Signals & Systems,74.6
+STU0208,Microprocessors,66.4
+STU0208,Mathematics,70.8
+STU0208,Communication Skills,70.8
+STU0209,Data Structures,81.4
+STU0209,DBMS,74.5
+STU0209,Operating Systems,91.2
+STU0209,Mathematics,84.5
+STU0209,Communication Skills,75.8
+STU0210,Machine Learning,87.1
+STU0210,Python Programming,89.2
+STU0210,Statistics,81.7
+STU0210,Mathematics,76.0
+STU0210,Communication Skills,89.5
+STU0211,Digital Electronics,63.6
+STU0211,Signals & Systems,71.1
+STU0211,Microprocessors,51.9
+STU0211,Mathematics,54.8
+STU0211,Communication Skills,62.3
+STU0212,Machine Learning,56.0
+STU0212,Python Programming,58.0
+STU0212,Statistics,65.2
+STU0212,Mathematics,71.4
+STU0212,Communication Skills,76.2
+STU0213,Data Structures,74.1
+STU0213,DBMS,70.6
+STU0213,Operating Systems,85.4
+STU0213,Mathematics,80.7
+STU0213,Communication Skills,83.1
+STU0214,Thermodynamics,76.0
+STU0214,Fluid Mechanics,73.1
+STU0214,Manufacturing,66.3
+STU0214,Mathematics,91.3
+STU0214,Communication Skills,84.1
+STU-0215,Digital Electronics,86.3
+stu0215,Signals & Systems,71.1
+STU0215,Microprocessors,73.8
+STU0215,Mathematics,80.0
+STU0215,Communication Skills,82.4
+STU0216,Digital Electronics,48.5
+STU0216,Signals & Systems,54.2
+STU0216,Microprocessors,60.1
+STU0216,Mathematics,62.0
+STU0216,Communication Skills,47.4
+STU0217,Data Structures,62.1
+STU0217,DBMS,58.9
+STU0217,Operating Systems,56.1
+STU0217,Mathematics,63.1
+STU0217,Communication Skills,56.9
+STU0218,Data Structures,77.8
+STU0218,DBMS,68.4
+STU0218,Operating Systems,60.5
+STU0218,Mathematics,59.6
+STU0218,Communication Skills,72.1
+STU0219,Structural Analysis,49.3
+STU0219,Surveying,48.2
+STU0219,Geotechnical Engg,39.4
+STU0219,Mathematics,43.0
+STU0219,Communication Skills,33.9
+STU0220,Web Technologies,64.5
+STU0220,DBMS,64.2
+STU0220,Computer Networks,72.1
+STU0220,Mathematics,64.1
+STU0220,Communication Skills,73.2
+STU0221,Web Technologies,100.0
+STU0221,DBMS,94.1
+STU0221,Computer Networks,95.3
+STU0221,Mathematics,82.5
+STU0221,Communication Skills,85.8
+STU0222,Machine Learning,76.7
+STU0222,Python Programming,64.8
+STU0222,Statistics,59.1
+STU0222,Mathematics,72.0
+STU0222,Communication Skills,62.7
+STU0223,Digital Electronics,69.5
+STU0223,Signals & Systems,79.8
+stu0223,Microprocessors,86.5
+STU0223,Mathematics,83.5
+STU0223,Communication Skills,NA
+STU0224,Structural Analysis,67.2
+STU0224,Surveying,61.3
+STU0224,Geotechnical Engg,66.8
+STU0224,Mathematics,61.4
+STU0224,Communication Skills,79.6
+STU0225,Web Technologies,62.8
+STU0225,DBMS,65.9
+STU0225,Computer Networks,44.2
+STU0225,Mathematics,49.8
+STU0225,Communication Skills,63.7
+STU0226,Structural Analysis,67.4
+STU0226,Surveying,62.7
+STU0226,Geotechnical Engg,76.3
+STU0226,Mathematics,64.2
+STU0226,Communication Skills,80.4
+STU0227,Data Structures,48.6
+STU0227,DBMS,49.8
+STU0227,Operating Systems,43.3
+STU0227,Mathematics,60.4
+STU0227,Communication Skills,48.2
+STU0228,Machine Learning,44.8
+STU0228,Python Programming,47.5
+STU0228,Statistics,52.7
+STU0228,Mathematics,50.9
+STU0228,Communication Skills,64.4
+STU0229,Digital Electronics,80.3
+STU0229,Signals & Systems,60.3
+STU0229,Microprocessors,84.9
+STU0229,Mathematics,82.6
+STU0229,Communication Skills,75.5
+STU0230,Data Structures,89.7
+STU0230,DBMS,75.7
+STU0230,Operating Systems,82.5
+STU0230,Mathematics,74.3
+STU0230,Communication Skills,82.5
+STU0231,Data Structures,50.3
+STU0231,DBMS,58.0
+STU0231,Operating Systems,52.9
+STU0231,Mathematics,53.7
+STU0231,Communication Skills,49.3
+STU0232,Web Technologies,76.4
+STU0232,DBMS,73.3
+STU0232,Computer Networks,75.5
+STU0232,Mathematics,63.1
+STU0232,Communication Skills,74.3
+STU0233,Structural Analysis,64.8
+STU0233,Surveying,61.1
+STU0233,Geotechnical Engg,61.8
+STU0233,Mathematics,73.4
+STU0233,Communication Skills,52.8
+STU0234,Machine Learning,49.5
+STU0234,Python Programming,78.2
+STU0234,Statistics,84.3
+STU0234,Mathematics,76.0
+STU-0234,Communication Skills,64.2
+STU0235,Structural Analysis,76.8
+STU0235,Surveying,70.0
+STU0235,Geotechnical Engg,72.1
+STU0235,Mathematics,87.4
+STU0235,Communication Skills,71.6
+STU0236,Thermodynamics,72.3
+STU0236,Fluid Mechanics,75.4
+STU0236,Manufacturing,79.4
+STU0236,Mathematics,82.1
+STU0236,Communication Skills,70.9
+STU0237,Machine Learning,70.5
+STU0237,Python Programming,50.4
+STU0237,Statistics,75.9
+STU0237,Mathematics,61.5
+STU0237,Communication Skills,66.3
+STU0238,Thermodynamics,63.6
+STU0238,Fluid Mechanics,85.5
+STU0238,Manufacturing,96.5
+STU0238,Mathematics,76.6
+STU0238,Communication Skills,82.0
+STU0239,Data Structures,57.5
+STU0239,DBMS,65.7
+STU0239,Operating Systems,67.3
+STU0239,Mathematics,62.1
+STU0239,Communication Skills,77.1
+STU0240,Data Structures,80.4
+STU0240,DBMS,79.2
+STU0240,Operating Systems,74.7
+STU0240,Mathematics,63.3
+STU0240,Communication Skills,87.6
+STU0241,Thermodynamics,51.1
+STU0241,Fluid Mechanics,45.2
+STU0241,Manufacturing,62.4
+STU0241,Mathematics,58.0
+STU0241,Communication Skills,41.8
+STU0242,Thermodynamics,82.2
+STU0242,Fluid Mechanics,100.0
+STU0242,Manufacturing,89.6
+STU0242,Mathematics,81.7
+STU0242,Communication Skills,95.4
+STU0243,Data Structures,74.1
+STU0243,DBMS,68.5
+STU0243,Operating Systems,62.6
+STU0243,Mathematics,75.3
+STU0243,Communication Skills,72.6
+STU0244,Machine Learning,63.9
+stu_0244,Python Programming,74.5
+STU0244,Statistics,82.8
+STU0244,Mathematics,64.9
+STU0244,Communication Skills,71.5
+STU0245,Machine Learning,36.5
+STU0245,Python Programming,50.6
+STU0245,Statistics,41.4
+STU0245,Mathematics,47.9
+STU0245,Communication Skills,41.2
+STU0246,Thermodynamics,52.6
+STU0246,Fluid Mechanics,52.7
+STU-0246,Manufacturing,46.8
+STU0246,Mathematics,56.9
+STU0246,Communication Skills,51.2
+STU0247,Machine Learning,80.2
+STU0247,Python Programming,59.6
+STU0247,Statistics,79.7
+STU0247,Mathematics,63.7
+STU0247,Communication Skills,72.7
+STU0248,Web Technologies,69.1
+STU0248,DBMS,56.7
+STU0248,Computer Networks,49.0
+STU-0248,Mathematics,69.6
+STU0248,Communication Skills,57.0
+STU0249,Web Technologies,33.7
+STU0249,DBMS,32.3
+STU0249,Computer Networks,51.2
+STU0249,Mathematics,50.6
+STU0249,Communication Skills,32.5
+STU0250,Web Technologies,70.4
+STU0250,DBMS,76.4
+STU0250,Computer Networks,60.6
+STU0250,Mathematics,71.1
+stu0250,Communication Skills,79.5
+STU0251,Digital Electronics,48.8
+STU0251,Signals & Systems,52.3
+STU0251,Microprocessors,40.9
+STU0251,Mathematics,70.4
+STU0251,Communication Skills,59.6
+STU0252,Thermodynamics,79.7
+STU0252,Fluid Mechanics,75.7
+STU0252,Manufacturing,82.8
+STU0252,Mathematics,70.0
+STU0252,Communication Skills,63.2
+STU0253,Web Technologies,66.2
+STU0253,DBMS,71.9
+STU0253,Computer Networks,57.0
+STU0253,Mathematics,75.2
+STU0253,Communication Skills,56.0
+STU0254,Data Structures,71.8
+STU0254,DBMS,46.5
+STU0254,Operating Systems,55.3
+STU0254,Mathematics,64.1
+STU0254,Communication Skills,67.5
+STU0255,Data Structures,83.4
+STU0255,DBMS,72.6
+STU0255,Operating Systems,79.1
+STU0255,Mathematics,80.1
+STU0255,Communication Skills,69.9
+STU0256,Digital Electronics,39.0
+STU0256,Signals & Systems,59.1
+STU0256,Microprocessors,64.5
+STU0256,Mathematics,37.7
+STU0256,Communication Skills,49.8
+STU0257,Thermodynamics,65.3
+STU0257,Fluid Mechanics,51.9
+STU0257,Manufacturing,56.1
+STU0257,Mathematics,53.0
+STU0257,Communication Skills,47.1
+STU0258,Data Structures,68.9
+STU0258,DBMS,49.3
+STU0258,Operating Systems,67.6
+STU0258,Mathematics,70.7
+STU0258,Communication Skills,48.0
+STU0259,Data Structures,80.0
+STU0259,DBMS,77.1
+STU0259,Operating Systems,73.2
+STU0259,Mathematics,77.0
+STU0259,Communication Skills,70.3
+stu_0260,Machine Learning,50.9
+STU0260,Python Programming,44.9
+ STU0260 ,Statistics,43.8
+STU0260,Mathematics,47.4
+STU0260,Communication Skills,48.7
+STU0261,Data Structures,41.4
+STU0261,DBMS,53.8
+STU0261,Operating Systems,33.3
+STU0261,Mathematics,44.4
+STU0261,Communication Skills,43.4
+STU0262,Thermodynamics,70.3
+STU-0262,Fluid Mechanics,77.4
+STU0262,Manufacturing,65.2
+STU0262,Mathematics,70.5
+STU0262,Communication Skills,72.5
+STU0263,Web Technologies,55.9
+STU0263,DBMS,52.7
+STU0263,Computer Networks,60.9
+STU0263,Mathematics,53.2
+STU0263,Communication Skills,57.7
+STU0264,Data Structures,67.2
+STU0264,DBMS,61.4
+STU0264,Operating Systems,69.3
+STU0264,Mathematics,AB
+STU0264,Communication Skills,57.3
+STU0265,Structural Analysis,44.7
+STU0265,Surveying,31.5
+STU0265,Geotechnical Engg,51.7
+STU0265,Mathematics,34.6
+STU0265,Communication Skills,49.1
+STU0266,Data Structures,54.9
+STU0266,DBMS,71.0
+STU0266,Operating Systems,58.0
+STU0266,Mathematics,58.3
+STU0266,Communication Skills,51.5
+STU0267,Web Technologies,69.1
+STU0267,DBMS,53.1
+stu_0267,Computer Networks,59.5
+STU0267,Mathematics,68.2
+STU0267,Communication Skills,54.9
+STU0268,Data Structures,70.6
+STU0268,DBMS,75.0
+STU0268,Operating Systems,60.4
+STU0268,Mathematics,71.3
+STU0268,Communication Skills,72.5
+STU0269,Data Structures,59.1
+STU0269,DBMS,42.5
+STU-0269,Operating Systems,41.8
+STU0269,Mathematics,42.4
+STU0269,Communication Skills,53.0
+STU0270,Data Structures,74.4
+STU0270,DBMS,77.8
+STU0270,Operating Systems,60.9
+STU0270,Mathematics,81.0
+STU0270,Communication Skills,87.6
+STU0271,Data Structures,41.4
+STU0271,DBMS,41.7
+STU0271,Operating Systems,49.5
+STU0271,Mathematics,53.9
+STU0271,Communication Skills,56.0
+STU0272,Data Structures,55.7
+STU0272,DBMS,53.9
+STU0272,Operating Systems,55.7
+STU0272,Mathematics,55.3
+STU0272,Communication Skills,46.4
+STU0273,Data Structures,76.5
+STU0273,DBMS,71.5
+STU0273,Operating Systems,78.0
+STU0273,Mathematics,74.4
+STU0273,Communication Skills,90.6
+STU0274,Machine Learning,72.8
+STU0274,Python Programming,69.2
+STU0274,Statistics,75.1
+STU0274,Mathematics,71.6
+STU0274,Communication Skills,68.1
+STU0275,Digital Electronics,45.5
+STU0275,Signals & Systems,54.6
+STU0275,Microprocessors,47.7
+STU0275,Mathematics,44.9
+STU0275,Communication Skills,56.6
+STU0276,Web Technologies,56.0
+STU0276,DBMS,46.5
+STU0276,Computer Networks,71.4
+STU0276,Mathematics,NA
+STU0276,Communication Skills,59.3
+STU0277,Web Technologies,70.3
+STU0277,DBMS,74.0
+STU0277,Computer Networks,94.5
+STU0277,Mathematics,88.7
+STU0277,Communication Skills,77.2
+STU0278,Machine Learning,86.3
+STU0278,Python Programming,84.0
+STU0278,Statistics,90.2
+stu0278,Mathematics,93.4
+STU0278,Communication Skills,absent
+STU0279,Thermodynamics,44.4
+STU0279,Fluid Mechanics,61.7
+STU0279,Manufacturing,53.5
+STU0279,Mathematics,53.3
+STU0279,Communication Skills,51.2
+STU0280,Thermodynamics,64.2
+STU0280,Fluid Mechanics,50.7
+STU0280,Manufacturing,62.2
+STU0280,Mathematics,67.2
+STU0280,Communication Skills,52.9
+STU0281,Data Structures,55.1
+STU0281,DBMS,50.8
+STU0281,Operating Systems,61.3
+STU0281,Mathematics,57.8
+STU0281,Communication Skills,70.2
+STU0282,Data Structures,64.0
+STU0282,DBMS,58.3
+STU0282,Operating Systems,42.4
+STU0282,Mathematics,66.7
+STU0282,Communication Skills,62.0
+STU0283,Data Structures,65.6
+STU0283,DBMS,64.8
+STU0283,Operating Systems,51.1
+STU0283,Mathematics,52.2
+STU0283,Communication Skills,78.3
+STU0284,Data Structures,68.5
+STU0284,DBMS,54.7
+STU0284,Operating Systems,67.7
+STU0284,Mathematics,59.7
+STU0284,Communication Skills,68.1
+STU0285,Machine Learning,72.8
+STU0285,Python Programming,65.9
+STU0285,Statistics,73.9
+STU0285,Mathematics,57.8
+STU0285,Communication Skills,63.2
+STU0286,Web Technologies,79.6
+STU0286,DBMS,83.7
+STU0286,Computer Networks,80.6
+STU0286,Mathematics,86.7
+STU0286,Communication Skills,76.1
+STU0287,Data Structures,40.4
+STU0287,DBMS,59.3
+STU0287,Operating Systems,59.3
+STU0287,Mathematics,65.4
+STU0287,Communication Skills,56.9
+STU0288,Web Technologies,61.2
+STU0288,DBMS,52.3
+stu_0288,Computer Networks,53.3
+STU0288,Mathematics,54.7
+STU0288,Communication Skills,60.6
+STU0289,Machine Learning,83.1
+STU0289,Python Programming,61.4
+STU0289,Statistics,72.0
+STU0289,Mathematics,70.0
+STU0289,Communication Skills,61.9
+STU0290,Data Structures,50.8
+STU0290,DBMS,51.2
+ STU0290 ,Operating Systems,44.9
+STU0290,Mathematics,42.1
+STU0290,Communication Skills,50.8
+STU0291,Thermodynamics,70.4
+STU0291,Fluid Mechanics,73.2
+STU0291,Manufacturing,57.3
+STU0291,Mathematics,63.5
+STU0291,Communication Skills,63.0
+STU0292,Data Structures,60.2
+STU0292,DBMS,70.3
+STU0292,Operating Systems,55.6
+STU0292,Mathematics,61.1
+STU0292,Communication Skills,57.0
+STU0293,Structural Analysis,43.5
+STU0293,Surveying,41.5
+STU0293,Geotechnical Engg,58.0
+STU0293,Mathematics,51.6
+STU0293,Communication Skills,45.3
+STU0294,Data Structures,61.5
+STU0294,DBMS,56.5
+STU0294,Operating Systems,51.3
+STU0294,Mathematics,37.7
+STU0294,Communication Skills,56.6
+STU0295,Thermodynamics,73.3
+STU0295,Fluid Mechanics,90.4
+STU0295,Manufacturing,82.3
+STU0295,Mathematics,90.8
+STU0295,Communication Skills,83.6
+STU0296,Structural Analysis,46.5
+STU0296,Surveying,52.7
+STU0296,Geotechnical Engg,56.0
+STU0296,Mathematics,49.8
+STU0296,Communication Skills,76.9
+STU0297,Structural Analysis,74.7
+STU0297,Surveying,76.4
+STU0297,Geotechnical Engg,91.3
+STU0297,Mathematics,72.7
+STU0297,Communication Skills,84.9
+STU0298,Thermodynamics,65.4
+STU0298,Fluid Mechanics,71.6
+STU0298,Manufacturing,50.1
+STU0298,Mathematics,51.1
+STU0298,Communication Skills,62.5
+STU0299,Digital Electronics,75.1
+STU0299,Signals & Systems,64.2
+STU0299,Microprocessors,62.4
+STU0299,Mathematics,68.7
+STU0299,Communication Skills,68.6
+STU0300,Digital Electronics,92.1
+STU0300,Signals & Systems,85.9
+STU0300,Microprocessors,100.0
+STU0300,Mathematics,100.0
+STU0300,Communication Skills,72.5
+STU0301,Digital Electronics,45.7
+STU0301,Signals & Systems,43.1
+STU0301,Microprocessors,55.8
+STU0301,Mathematics,61.3
+STU0301,Communication Skills,53.0
+STU0302,Data Structures,37.5
+STU0302,DBMS,42.6
+STU0302,Operating Systems,27.3
+STU0302,Mathematics,34.8
+STU0302,Communication Skills,27.7
+STU0303,Machine Learning,86.9
+STU0303,Python Programming,84.9
+STU0303,Statistics,72.7
+STU0303,Mathematics,69.4
+STU0303,Communication Skills,69.6
+STU0304,Machine Learning,66.1
+STU0304,Python Programming,56.2
+STU0304,Statistics,52.8
+STU0304,Mathematics,47.5
+STU0304,Communication Skills,54.9
+STU0305,Thermodynamics,60.3
+STU0305,Fluid Mechanics,60.6
+STU0305,Manufacturing,71.6
+STU0305,Mathematics,67.8
+STU0305,Communication Skills,50.8
+STU0306,Machine Learning,61.9
+STU0306,Python Programming,61.8
+STU0306,Statistics,69.5
+STU0306,Mathematics,69.9
+STU0306,Communication Skills,58.2
+STU0307,Web Technologies,47.7
+STU0307,DBMS,63.5
+STU0307,Computer Networks,65.0
+STU0307,Mathematics,70.9
+STU0307,Communication Skills,72.0
+STU0308,Digital Electronics,59.7
+STU0308,Signals & Systems,50.3
+STU0308,Microprocessors,50.0
+STU0308,Mathematics,43.1
+STU0308,Communication Skills,60.6
+STU0309,Data Structures,59.8
+STU0309,DBMS,70.8
+STU0309,Operating Systems,54.3
+STU0309,Mathematics,57.1
+STU0309,Communication Skills,63.5
+STU0310,Data Structures,66.7
+STU0310,DBMS,73.5
+STU0310,Operating Systems,70.5
+STU0310,Mathematics,66.2
+STU0310,Communication Skills,61.1
+STU0311,Machine Learning,62.9
+STU0311,Python Programming,73.3
+STU0311,Statistics,49.4
+STU0311,Mathematics,49.0
+STU0311,Communication Skills,47.9
+STU0312,Web Technologies,58.3
+stu_0312,DBMS,43.3
+STU0312,Computer Networks,51.9
+STU0312,Mathematics,56.3
+STU0312,Communication Skills,59.8
+STU0313,Data Structures,63.0
+STU0313,DBMS,60.4
+STU0313,Operating Systems,52.9
+STU0313,Mathematics,64.4
+STU0313,Communication Skills,58.6
+STU0314,Web Technologies,36.5
+STU0314,DBMS,32.4
+STU0314,Computer Networks,48.5
+STU0314,Mathematics,45.4
+STU0314,Communication Skills,61.5
+STU0315,Web Technologies,59.6
+STU0315,DBMS,28.2
+STU0315,Computer Networks,55.2
+stu_0315,Mathematics,56.6
+STU0315,Communication Skills,64.4
+STU0316,Web Technologies,69.2
+STU0316,DBMS,62.6
+STU0316,Computer Networks,55.2
+STU0316,Mathematics,51.0
+STU0316,Communication Skills,46.4
+STU0317,Web Technologies,69.8
+STU0317,DBMS,51.5
+STU0317,Computer Networks,68.7
+STU0317,Mathematics,68.0
+STU0317,Communication Skills,45.6
+STU0318,Digital Electronics,62.6
+STU0318,Signals & Systems,65.1
+STU0318,Microprocessors,61.1
+STU0318,Mathematics,50.8
+STU0318,Communication Skills,62.0
+STU0319,Web Technologies,51.7
+STU0319,DBMS,83.3
+STU0319,Computer Networks,53.9
+STU0319,Mathematics,51.1
+STU0319,Communication Skills,58.2
+STU0320,Structural Analysis,59.1
+STU0320,Surveying,50.5
+STU0320,Geotechnical Engg,38.0
+STU0320,Mathematics,47.2
+STU0320,Communication Skills,44.0
+STU0321,Structural Analysis,63.8
+STU0321,Surveying,79.7
+STU0321,Geotechnical Engg,62.2
+STU0321,Mathematics,79.6
+STU0321,Communication Skills,78.7
+STU0322,Machine Learning,78.0
+STU0322,Python Programming,73.6
+STU0322,Statistics,67.3
+STU0322,Mathematics,96.3
+STU0322,Communication Skills,97.9
+STU0323,Web Technologies,61.9
+STU0323,DBMS,54.6
+stu0323,Computer Networks,53.6
+STU0323,Mathematics,57.2
+STU0323,Communication Skills,54.1
+STU0324,Machine Learning,64.3
+STU0324,Python Programming,75.8
+STU0324,Statistics,65.7
+STU0324,Mathematics,70.9
+STU0324,Communication Skills,65.7
+STU0325,Thermodynamics,55.4
+STU0325,Fluid Mechanics,70.7
+STU0325,Manufacturing,70.7
+STU0325,Mathematics,44.3
+STU0325,Communication Skills,58.2
+STU0326,Digital Electronics,83.6
+STU0326,Signals & Systems,73.3
+STU0326,Microprocessors,70.2
+STU0326,Mathematics,59.5
+STU0326,Communication Skills,36.8
+STU0327,Thermodynamics,72.8
+STU0327,Fluid Mechanics,77.0
+STU0327,Manufacturing,73.8
+STU0327,Mathematics,89.7
+STU0327,Communication Skills,96.7
+STU0328,Machine Learning,74.0
+STU0328,Python Programming,72.4
+STU0328,Statistics,70.1
+STU0328,Mathematics,78.4
+STU0328,Communication Skills,70.3
+STU-0329,Digital Electronics,33.5
+STU0329,Signals & Systems,49.3
+STU0329,Microprocessors,39.5
+STU0329,Mathematics,40.6
+STU0329,Communication Skills,41.6
+STU0330,Web Technologies,58.3
+STU0330,DBMS,70.3
+STU0330,Computer Networks,72.9
+STU0330,Mathematics,66.3
+STU0330,Communication Skills,79.9
+STU0331,Digital Electronics,91.7
+STU0331,Signals & Systems,72.9
+STU0331,Microprocessors,94.9
+STU0331,Mathematics,73.1
+STU0331,Communication Skills,79.6
+STU0332,Data Structures,53.1
+STU0332,DBMS,63.9
+STU0332,Operating Systems,76.2
+STU0332,Mathematics,57.3
+STU0332,Communication Skills,59.6
+STU0333,Digital Electronics,76.0
+STU0333,Signals & Systems,53.0
+STU0333,Microprocessors,76.3
+STU0333,Mathematics,85.3
+STU0333,Communication Skills,81.8
+STU0334,Thermodynamics,48.2
+STU0334,Fluid Mechanics,53.3
+STU0334,Manufacturing,58.2
+STU0334,Mathematics,45.8
+STU0334,Communication Skills,40.5
+STU0335,Data Structures,52.2
+STU0335,DBMS,49.1
+STU0335,Operating Systems,45.9
+STU0335,Mathematics,35.6
+STU0335,Communication Skills,52.3
+STU0336,Machine Learning,72.9
+STU0336,Python Programming,71.7
+STU0336,Statistics,64.6
+STU0336,Mathematics,61.4
+STU0336,Communication Skills,52.3
+STU0337,Data Structures,48.4
+STU0337,DBMS,53.3
+STU0337,Operating Systems,42.1
+STU0337,Mathematics,36.0
+STU0337,Communication Skills,52.0
+STU0338,Digital Electronics,57.4
+STU0338,Signals & Systems,49.0
+STU0338,Microprocessors,58.4
+STU0338,Mathematics,75.1
+STU0338,Communication Skills,65.4
+STU0339,Data Structures,73.5
+STU0339,DBMS,76.9
+STU0339,Operating Systems,96.3
+STU0339,Mathematics,74.6
+STU0339,Communication Skills,75.5
+STU0340,Structural Analysis,55.1
+STU0340,Surveying,37.1
+STU0340,Geotechnical Engg,41.8
+STU0340,Mathematics,47.0
+STU-0340,Communication Skills,40.5
+STU0341,Data Structures,39.7
+STU0341,DBMS,51.3
+STU0341,Operating Systems,56.0
+STU0341,Mathematics,37.9
+STU0341,Communication Skills,55.0
+STU0342,Structural Analysis,46.8
+STU0342,Surveying,63.7
+STU0342,Geotechnical Engg,45.2
+STU0342,Mathematics,38.8
+STU0342,Communication Skills,47.5
+STU0343,Thermodynamics,60.7
+STU0343,Fluid Mechanics,59.2
+STU0343,Manufacturing,71.0
+STU0343,Mathematics,53.3
+STU0343,Communication Skills,67.5
+STU0344,Machine Learning,63.3
+STU0344,Python Programming,58.5
+STU0344,Statistics,54.4
+STU0344,Mathematics,50.7
+STU0344,Communication Skills,64.1
+STU0345,Thermodynamics,89.6
+STU0345,Fluid Mechanics,75.2
+STU0345,Manufacturing,72.6
+STU-0345,Mathematics,79.5
+STU0345,Communication Skills,73.3
+STU0346,Thermodynamics,67.1
+STU0346,Fluid Mechanics,74.6
+STU0346,Manufacturing,75.6
+STU0346,Mathematics,79.0
+STU0346,Communication Skills,62.9
+STU0347,Structural Analysis,65.6
+STU0347,Surveying,64.8
+STU0347,Geotechnical Engg,68.9
+STU0347,Mathematics,75.8
+STU0347,Communication Skills,67.4
+STU0348,Data Structures,53.8
+STU0348,DBMS,63.1
+STU0348,Operating Systems,60.6
+STU0348,Mathematics,60.4
+STU0348,Communication Skills,70.1
+STU0349,Machine Learning,48.2
+STU0349,Python Programming,60.0
+STU0349,Statistics,56.1
+STU0349,Mathematics,79.0
+STU0349,Communication Skills,69.8
+STU0350,Data Structures,48.8
+STU0350,DBMS,58.7
+STU0350,Operating Systems,54.8
+STU0350,Mathematics,absent
+STU0350,Communication Skills,56.9
+STU0351,Machine Learning,55.5
+STU0351,Python Programming,64.9
+STU0351,Statistics,70.1
+STU0351,Mathematics,84.9
+stu0351,Communication Skills,69.2
+STU0352,Data Structures,50.8
+STU0352,DBMS,59.6
+STU0352,Operating Systems,44.8
+STU0352,Mathematics,33.8
+STU0352,Communication Skills,55.9
+STU0353,Machine Learning,76.9
+ STU0353 ,Python Programming,70.4
+STU0353,Statistics,62.1
+STU0353,Mathematics,72.1
+STU0353,Communication Skills,75.6
+STU0354,Machine Learning,81.5
+STU0354,Python Programming,86.5
+STU0354,Statistics,63.9
+STU0354,Mathematics,75.4
+STU0354,Communication Skills,77.3
+STU0355,Machine Learning,62.9
+STU0355,Python Programming,55.6
+STU0355,Statistics,57.8
+STU0355,Mathematics,48.7
+STU0355,Communication Skills,69.1
+STU0356,Machine Learning,58.9
+STU0356,Python Programming,64.5
+STU0356,Statistics,60.0
+STU0356,Mathematics,63.7
+STU0356,Communication Skills,56.1
+STU0357,Digital Electronics,70.2
+STU0357,Signals & Systems,60.2
+STU0357,Microprocessors,72.4
+STU0357,Mathematics,77.9
+STU0357,Communication Skills,69.3
+STU0358,Thermodynamics,32.9
+STU0358,Fluid Mechanics,23.4
+STU0358,Manufacturing,25.7
+STU0358,Mathematics,24.0
+STU0358,Communication Skills,41.9
+STU0359,Machine Learning,64.4
+STU0359,Python Programming,71.3
+STU0359,Statistics,59.7
+STU0359,Mathematics,64.4
+STU0359,Communication Skills,63.5
+STU0360,Machine Learning,56.6
+STU0360,Python Programming,68.5
+STU0360,Statistics,71.0
+STU0360,Mathematics,71.0
+STU0360,Communication Skills,60.1
+STU0361,Structural Analysis,63.3
+STU0361,Surveying,66.8
+STU0361,Geotechnical Engg,60.7
+STU0361,Mathematics,68.9
+STU0361,Communication Skills,51.5
+STU0362,Data Structures,74.0
+STU0362,DBMS,61.4
+STU0362,Operating Systems,58.4
+STU0362,Mathematics,70.5
+STU0362,Communication Skills,64.5
+STU0363,Data Structures,53.9
+STU0363,DBMS,70.7
+STU0363,Operating Systems,67.0
+STU0363,Mathematics,60.9
+STU0363,Communication Skills,72.7
+STU0364,Data Structures,58.3
+STU0364,DBMS,52.3
+STU0364,Operating Systems,45.7
+STU0364,Mathematics,31.9
+STU0364,Communication Skills,53.5
+STU0365,Digital Electronics,63.7
+STU0365,Signals & Systems,58.7
+STU0365,Microprocessors,48.6
+STU0365,Mathematics,67.1
+STU0365,Communication Skills,60.2
+STU0366,Web Technologies,62.4
+STU0366,DBMS,62.0
+STU0366,Computer Networks,78.3
+STU0366,Mathematics,56.2
+STU0366,Communication Skills,78.8
+STU0367,Digital Electronics,61.1
+STU0367,Signals & Systems,55.3
+STU0367,Microprocessors,74.1
+STU0367,Mathematics,67.7
+STU0367,Communication Skills,69.7
+STU0368,Digital Electronics,63.7
+STU0368,Signals & Systems,67.3
+STU0368,Microprocessors,59.1
+STU0368,Mathematics,65.2
+STU0368,Communication Skills,56.0
+STU0369,Web Technologies,76.0
+STU0369,DBMS,77.0
+STU0369,Computer Networks,79.1
+STU0369,Mathematics,89.2
+STU0369,Communication Skills,78.9
+STU0370,Thermodynamics,60.4
+STU0370,Fluid Mechanics,61.7
+STU0370,Manufacturing,55.2
+STU0370,Mathematics,44.5
+STU0370,Communication Skills,47.0
+STU0371,Digital Electronics,58.3
+STU0371,Signals & Systems,63.2
+STU0371,Microprocessors,61.3
+STU0371,Mathematics,51.9
+STU0371,Communication Skills,63.5
+STU0372,Data Structures,81.7
+STU0372,DBMS,82.4
+STU0372,Operating Systems,79.7
+STU0372,Mathematics,80.4
+STU0372,Communication Skills,79.0
+STU0373,Web Technologies,30.9
+STU0373,DBMS,44.6
+STU0373,Computer Networks,46.4
+STU0373,Mathematics,30.6
+STU0373,Communication Skills,33.4
+STU0374,Web Technologies,70.7
+STU0374,DBMS,68.4
+STU0374,Computer Networks,78.3
+STU0374,Mathematics,73.6
+STU0374,Communication Skills,63.7
+STU0375,Data Structures,60.8
+STU0375,DBMS,46.4
+STU0375,Operating Systems,76.4
+stu0375,Mathematics,46.5
+STU0375,Communication Skills,64.4
+STU0376,Data Structures,53.8
+STU0376,DBMS,61.9
+STU0376,Operating Systems,69.3
+STU0376,Mathematics,72.9
+STU0376,Communication Skills,66.6
+STU0377,Structural Analysis,61.6
+STU0377,Surveying,50.8
+STU0377,Geotechnical Engg,59.2
+STU0377,Mathematics,49.0
+STU0377,Communication Skills,43.1
+STU0378,Web Technologies,47.2
+STU0378,DBMS,61.7
+STU0378,Computer Networks,76.2
+STU0378,Mathematics,48.2
+STU0378,Communication Skills,51.9
+STU0379,Web Technologies,85.6
+STU0379,DBMS,73.5
+STU0379,Computer Networks,88.8
+STU0379,Mathematics,89.7
+STU0379,Communication Skills,85.6
+STU0380,Digital Electronics,44.8
+STU0380,Signals & Systems,40.2
+STU0380,Microprocessors,42.3
+STU0380,Mathematics,40.5
+STU0380,Communication Skills,42.3
+STU0381,Machine Learning,50.7
+STU0381,Python Programming,53.1
+STU0381,Statistics,36.3
+STU0381,Mathematics,46.9
+STU0381,Communication Skills,51.7
+STU0382,Structural Analysis,54.6
+STU0382,Surveying,51.3
+STU0382,Geotechnical Engg,33.3
+STU0382,Mathematics,43.1
+STU0382,Communication Skills,44.0
+STU0383,Thermodynamics,78.8
+STU0383,Fluid Mechanics,98.4
+STU0383,Manufacturing,93.6
+STU0383,Mathematics,79.2
+STU0383,Communication Skills,81.8
+STU0384,Machine Learning,53.8
+STU0384,Python Programming,AB
+STU0384,Statistics,69.6
+STU0384,Mathematics,63.2
+STU0384,Communication Skills,67.4
+STU0385,Web Technologies,64.4
+STU0385,DBMS,63.4
+STU0385,Computer Networks,58.4
+STU0385,Mathematics,69.9
+STU0385,Communication Skills,50.9
+STU0386,Structural Analysis,65.1
+ STU0386 ,Surveying,55.3
+STU0386,Geotechnical Engg,53.0
+STU0386,Mathematics,60.7
+ STU0386 ,Communication Skills,44.9
+STU0387,Digital Electronics,46.4
+STU0387,Signals & Systems,48.9
+STU0387,Microprocessors,70.4
+STU0387,Mathematics,37.4
+STU0387,Communication Skills,55.6
+STU0388,Structural Analysis,67.3
+STU0388,Surveying,71.7
+STU0388,Geotechnical Engg,60.4
+STU0388,Mathematics,67.3
+STU0388,Communication Skills,63.2
+STU0389,Data Structures,89.3
+STU0389,DBMS,90.6
+STU0389,Operating Systems,100.0
+STU0389,Mathematics,94.6
+STU0389,Communication Skills,71.9
+STU0390,Thermodynamics,75.1
+STU0390,Fluid Mechanics,71.3
+STU0390,Manufacturing,71.2
+STU0390,Mathematics,79.8
+STU0390,Communication Skills,76.5
+STU0391,Digital Electronics,54.1
+STU0391,Signals & Systems,42.3
+STU0391,Microprocessors,37.6
+STU0391,Mathematics,56.0
+STU0391,Communication Skills,65.6
+STU0392,Data Structures,70.6
+STU0392,DBMS,64.2
+STU0392,Operating Systems,87.9
+STU0392,Mathematics,61.9
+STU0392,Communication Skills,65.8
+STU0393,Machine Learning,60.2
+STU0393,Python Programming,34.2
+STU0393,Statistics,53.3
+STU0393,Mathematics,69.4
+STU0393,Communication Skills,53.8
+STU0394,Digital Electronics,46.6
+STU0394,Signals & Systems,30.5
+STU0394,Microprocessors,24.8
+STU0394,Mathematics,43.0
+STU0394,Communication Skills,36.3
+STU0395,Data Structures,74.7
+STU0395,DBMS,77.9
+STU0395,Operating Systems,83.1
+STU0395,Mathematics,65.3
+STU0395,Communication Skills,72.8
+STU-0396,Web Technologies,65.2
+STU0396,DBMS,63.9
+STU0396,Computer Networks,78.8
+STU0396,Mathematics,83.5
+STU0396,Communication Skills,73.6
+STU0397,Thermodynamics,58.3
+STU0397,Fluid Mechanics,90.2
+STU0397,Manufacturing,86.3
+STU0397,Mathematics,74.5
+STU0397,Communication Skills,87.1
+STU0398,Web Technologies,58.9
+STU0398,DBMS,60.2
+STU0398,Computer Networks,41.4
+STU0398,Mathematics,48.6
+STU0398,Communication Skills,53.7
+STU0399,Web Technologies,60.3
+STU0399,DBMS,52.9
+STU0399,Computer Networks,63.7
+STU0399,Mathematics,62.7
+STU0399,Communication Skills,80.1
+STU0400,Web Technologies,81.9
+STU0400,DBMS,70.9
+STU0400,Computer Networks,70.2
+STU0400,Mathematics,67.6
+STU0400,Communication Skills,73.5
+ STU0401 ,Web Technologies,77.5
+STU0401,DBMS,63.1
+STU0401,Computer Networks,75.8
+STU0401,Mathematics,70.1
+STU0401,Communication Skills,78.9
+STU0402,Structural Analysis,62.1
+STU0402,Surveying,60.3
+STU0402,Geotechnical Engg,42.8
+STU0402,Mathematics,70.9
+STU0402,Communication Skills,66.7
+STU0403,Thermodynamics,43.7
+STU0403,Fluid Mechanics,48.3
+STU0403,Manufacturing,26.6
+STU0403,Mathematics,37.6
+STU0403,Communication Skills,48.7
+STU0404,Data Structures,73.7
+STU0404,DBMS,64.2
+STU0404,Operating Systems,43.0
+STU0404,Mathematics,45.9
+STU0404,Communication Skills,65.8
+STU0405,Structural Analysis,58.5
+STU0405,Surveying,69.0
+STU0405,Geotechnical Engg,63.1
+STU0405,Mathematics,67.6
+STU0405,Communication Skills,NA
+STU0406,Thermodynamics,38.2
+STU0406,Fluid Mechanics,52.3
+STU0406,Manufacturing,41.8
+STU0406,Mathematics,44.0
+STU0406,Communication Skills,44.5
+STU0407,Web Technologies,57.4
+STU0407,DBMS,67.9
+STU0407,Computer Networks,58.4
+STU0407,Mathematics,61.0
+STU0407,Communication Skills,68.3
+STU0408,Thermodynamics,63.4
+STU0408,Fluid Mechanics,77.3
+STU0408,Manufacturing,64.9
+STU0408,Mathematics,78.2
+STU0408,Communication Skills,55.2
+STU0409,Data Structures,66.8
+STU0409,DBMS,76.5
+STU0409,Operating Systems,78.6
+STU0409,Mathematics,66.1
+STU0409,Communication Skills,58.9
+STU0410,Structural Analysis,70.8
+STU0410,Surveying,68.9
+STU0410,Geotechnical Engg,72.7
+STU0410,Mathematics,67.3
+STU0410,Communication Skills,54.5
+STU0411,Digital Electronics,61.0
+STU0411,Signals & Systems,62.1
+STU0411,Microprocessors,57.9
+STU0411,Mathematics,70.6
+STU0411,Communication Skills,58.6
+STU0412,Digital Electronics,39.8
+STU0412,Signals & Systems,28.3
+STU0412,Microprocessors,43.8
+STU0412,Mathematics,49.2
+STU0412,Communication Skills,42.4
+STU0413,Data Structures,58.4
+STU0413,DBMS,60.9
+STU0413,Operating Systems,62.2
+STU0413,Mathematics,55.2
+STU0413,Communication Skills,56.5
+STU0414,Thermodynamics,71.9
+STU0414,Fluid Mechanics,66.7
+STU0414,Manufacturing,87.7
+STU0414,Mathematics,68.5
+STU0414,Communication Skills,75.9
+STU0415,Data Structures,52.2
+STU0415,DBMS,50.9
+STU0415,Operating Systems,55.3
+STU0415,Mathematics,52.9
+STU0415,Communication Skills,53.6
+STU0416,Data Structures,59.5
+STU0416,DBMS,57.1
+STU0416,Operating Systems,63.0
+STU0416,Mathematics,54.9
+STU0416,Communication Skills,55.2
+STU0417,Data Structures,46.3
+STU0417,DBMS,39.1
+STU0417,Operating Systems,42.4
+STU0417,Mathematics,31.1
+STU0417,Communication Skills,45.9
+STU0418,Digital Electronics,78.4
+STU0418,Signals & Systems,74.4
+STU0418,Microprocessors,76.9
+STU0418,Mathematics,76.9
+STU0418,Communication Skills,76.7
+STU0419,Data Structures,67.3
+STU-0419,DBMS,80.2
+STU0419,Operating Systems,68.3
+STU0419,Mathematics,76.3
+STU0419,Communication Skills,59.3
+STU0420,Structural Analysis,72.3
+STU0420,Surveying,62.3
+STU0420,Geotechnical Engg,73.4
+STU0420,Mathematics,64.6
+STU0420,Communication Skills,63.6
+STU0421,Digital Electronics,68.6
+STU0421,Signals & Systems,83.4
+STU0421,Microprocessors,68.5
+STU0421,Mathematics,76.2
+STU0421,Communication Skills,79.4
+STU0422,Data Structures,69.3
+STU0422,DBMS,74.0
+STU0422,Operating Systems,68.2
+STU0422,Mathematics,63.2
+STU0422,Communication Skills,75.5
+STU0423,Data Structures,62.3
+STU0423,DBMS,72.7
+STU0423,Operating Systems,63.8
+STU0423,Mathematics,66.8
+STU0423,Communication Skills,64.3
+STU0424,Data Structures,59.2
+STU0424,DBMS,62.1
+STU0424,Operating Systems,64.9
+STU0424,Mathematics,58.3
+STU0424,Communication Skills,70.3
+STU0425,Machine Learning,57.3
+STU0425,Python Programming,64.0
+STU0425,Statistics,59.1
+STU0425,Mathematics,61.0
+STU0425,Communication Skills,52.4
+STU0426,Thermodynamics,98.3
+STU0426,Fluid Mechanics,91.9
+STU0426,Manufacturing,87.3
+STU0426,Mathematics,95.5
+STU0426,Communication Skills,91.9
+STU0427,Data Structures,63.0
+STU0427,DBMS,77.3
+STU0427,Operating Systems,81.7
+STU0427,Mathematics,56.7
+STU0427,Communication Skills,59.9
+STU0428,Thermodynamics,47.8
+STU0428,Fluid Mechanics,41.5
+STU0428,Manufacturing,53.6
+stu0428,Mathematics,53.9
+STU0428,Communication Skills,58.0
+STU0429,Data Structures,53.9
+STU0429,DBMS,63.4
+STU0429,Operating Systems,82.9
+STU0429,Mathematics,62.0
+STU0429,Communication Skills,47.5
+STU0430,Thermodynamics,50.2
+STU0430,Fluid Mechanics,55.4
+STU0430,Manufacturing,50.1
+STU0430,Mathematics,48.3
+STU0430,Communication Skills,44.2
+STU0431,Structural Analysis,86.4
+STU0431,Surveying,83.8
+STU0431,Geotechnical Engg,91.1
+STU0431,Mathematics,89.4
+STU0431,Communication Skills,74.9
+STU0432,Digital Electronics,40.1
+STU0432,Signals & Systems,53.8
+STU0432,Microprocessors,54.8
+STU0432,Mathematics,55.6
+STU0432,Communication Skills,52.7
+STU0433,Digital Electronics,53.0
+STU0433,Signals & Systems,59.4
+STU0433,Microprocessors,83.5
+STU0433,Mathematics,52.9
+STU0433,Communication Skills,67.9
+STU0434,Thermodynamics,62.0
+STU0434,Fluid Mechanics,66.3
+STU0434,Manufacturing,80.5
+STU0434,Mathematics,70.3
+STU0434,Communication Skills,70.5
+STU0435,Data Structures,73.5
+stu_0435,DBMS,70.7
+STU0435,Operating Systems,61.2
+STU0435,Mathematics,64.8
+STU0435,Communication Skills,69.9
+STU0436,Data Structures,66.0
+STU0436,DBMS,56.6
+STU0436,Operating Systems,77.5
+STU0436,Mathematics,46.2
+STU0436,Communication Skills,57.7
+STU0437,Data Structures,52.4
+STU0437,DBMS,60.1
+STU0437,Operating Systems,63.3
+STU0437,Mathematics,65.8
+STU0437,Communication Skills,69.2
+STU0438,Machine Learning,66.1
+STU0438,Python Programming,58.6
+STU0438,Statistics,63.5
+STU0438,Mathematics,53.8
+STU0438,Communication Skills,64.9
+STU0439,Digital Electronics,44.1
+STU0439,Signals & Systems,57.2
+STU0439,Microprocessors,62.7
+STU0439,Mathematics,57.0
+STU0439,Communication Skills,49.8
+STU0440,Digital Electronics,63.3
+STU0440,Signals & Systems,54.1
+STU0440,Microprocessors,62.6
+STU0440,Mathematics,47.0
+stu0440,Communication Skills,51.7
+STU0441,Thermodynamics,85.9
+STU0441,Fluid Mechanics,72.8
+STU0441,Manufacturing,80.8
+STU0441,Mathematics,85.4
+STU0441,Communication Skills,82.4
+STU0442,Data Structures,46.7
+STU0442,DBMS,64.9
+STU0442,Operating Systems,62.5
+STU0442,Mathematics,46.2
+STU0442,Communication Skills,69.0
+STU0443,Digital Electronics,52.3
+STU0443,Signals & Systems,58.3
+STU0443,Microprocessors,49.2
+STU0443,Mathematics,45.2
+STU0443,Communication Skills,57.7
+STU0444,Data Structures,63.4
+STU0444,DBMS,60.6
+STU0444,Operating Systems,54.3
+STU0444,Mathematics,53.6
+STU0444,Communication Skills,54.7
+STU0445,Data Structures,77.1
+STU0445,DBMS,71.4
+STU0445,Operating Systems,78.9
+STU-0445,Mathematics,76.9
+STU0445,Communication Skills,65.3
+STU0446,Digital Electronics,74.2
+STU0446,Signals & Systems,82.2
+STU0446,Microprocessors,61.9
+STU0446,Mathematics,74.6
+STU0446,Communication Skills,66.0
+STU0447,Structural Analysis,55.6
+STU0447,Surveying,64.1
+STU0447,Geotechnical Engg,62.7
+STU0447,Mathematics,72.6
+STU0447,Communication Skills,57.4
+STU0448,Machine Learning,55.1
+STU-0448,Python Programming,57.0
+STU0448,Statistics,65.4
+STU0448,Mathematics,AB
+STU0448,Communication Skills,57.6
+STU0449,Data Structures,84.9
+STU0449,DBMS,60.1
+STU0449,Operating Systems,71.3
+STU0449,Mathematics,77.4
+STU0449,Communication Skills,66.1
+STU0450,Machine Learning,51.6
+STU0450,Python Programming,53.3
+STU0450,Statistics,51.0
+STU0450,Mathematics,45.3
+STU0450,Communication Skills,63.7
+STU0451,Data Structures,61.6
+STU0451,DBMS,59.0
+STU0451,Operating Systems,56.6
+STU0451,Mathematics,60.2
+STU0451,Communication Skills,55.9
+STU0452,Thermodynamics,78.8
+STU0452,Fluid Mechanics,77.0
+STU0452,Manufacturing,55.5
+STU0452,Mathematics,76.6
+STU0452,Communication Skills,78.4
+STU0453,Digital Electronics,69.7
+STU0453,Signals & Systems,59.4
+STU0453,Microprocessors,62.4
+STU0453,Mathematics,63.4
+STU0453,Communication Skills,absent
+STU0454,Data Structures,41.2
+STU0454,DBMS,57.0
+STU0454,Operating Systems,40.9
+STU0454,Mathematics,64.4
+STU0454,Communication Skills,48.6
+STU0455,Data Structures,63.6
+STU0455,DBMS,45.5
+STU0455,Operating Systems,43.3
+STU0455,Mathematics,46.7
+STU0455,Communication Skills,47.0
+STU0456,Data Structures,70.7
+STU0456,DBMS,74.2
+STU0456,Operating Systems,68.4
+STU0456,Mathematics,50.9
+STU0456,Communication Skills,61.0
+STU0457,Structural Analysis,77.1
+STU0457,Surveying,76.7
+STU0457,Geotechnical Engg,76.2
+STU0457,Mathematics,66.6
+STU0457,Communication Skills,91.5
+STU0458,Web Technologies,29.0
+STU0458,DBMS,31.6
+STU0458,Computer Networks,37.7
+STU0458,Mathematics,31.0
+STU0458,Communication Skills,37.2
+STU0459,Thermodynamics,54.3
+STU0459,Fluid Mechanics,70.8
+STU0459,Manufacturing,53.5
+STU0459,Mathematics,59.4
+STU0459,Communication Skills,77.8
+STU0460,Digital Electronics,40.8
+STU0460,Signals & Systems,42.7
+STU0460,Microprocessors,36.8
+ STU0460 ,Mathematics,40.2
+STU0460,Communication Skills,57.6
+STU0461,Machine Learning,65.6
+STU0461,Python Programming,52.4
+STU0461,Statistics,52.4
+STU0461,Mathematics,62.0
+STU0461,Communication Skills,46.3
+STU0462,Data Structures,56.2
+STU0462,DBMS,62.2
+STU0462,Operating Systems,49.0
+STU0462,Mathematics,62.2
+STU0462,Communication Skills,36.0
+STU0463,Structural Analysis,68.6
+STU0463,Surveying,63.6
+STU0463,Geotechnical Engg,60.0
+STU0463,Mathematics,58.2
+STU-0463,Communication Skills,56.7
+STU0464,Web Technologies,63.4
+STU0464,DBMS,66.5
+STU0464,Computer Networks,49.8
+STU0464,Mathematics,46.6
+STU0464,Communication Skills,59.8
+STU0465,Machine Learning,54.3
+STU0465,Python Programming,55.7
+STU0465,Statistics,70.1
+ STU0465 ,Mathematics,69.3
+STU0465,Communication Skills,56.4
+STU0466,Digital Electronics,63.2
+STU0466,Signals & Systems,53.2
+STU0466,Microprocessors,51.6
+STU0466,Mathematics,65.0
+STU0466,Communication Skills,61.6
+STU0467,Digital Electronics,33.9
+STU0467,Signals & Systems,52.9
+STU0467,Microprocessors,41.2
+STU0467,Mathematics,40.4
+STU0467,Communication Skills,44.8
+STU0468,Structural Analysis,74.9
+STU0468,Surveying,65.6
+STU0468,Geotechnical Engg,73.3
+STU0468,Mathematics,76.9
+STU0468,Communication Skills,75.5
+STU0469,Data Structures,87.7
+STU0469,DBMS,61.7
+STU0469,Operating Systems,65.6
+STU0469,Mathematics,84.3
+STU0469,Communication Skills,73.3
+STU0470,Machine Learning,63.0
+STU0470,Python Programming,92.1
+STU0470,Statistics,59.8
+STU0470,Mathematics,74.4
+STU0470,Communication Skills,66.7
+STU0471,Web Technologies,32.8
+STU0471,DBMS,NA
+STU0471,Computer Networks,42.0
+STU0471,Mathematics,44.2
+STU0471,Communication Skills,39.6
+STU0472,Machine Learning,59.0
+STU0472,Python Programming,64.6
+STU0472,Statistics,64.3
+STU0472,Mathematics,66.7
+STU0472,Communication Skills,70.5
+STU0473,Data Structures,67.6
+STU0473,DBMS,72.3
+STU0473,Operating Systems,67.6
+STU0473,Mathematics,72.4
+STU0473,Communication Skills,67.3
+STU0474,Data Structures,50.3
+STU0474,DBMS,57.8
+STU0474,Operating Systems,51.4
+STU0474,Mathematics,37.4
+STU0474,Communication Skills,65.3
+stu_0475,Data Structures,59.9
+STU0475,DBMS,52.4
+STU0475,Operating Systems,67.3
+STU0475,Mathematics,70.5
+STU0475,Communication Skills,51.1
+STU0476,Web Technologies,58.9
+STU0476,DBMS,69.3
+STU0476,Computer Networks,69.3
+STU0476,Mathematics,67.5
+STU0476,Communication Skills,62.4
+STU0477,Web Technologies,80.9
+STU0477,DBMS,77.0
+STU0477,Computer Networks,80.0
+STU0477,Mathematics,87.3
+STU0477,Communication Skills,98.5
+STU0478,Machine Learning,93.4
+STU0478,Python Programming,90.2
+STU0478,Statistics,65.1
+STU0478,Mathematics,91.9
+STU0478,Communication Skills,86.6
+STU0479,Digital Electronics,31.8
+STU0479,Signals & Systems,28.8
+STU0479,Microprocessors,45.1
+STU0479,Mathematics,49.0
+STU0479,Communication Skills,38.2
+STU0480,Web Technologies,86.9
+STU0480,DBMS,97.2
+STU0480,Computer Networks,80.3
+STU0480,Mathematics,99.5
+STU0480,Communication Skills,92.5
+STU0481,Web Technologies,56.3
+STU0481,DBMS,56.6
+STU0481,Computer Networks,53.5
+STU0481,Mathematics,40.0
+STU0481,Communication Skills,50.3
+STU0482,Data Structures,76.2
+STU0482,DBMS,64.4
+STU0482,Operating Systems,68.5
+stu0482,Mathematics,75.6
+STU0482,Communication Skills,74.6
+STU0483,Machine Learning,74.5
+STU0483,Python Programming,64.8
+STU0483,Statistics,60.5
+STU0483,Mathematics,78.6
+STU0483,Communication Skills,70.4
+STU0484,Web Technologies,34.6
+STU0484,DBMS,39.8
+STU0484,Computer Networks,52.4
+STU0484,Mathematics,64.6
+STU0484,Communication Skills,55.2
+STU0485,Data Structures,61.3
+STU0485,DBMS,63.5
+STU0485,Operating Systems,83.2
+STU0485,Mathematics,82.7
+STU0485,Communication Skills,67.9
+STU0486,Web Technologies,58.2
+STU0486,DBMS,63.0
+STU0486,Computer Networks,65.0
+STU0486,Mathematics,57.9
+STU0486,Communication Skills,65.7
+STU0487,Machine Learning,66.9
+STU0487,Python Programming,68.2
+STU0487,Statistics,75.7
+stu0487,Mathematics,73.0
+STU0487,Communication Skills,70.8
+STU0488,Data Structures,67.7
+STU0488,DBMS,52.9
+STU0488,Operating Systems,71.9
+STU0488,Mathematics,68.6
+STU0488,Communication Skills,66.1
+STU0489,Machine Learning,82.6
+STU0489,Python Programming,75.9
+STU0489,Statistics,80.5
+STU0489,Mathematics,83.3
+STU0489,Communication Skills,67.8
+STU0490,Machine Learning,61.1
+STU0490,Python Programming,58.1
+STU0490,Statistics,60.3
+STU0490,Mathematics,58.7
+STU0490,Communication Skills,59.9
+STU0491,Digital Electronics,71.0
+STU0491,Signals & Systems,73.8
+STU0491,Microprocessors,65.5
+STU0491,Mathematics,57.1
+STU0491,Communication Skills,63.8
+STU0492,Digital Electronics,71.2
+STU0492,Signals & Systems,66.4
+STU0492,Microprocessors,75.9
+STU0492,Mathematics,77.2
+STU0492,Communication Skills,66.9
+STU0493,Digital Electronics,78.8
+STU0493,Signals & Systems,62.6
+stu0493,Microprocessors,76.2
+STU0493,Mathematics,66.6
+STU0493,Communication Skills,63.0
+STU0494,Web Technologies,73.2
+STU0494,DBMS,70.5
+STU0494,Computer Networks,66.9
+STU0494,Mathematics,62.0
+STU0494,Communication Skills,72.8
+STU0495,Thermodynamics,52.4
+STU0495,Fluid Mechanics,54.4
+STU0495,Manufacturing,53.7
+STU0495,Mathematics,44.4
+STU0495,Communication Skills,51.4
+STU0496,Machine Learning,35.6
+STU0496,Python Programming,41.0
+STU0496,Statistics,44.7
+STU0496,Mathematics,AB
+stu0496,Communication Skills,45.3
+STU0497,Web Technologies,58.6
+STU0497,DBMS,61.8
+STU0497,Computer Networks,48.3
+STU0497,Mathematics,53.9
+STU0497,Communication Skills,58.6
+STU0498,Digital Electronics,45.7
+STU0498,Signals & Systems,57.6
+STU0498,Microprocessors,49.8
+STU0498,Mathematics,53.1
+STU0498,Communication Skills,56.5
+STU0499,Web Technologies,66.9
+STU0499,DBMS,76.3
+STU0499,Computer Networks,70.5
+STU0499,Mathematics,66.7
+STU0499,Communication Skills,86.3
+STU0500,Machine Learning,70.2
+STU0500,Python Programming,AB
+STU0500,Statistics,80.4
+STU0500,Mathematics,75.8
+STU0500,Communication Skills,82.5
+STU0501,Digital Electronics,64.1
+STU0501,Signals & Systems,76.9
+STU0501,Microprocessors,66.3
+STU0501,Mathematics,50.6
+STU0501,Communication Skills,57.1
+STU0502,Thermodynamics,81.6
+STU0502,Fluid Mechanics,64.7
+STU0502,Manufacturing,76.1
+STU0502,Mathematics,AB
+STU0502,Communication Skills,83.2
+STU0503,Structural Analysis,85.6
+STU0503,Surveying,81.0
+STU0503,Geotechnical Engg,71.6
+STU0503,Mathematics,78.7
+STU0503,Communication Skills,81.6
+STU0504,Machine Learning,59.7
+STU0504,Python Programming,61.1
+STU0504,Statistics,80.5
+STU0504,Mathematics,67.0
+STU0504,Communication Skills,72.6
+STU0505,Machine Learning,45.0
+STU0505,Python Programming,40.6
+STU0505,Statistics,64.6
+STU0505,Mathematics,51.0
+STU0505,Communication Skills,47.9
+STU0506,Thermodynamics,75.6
+STU0506,Fluid Mechanics,87.0
+STU0506,Manufacturing,83.6
+STU0506,Mathematics,62.7
+STU0506,Communication Skills,71.8
+STU0507,Web Technologies,62.0
+STU0507,DBMS,66.6
+STU0507,Computer Networks,51.9
+STU0507,Mathematics,69.5
+STU0507,Communication Skills,58.6
+STU0508,Thermodynamics,50.7
+STU0508,Fluid Mechanics,54.9
+STU0508,Manufacturing,70.6
+STU0508,Mathematics,69.3
+STU0508,Communication Skills,57.8
+STU0509,Machine Learning,56.2
+STU0509,Python Programming,52.3
+STU0509,Statistics,65.9
+STU0509,Mathematics,45.1
+STU0509,Communication Skills,67.1
+STU0510,Data Structures,54.0
+STU0510,DBMS,42.3
+STU0510,Operating Systems,51.6
+STU0510,Mathematics,60.7
+STU0510,Communication Skills,37.6
+STU0511,Data Structures,47.7
+STU0511,DBMS,55.1
+STU0511,Operating Systems,42.1
+STU0511,Mathematics,43.0
+STU0511,Communication Skills,39.5
+STU0512,Thermodynamics,71.7
+STU0512,Fluid Mechanics,68.1
+STU0512,Manufacturing,75.6
+STU0512,Mathematics,67.1
+STU0512,Communication Skills,64.5
+STU0513,Data Structures,61.4
+STU0513,DBMS,49.2
+STU0513,Operating Systems,57.4
+STU0513,Mathematics,absent
+STU0513,Communication Skills,64.5
+STU0514,Web Technologies,91.1
+STU0514,DBMS,100.0
+STU0514,Computer Networks,100.0
+STU0514,Mathematics,98.5
+STU0514,Communication Skills,92.5
+STU0515,Web Technologies,49.0
+STU0515,DBMS,44.3
+STU0515,Computer Networks,46.7
+STU0515,Mathematics,61.8
+STU0515,Communication Skills,55.4
+STU0516,Data Structures,45.4
+STU0516,DBMS,46.3
+STU0516,Operating Systems,36.4
+STU0516,Mathematics,47.9
+STU0516,Communication Skills,42.7
+STU0517,Web Technologies,69.4
+STU0517,DBMS,60.2
+STU0517,Computer Networks,65.4
+STU0517,Mathematics,71.3
+STU0517,Communication Skills,69.6
+ STU0518 ,Digital Electronics,76.0
+STU0518,Signals & Systems,67.0
+STU0518,Microprocessors,83.2
+STU0518,Mathematics,79.2
+STU0518,Communication Skills,91.9
+STU0519,Data Structures,71.2
+stu_0519,DBMS,62.5
+STU0519,Operating Systems,82.8
+STU0519,Mathematics,65.2
+STU0519,Communication Skills,62.6
+STU0520,Thermodynamics,80.6
+STU0520,Fluid Mechanics,67.1
+STU0520,Manufacturing,73.9
+STU0520,Mathematics,73.0
+STU0520,Communication Skills,72.8
+STU0521,Thermodynamics,49.0
+STU0521,Fluid Mechanics,37.7
+STU0521,Manufacturing,39.0
+STU0521,Mathematics,37.1
+STU0521,Communication Skills,43.1
+STU0522,Web Technologies,50.1
+STU0522,DBMS,53.2
+STU0522,Computer Networks,56.0
+STU0522,Mathematics,60.7
+STU0522,Communication Skills,63.1
+STU0523,Data Structures,49.1
+STU0523,DBMS,52.2
+STU0523,Operating Systems,66.1
+STU0523,Mathematics,55.4
+STU0523,Communication Skills,59.8
+STU0524,Machine Learning,49.1
+STU0524,Python Programming,58.4
+STU0524,Statistics,45.0
+STU0524,Mathematics,38.7
+STU0524,Communication Skills,32.2
+STU0525,Data Structures,63.1
+STU0525,DBMS,65.0
+STU0525,Operating Systems,62.3
+STU0525,Mathematics,64.3
+STU0525,Communication Skills,61.9
+STU0526,Web Technologies,45.9
+STU0526,DBMS,33.2
+stu0526,Computer Networks,50.1
+STU0526,Mathematics,41.7
+STU0526,Communication Skills,31.0
+STU0527,Structural Analysis,43.8
+STU0527,Surveying,67.7
+STU0527,Geotechnical Engg,53.4
+STU0527,Mathematics,34.9
+STU0527,Communication Skills,54.8
+STU0528,Structural Analysis,50.4
+STU0528,Surveying,41.8
+STU0528,Geotechnical Engg,61.5
+STU0528,Mathematics,66.4
+STU0528,Communication Skills,62.7
+STU0529,Digital Electronics,40.6
+STU0529,Signals & Systems,54.9
+STU0529,Microprocessors,47.0
+STU0529,Mathematics,absent
+STU0529,Communication Skills,54.1
+STU0530,Web Technologies,AB
+STU0530,DBMS,63.5
+STU0530,Computer Networks,59.2
+STU0530,Mathematics,58.3
+STU0530,Communication Skills,56.3
+STU0531,Digital Electronics,68.7
+STU0531,Signals & Systems,72.9
+STU0531,Microprocessors,59.5
+STU0531,Mathematics,66.4
+STU0531,Communication Skills,68.7
+STU0532,Digital Electronics,82.8
+STU0532,Signals & Systems,77.5
+STU0532,Microprocessors,71.1
+STU0532,Mathematics,62.3
+STU0532,Communication Skills,68.5
+STU0533,Web Technologies,70.1
+STU0533,DBMS,82.2
+STU0533,Computer Networks,70.9
+STU0533,Mathematics,73.3
+STU0533,Communication Skills,70.6
+STU0534,Digital Electronics,69.1
+STU0534,Signals & Systems,69.7
+STU0534,Microprocessors,71.4
+STU0534,Mathematics,62.8
+STU0534,Communication Skills,64.8
+STU0535,Data Structures,62.1
+STU0535,DBMS,58.8
+STU0535,Operating Systems,67.0
+STU0535,Mathematics,71.5
+STU0535,Communication Skills,63.0
+STU0536,Data Structures,57.7
+STU0536,DBMS,67.2
+STU0536,Operating Systems,76.5
+STU0536,Mathematics,66.7
+STU0536,Communication Skills,60.6
+STU0537,Machine Learning,73.2
+STU0537,Python Programming,72.3
+STU0537,Statistics,59.5
+STU0537,Mathematics,66.6
+STU0537,Communication Skills,56.4
+STU0538,Data Structures,59.1
+STU0538,DBMS,67.8
+STU0538,Operating Systems,53.6
+STU0538,Mathematics,62.7
+STU0538,Communication Skills,59.7
+STU0539,Data Structures,73.7
+stu0539,DBMS,61.0
+STU0539,Operating Systems,56.1
+STU0539,Mathematics,47.4
+STU0539,Communication Skills,56.8
+STU0540,Thermodynamics,56.3
+STU0540,Fluid Mechanics,59.4
+STU0540,Manufacturing,48.0
+STU0540,Mathematics,51.8
+STU0540,Communication Skills,51.0
+STU0541,Structural Analysis,52.6
+STU0541,Surveying,50.1
+STU0541,Geotechnical Engg,40.6
+STU0541,Mathematics,48.6
+STU0541,Communication Skills,61.4
+STU0542,Machine Learning,64.9
+STU0542,Python Programming,57.1
+STU0542,Statistics,64.6
+STU0542,Mathematics,55.5
+STU0542,Communication Skills,77.8
+STU0543,Thermodynamics,55.6
+STU0543,Fluid Mechanics,71.8
+STU0543,Manufacturing,51.6
+STU0543,Mathematics,51.3
+STU0543,Communication Skills,64.9
+STU0544,Structural Analysis,41.5
+STU0544,Surveying,43.8
+STU0544,Geotechnical Engg,58.1
+STU0544,Mathematics,59.0
+STU0544,Communication Skills,53.3
+STU0545,Data Structures,56.9
+STU0545,DBMS,53.6
+STU0545,Operating Systems,47.0
+STU0545,Mathematics,55.3
+STU0545,Communication Skills,58.1
+STU0546,Web Technologies,53.3
+STU0546,DBMS,68.2
+STU0546,Computer Networks,49.8
+STU0546,Mathematics,48.6
+STU-0546,Communication Skills,46.9
+STU0547,Web Technologies,75.4
+STU0547,DBMS,80.6
+STU0547,Computer Networks,86.1
+STU0547,Mathematics,77.5
+STU0547,Communication Skills,77.6
+STU-0548,Data Structures,70.8
+STU0548,DBMS,54.9
+STU0548,Operating Systems,62.8
+STU0548,Mathematics,84.7
+STU0548,Communication Skills,57.5
+STU0549,Digital Electronics,41.5
+STU0549,Signals & Systems,52.7
+STU0549,Microprocessors,51.4
+STU0549,Mathematics,43.8
+STU0549,Communication Skills,48.4
+STU0550,Web Technologies,77.5
+STU0550,DBMS,60.0
+STU0550,Computer Networks,74.7
+STU0550,Mathematics,79.7
+STU0550,Communication Skills,69.8
+STU0551,Machine Learning,49.6
+STU0551,Python Programming,57.3
+STU0551,Statistics,47.7
+STU0551,Mathematics,52.9
+STU0551,Communication Skills,62.9
+STU0552,Data Structures,46.1
+STU0552,DBMS,46.2
+STU0552,Operating Systems,51.3
+STU0552,Mathematics,59.2
+STU0552,Communication Skills,31.8
+STU0553,Data Structures,74.9
+STU0553,DBMS,71.2
+STU0553,Operating Systems,78.8
+STU0553,Mathematics,89.0
+STU0553,Communication Skills,79.7
+STU0554,Structural Analysis,59.7
+STU0554,Surveying,65.9
+STU0554,Geotechnical Engg,60.3
+STU0554,Mathematics,59.2
+STU0554,Communication Skills,61.5
+STU0555,Data Structures,60.1
+STU0555,DBMS,63.1
+STU0555,Operating Systems,71.1
+STU0555,Mathematics,55.6
+STU0555,Communication Skills,59.8
+STU0556,Data Structures,62.4
+STU0556,DBMS,58.7
+STU0556,Operating Systems,67.7
+STU0556,Mathematics,52.8
+STU0556,Communication Skills,68.1
+STU0557,Web Technologies,81.5
+STU0557,DBMS,79.5
+STU0557,Computer Networks,94.7
+STU0557,Mathematics,70.5
+STU0557,Communication Skills,81.6
+STU0558,Machine Learning,58.3
+STU0558,Python Programming,73.1
+STU0558,Statistics,64.6
+STU0558,Mathematics,70.4
+STU0558,Communication Skills,56.3
+STU0559,Machine Learning,56.0
+STU0559,Python Programming,42.7
+STU0559,Statistics,52.7
+STU0559,Mathematics,64.5
+STU0559,Communication Skills,44.9
+STU0560,Machine Learning,62.2
+STU0560,Python Programming,67.3
+STU0560,Statistics,60.5
+STU0560,Mathematics,76.4
+STU0560,Communication Skills,62.8
+STU0561,Data Structures,57.6
+STU0561,DBMS,61.9
+STU0561,Operating Systems,65.7
+STU0561,Mathematics,59.7
+STU0561,Communication Skills,54.1
+STU0562,Data Structures,91.3
+STU0562,DBMS,84.9
+STU0562,Operating Systems,93.4
+STU0562,Mathematics,82.5
+STU0562,Communication Skills,73.5
+STU0563,Thermodynamics,57.4
+STU0563,Fluid Mechanics,67.4
+STU0563,Manufacturing,65.7
+STU0563,Mathematics,69.6
+STU0563,Communication Skills,56.5
+STU0564,Digital Electronics,30.2
+STU0564,Signals & Systems,37.0
+STU-0564,Microprocessors,39.6
+STU0564,Mathematics,27.9
+STU0564,Communication Skills,45.8
+STU0565,Digital Electronics,68.9
+STU0565,Signals & Systems,66.2
+STU0565,Microprocessors,61.1
+STU0565,Mathematics,63.7
+STU0565,Communication Skills,61.1
+STU0566,Digital Electronics,88.7
+STU0566,Signals & Systems,69.5
+STU0566,Microprocessors,96.4
+STU0566,Mathematics,92.9
+STU0566,Communication Skills,96.5
+STU0567,Digital Electronics,80.2
+STU0567,Signals & Systems,74.6
+STU0567,Microprocessors,68.7
+STU0567,Mathematics,71.3
+STU0567,Communication Skills,72.4
+STU0568,Data Structures,100.0
+STU0568,DBMS,86.0
+STU0568,Operating Systems,99.3
+STU0568,Mathematics,87.9
+STU0568,Communication Skills,85.2
+STU0569,Web Technologies,58.5
+STU0569,DBMS,54.3
+STU0569,Computer Networks,46.6
+STU0569,Mathematics,54.8
+STU0569,Communication Skills,44.6
+STU0570,Machine Learning,82.7
+STU0570,Python Programming,92.8
+STU0570,Statistics,70.0
+STU0570,Mathematics,65.3
+STU0570,Communication Skills,58.3
+STU0571,Web Technologies,63.4
+STU0571,DBMS,52.2
+STU0571,Computer Networks,42.1
+STU0571,Mathematics,62.8
+STU0571,Communication Skills,46.9
+STU0572,Thermodynamics,75.5
+STU0572,Fluid Mechanics,60.4
+STU0572,Manufacturing,64.6
+STU0572,Mathematics,63.4
+STU0572,Communication Skills,71.9
+STU0573,Machine Learning,40.9
+STU0573,Python Programming,51.1
+STU0573,Statistics,43.9
+STU0573,Mathematics,33.1
+STU0573,Communication Skills,41.4
+STU0574,Digital Electronics,53.3
+STU0574,Signals & Systems,43.6
+STU0574,Microprocessors,60.7
+STU0574,Mathematics,54.7
+STU0574,Communication Skills,54.1
+STU0575,Thermodynamics,57.9
+STU0575,Fluid Mechanics,69.9
+STU0575,Manufacturing,65.2
+STU0575,Mathematics,47.7
+STU0575,Communication Skills,43.5
+STU0576,Machine Learning,61.2
+STU0576,Python Programming,80.8
+STU0576,Statistics,83.5
+STU0576,Mathematics,63.1
+STU0576,Communication Skills,71.6
+STU0577,Structural Analysis,60.0
+STU0577,Surveying,72.3
+STU0577,Geotechnical Engg,72.9
+STU0577,Mathematics,77.2
+STU0577,Communication Skills,65.0
+STU0578,Machine Learning,64.5
+STU0578,Python Programming,66.9
+STU0578,Statistics,67.1
+STU0578,Mathematics,61.3
+STU0578,Communication Skills,61.3
+STU0579,Thermodynamics,67.2
+stu0579,Fluid Mechanics,54.1
+STU0579,Manufacturing,51.3
+STU0579,Mathematics,52.0
+STU0579,Communication Skills,55.4
+STU0580,Web Technologies,72.4
+STU0580,DBMS,73.7
+STU0580,Computer Networks,56.8
+STU0580,Mathematics,60.7
+STU0580,Communication Skills,57.5
+STU0581,Machine Learning,58.3
+STU0581,Python Programming,59.3
+STU0581,Statistics,46.9
+STU0581,Mathematics,37.0
+STU0581,Communication Skills,36.6
+STU0582,Machine Learning,71.4
+STU0582,Python Programming,81.9
+STU0582,Statistics,75.7
+STU0582,Mathematics,74.3
+STU0582,Communication Skills,88.7
+STU0583,Data Structures,79.3
+STU0583,DBMS,83.2
+STU0583,Operating Systems,78.8
+STU0583,Mathematics,74.1
+STU0583,Communication Skills,85.5
+STU0584,Web Technologies,76.4
+STU0584,DBMS,75.3
+stu0584,Computer Networks,80.5
+STU0584,Mathematics,85.5
+STU0584,Communication Skills,91.8
+STU0585,Structural Analysis,49.9
+STU0585,Surveying,55.7
+STU0585,Geotechnical Engg,53.9
+STU0585,Mathematics,59.9
+STU0585,Communication Skills,44.7
+STU0586,Digital Electronics,22.5
+STU0586,Signals & Systems,26.5
+STU0586,Microprocessors,16.8
+STU0586,Mathematics,32.7
+STU0586,Communication Skills,40.3
+STU-0587,Data Structures,46.0
+STU0587,DBMS,45.3
+STU0587,Operating Systems,46.1
+STU0587,Mathematics,24.8
+STU0587,Communication Skills,30.4
+STU0588,Web Technologies,94.4
+STU0588,DBMS,86.0
+STU0588,Computer Networks,70.9
+STU0588,Mathematics,87.9
+STU0588,Communication Skills,61.6
+STU0589,Data Structures,60.3
+STU0589,DBMS,54.8
+STU0589,Operating Systems,58.8
+STU0589,Mathematics,75.1
+STU0589,Communication Skills,absent
+STU0590,Data Structures,46.0
+STU0590,DBMS,56.4
+STU0590,Operating Systems,45.6
+STU0590,Mathematics,46.3
+STU0590,Communication Skills,53.7
+STU0591,Structural Analysis,76.6
+STU0591,Surveying,81.4
+STU0591,Geotechnical Engg,78.0
+STU0591,Mathematics,99.5
+STU0591,Communication Skills,95.1
+STU0592,Web Technologies,80.8
+STU0592,DBMS,63.0
+STU0592,Computer Networks,79.4
+STU0592,Mathematics,76.4
+STU0592,Communication Skills,84.5
+STU0593,Web Technologies,66.1
+STU0593,DBMS,59.5
+STU0593,Computer Networks,64.5
+STU0593,Mathematics,61.6
+STU0593,Communication Skills,54.5
+STU0594,Machine Learning,55.6
+STU0594,Python Programming,69.2
+STU0594,Statistics,65.3
+STU0594,Mathematics,63.2
+STU0594,Communication Skills,65.7
+STU0595,Data Structures,56.8
+STU0595,DBMS,87.0
+STU0595,Operating Systems,64.7
+STU0595,Mathematics,60.5
+STU0595,Communication Skills,58.2
+STU0596,Data Structures,73.2
+STU0596,DBMS,64.9
+STU0596,Operating Systems,65.4
+STU0596,Mathematics,75.6
+STU0596,Communication Skills,59.6
+stu0597,Digital Electronics,92.3
+STU0597,Signals & Systems,92.2
+STU0597,Microprocessors,87.6
+STU0597,Mathematics,79.2
+STU0597,Communication Skills,73.8
+STU-0598,Digital Electronics,69.3
+STU0598,Signals & Systems,58.9
+STU0598,Microprocessors,62.6
+STU0598,Mathematics,55.3
+STU0598,Communication Skills,72.5
+STU0599,Structural Analysis,60.2
+STU0599,Surveying,65.1
+STU0599,Geotechnical Engg,74.7
+STU0599,Mathematics,75.0
+STU0599,Communication Skills,81.8
+STU0600,Digital Electronics,71.6
+STU0600,Signals & Systems,81.5
+STU0600,Microprocessors,74.2
+STU0600,Mathematics,67.1
+STU0600,Communication Skills,83.6
+STU0601,Machine Learning,48.7
+STU0601,Python Programming,32.8
+STU0601,Statistics,55.1
+STU0601,Mathematics,31.0
+STU0601,Communication Skills,44.9
+STU0602,Digital Electronics,82.2
+STU0602,Signals & Systems,76.7
+STU0602,Microprocessors,66.4
+STU0602,Mathematics,76.8
+STU0602,Communication Skills,70.1
+STU0603,Structural Analysis,55.8
+STU0603,Surveying,56.3
+STU0603,Geotechnical Engg,64.4
+STU0603,Mathematics,50.9
+STU0603,Communication Skills,67.4
+STU0604,Digital Electronics,35.2
+STU0604,Signals & Systems,28.6
+STU0604,Microprocessors,24.2
+STU0604,Mathematics,36.3
+STU0604,Communication Skills,31.4
+STU0605,Structural Analysis,20.7
+STU0605,Surveying,44.2
+STU0605,Geotechnical Engg,36.8
+STU0605,Mathematics,26.6
+STU0605,Communication Skills,32.0
+STU0606,Thermodynamics,NA
+STU0606,Fluid Mechanics,50.2
+STU0606,Manufacturing,49.0
+STU0606,Mathematics,58.4
+STU0606,Communication Skills,43.3
+STU0607,Thermodynamics,65.7
+STU0607,Fluid Mechanics,61.0
+STU0607,Manufacturing,72.9
+STU0607,Mathematics,65.7
+STU0607,Communication Skills,71.8
+STU0608,Data Structures,49.1
+STU0608,DBMS,60.8
+STU0608,Operating Systems,51.3
+STU0608,Mathematics,65.3
+STU0608,Communication Skills,51.7
+STU0609,Digital Electronics,67.9
+STU0609,Signals & Systems,70.8
+STU0609,Microprocessors,62.0
+STU0609,Mathematics,74.2
+STU0609,Communication Skills,58.5
+STU0610,Web Technologies,92.8
+STU0610,DBMS,86.5
+STU0610,Computer Networks,89.4
+STU0610,Mathematics,93.0
+STU0610,Communication Skills,91.9
+STU0611,Machine Learning,44.6
+STU0611,Python Programming,58.2
+STU0611,Statistics,43.4
+STU0611,Mathematics,38.7
+STU0611,Communication Skills,55.0
+STU0612,Digital Electronics,63.2
+STU0612,Signals & Systems,47.1
+STU0612,Microprocessors,63.2
+STU0612,Mathematics,64.5
+STU0612,Communication Skills,62.7
+STU0613,Structural Analysis,67.5
+STU0613,Surveying,79.3
+STU0613,Geotechnical Engg,72.2
+STU0613,Mathematics,69.8
+STU0613,Communication Skills,63.4
+STU0614,Structural Analysis,56.4
+STU0614,Surveying,65.2
+STU0614,Geotechnical Engg,46.7
+STU0614,Mathematics,43.0
+STU0614,Communication Skills,50.2
+STU0615,Web Technologies,63.8
+STU0615,DBMS,56.2
+STU0615,Computer Networks,59.2
+STU0615,Mathematics,absent
+STU0615,Communication Skills,51.0
+stu0616,Digital Electronics,42.2
+STU0616,Signals & Systems,45.6
+STU0616,Microprocessors,24.9
+STU0616,Mathematics,27.0
+STU0616,Communication Skills,33.1
+STU0617,Digital Electronics,84.8
+STU0617,Signals & Systems,73.9
+STU0617,Microprocessors,70.6
+STU0617,Mathematics,57.0
+STU0617,Communication Skills,75.6
+STU0618,Web Technologies,60.0
+STU0618,DBMS,54.1
+STU0618,Computer Networks,49.9
+STU0618,Mathematics,63.7
+STU0618,Communication Skills,57.7
+STU0619,Data Structures,77.1
+STU0619,DBMS,80.5
+STU0619,Operating Systems,100.0
+STU0619,Mathematics,99.3
+STU0619,Communication Skills,86.0
+STU0620,Data Structures,72.2
+STU0620,DBMS,55.5
+STU0620,Operating Systems,54.7
+stu0620,Mathematics,69.8
+STU0620,Communication Skills,52.9
+STU0621,Digital Electronics,74.9
+STU0621,Signals & Systems,70.0
+STU0621,Microprocessors,52.2
+STU0621,Mathematics,71.8
+STU0621,Communication Skills,83.7
+STU0622,Machine Learning,61.0
+STU0622,Python Programming,57.5
+STU0622,Statistics,70.9
+STU0622,Mathematics,54.6
+STU0622,Communication Skills,62.3
+STU0623,Structural Analysis,71.3
+STU0623,Surveying,59.5
+STU0623,Geotechnical Engg,57.5
+STU0623,Mathematics,64.3
+STU0623,Communication Skills,63.8
+STU0624,Machine Learning,57.8
+STU0624,Python Programming,56.4
+STU0624,Statistics,51.8
+STU0624,Mathematics,55.9
+STU0624,Communication Skills,63.3
+STU0625,Structural Analysis,56.1
+STU0625,Surveying,71.8
+STU0625,Geotechnical Engg,60.0
+STU0625,Mathematics,81.7
+STU0625,Communication Skills,64.8
+STU0626,Web Technologies,62.3
+STU0626,DBMS,71.2
+STU0626,Computer Networks,48.7
+STU0626,Mathematics,67.3
+STU0626,Communication Skills,50.3
+STU0627,Thermodynamics,45.5
+STU0627,Fluid Mechanics,48.2
+STU0627,Manufacturing,53.7
+STU0627,Mathematics,54.3
+STU0627,Communication Skills,51.2
+STU0628,Data Structures,67.8
+STU0628,DBMS,47.2
+STU0628,Operating Systems,59.8
+STU0628,Mathematics,59.7
+STU0628,Communication Skills,52.5
+STU0629,Machine Learning,67.9
+STU0629,Python Programming,61.2
+STU0629,Statistics,44.5
+STU0629,Mathematics,48.2
+STU0629,Communication Skills,50.5
+STU0630,Thermodynamics,84.8
+STU0630,Fluid Mechanics,82.4
+STU0630,Manufacturing,100.0
+STU0630,Mathematics,83.5
+STU0630,Communication Skills,100.0
+STU0631,Structural Analysis,66.8
+STU0631,Surveying,66.7
+STU0631,Geotechnical Engg,56.5
+STU0631,Mathematics,65.7
+STU0631,Communication Skills,54.1
+STU0632,Thermodynamics,87.0
+STU0632,Fluid Mechanics,79.0
+STU0632,Manufacturing,90.0
+STU0632,Mathematics,79.0
+STU0632,Communication Skills,80.5
+STU0633,Data Structures,63.2
+STU0633,DBMS,57.8
+stu0633,Operating Systems,61.6
+STU0633,Mathematics,64.5
+STU0633,Communication Skills,57.4
+STU0634,Web Technologies,63.5
+STU0634,DBMS,45.1
+STU0634,Computer Networks,72.8
+STU0634,Mathematics,68.4
+STU0634,Communication Skills,78.6
+STU0635,Data Structures,46.5
+STU0635,DBMS,58.4
+STU0635,Operating Systems,43.8
+STU0635,Mathematics,56.9
+STU0635,Communication Skills,52.8
+STU0636,Data Structures,60.8
+STU0636,DBMS,58.0
+STU0636,Operating Systems,61.1
+STU0636,Mathematics,49.2
+STU0636,Communication Skills,54.8
+STU0637,Digital Electronics,53.8
+STU0637,Signals & Systems,75.9
+STU0637,Microprocessors,72.4
+STU0637,Mathematics,65.3
+STU0637,Communication Skills,65.6
+STU0638,Digital Electronics,84.0
+STU0638,Signals & Systems,82.5
+STU0638,Microprocessors,78.8
+STU0638,Mathematics,78.6
+stu0638,Communication Skills,71.1
+STU0639,Digital Electronics,65.7
+STU0639,Signals & Systems,66.9
+stu0639,Microprocessors,59.2
+STU0639,Mathematics,66.4
+STU0639,Communication Skills,76.2
+STU0640,Thermodynamics,91.2
+STU0640,Fluid Mechanics,83.4
+STU0640,Manufacturing,70.9
+STU0640,Mathematics,81.1
+STU0640,Communication Skills,80.9
+STU0641,Digital Electronics,79.6
+STU0641,Signals & Systems,70.4
+STU0641,Microprocessors,82.8
+STU0641,Mathematics,64.9
+STU0641,Communication Skills,62.8
+STU0642,Thermodynamics,96.2
+STU0642,Fluid Mechanics,74.2
+STU0642,Manufacturing,76.3
+STU0642,Mathematics,90.7
+STU0642,Communication Skills,99.2
+STU0643,Data Structures,53.6
+STU0643,DBMS,60.2
+STU0643,Operating Systems,51.7
+STU0643,Mathematics,65.9
+STU0643,Communication Skills,64.9
+STU0644,Data Structures,94.8
+STU-0644,DBMS,79.8
+STU0644,Operating Systems,92.2
+STU0644,Mathematics,85.2
+STU0644,Communication Skills,98.2
+STU0645,Digital Electronics,68.0
+STU0645,Signals & Systems,73.1
+STU0645,Microprocessors,57.8
+STU0645,Mathematics,48.4
+STU0645,Communication Skills,59.6
+STU0646,Thermodynamics,60.9
+STU0646,Fluid Mechanics,54.0
+STU0646,Manufacturing,48.5
+STU0646,Mathematics,50.5
+STU0646,Communication Skills,64.1
+STU0647,Data Structures,40.9
+STU0647,DBMS,49.5
+STU0647,Operating Systems,42.8
+STU0647,Mathematics,57.5
+STU0647,Communication Skills,44.8
+STU0648,Machine Learning,80.9
+STU0648,Python Programming,absent
+STU0648,Statistics,86.7
+STU0648,Mathematics,93.0
+STU0648,Communication Skills,98.7
+STU0649,Digital Electronics,76.7
+STU0649,Signals & Systems,68.3
+STU0649,Microprocessors,65.2
+STU0649,Mathematics,76.5
+STU0649,Communication Skills,82.4
+ STU0650 ,Data Structures,51.3
+STU0650,DBMS,58.3
+STU0650,Operating Systems,67.3
+STU0650,Mathematics,58.7
+STU0650,Communication Skills,57.5
+STU0651,Web Technologies,71.4
+STU0651,DBMS,87.4
+STU0651,Computer Networks,86.9
+STU0651,Mathematics,72.7
+ STU0651 ,Communication Skills,62.1
+STU0652,Thermodynamics,88.0
+STU0652,Fluid Mechanics,82.6
+STU0652,Manufacturing,68.3
+STU0652,Mathematics,70.9
+STU0652,Communication Skills,61.0
+STU0653,Digital Electronics,80.9
+STU0653,Signals & Systems,94.1
+STU0653,Microprocessors,74.4
+STU0653,Mathematics,89.7
+STU0653,Communication Skills,97.0
+STU0654,Data Structures,41.8
+STU0654,DBMS,50.7
+STU0654,Operating Systems,36.2
+STU0654,Mathematics,23.8
+STU0654,Communication Skills,50.7
+STU0655,Thermodynamics,49.4
+STU0655,Fluid Mechanics,58.4
+STU0655,Manufacturing,64.4
+STU0655,Mathematics,66.4
+STU0655,Communication Skills,65.6
+STU0656,Web Technologies,41.5
+STU0656,DBMS,58.4
+STU0656,Computer Networks,NA
+STU0656,Mathematics,59.9
+STU0656,Communication Skills,55.4
+STU0657,Thermodynamics,35.2
+STU0657,Fluid Mechanics,39.9
+STU0657,Manufacturing,35.7
+STU0657,Mathematics,37.5
+STU0657,Communication Skills,40.6
+STU0658,Web Technologies,74.7
+STU0658,DBMS,66.7
+STU0658,Computer Networks,81.4
+STU0658,Mathematics,86.2
+ STU0658 ,Communication Skills,71.9
+STU0659,Machine Learning,67.4
+STU0659,Python Programming,63.8
+STU0659,Statistics,64.8
+STU0659,Mathematics,55.4
+STU0659,Communication Skills,56.0
+STU0660,Web Technologies,64.9
+STU0660,DBMS,67.0
+STU0660,Computer Networks,73.8
+STU0660,Mathematics,61.9
+STU0660,Communication Skills,78.7
+STU0661,Data Structures,91.6
+STU0661,DBMS,89.4
+STU0661,Operating Systems,90.7
+STU0661,Mathematics,NA
+STU0661,Communication Skills,78.6
+STU0662,Thermodynamics,59.1
+STU0662,Fluid Mechanics,56.1
+STU0662,Manufacturing,57.9
+STU0662,Mathematics,51.6
+STU0662,Communication Skills,68.9
+STU0663,Data Structures,71.2
+STU0663,DBMS,54.8
+STU0663,Operating Systems,54.2
+STU0663,Mathematics,48.0
+STU0663,Communication Skills,61.8
+STU0664,Data Structures,57.1
+STU0664,DBMS,65.1
+STU0664,Operating Systems,56.3
+STU0664,Mathematics,66.0
+STU0664,Communication Skills,59.8
+STU0665,Web Technologies,88.9
+STU0665,DBMS,73.4
+STU0665,Computer Networks,67.3
+STU0665,Mathematics,67.6
+STU0665,Communication Skills,63.7
+STU0666,Digital Electronics,60.7
+STU0666,Signals & Systems,58.3
+STU0666,Microprocessors,45.8
+STU0666,Mathematics,44.3
+STU0666,Communication Skills,55.5
+STU0667,Thermodynamics,49.7
+STU0667,Fluid Mechanics,56.7
+STU0667,Manufacturing,54.1
+STU0667,Mathematics,48.7
+STU0667,Communication Skills,45.3
+STU0668,Structural Analysis,76.4
+STU0668,Surveying,81.0
+STU0668,Geotechnical Engg,72.0
+STU0668,Mathematics,79.2
+STU0668,Communication Skills,70.3
+STU0669,Web Technologies,73.4
+STU0669,DBMS,57.3
+STU0669,Computer Networks,73.2
+STU0669,Mathematics,67.2
+STU0669,Communication Skills,66.8
+STU0670,Web Technologies,48.8
+STU0670,DBMS,42.8
+STU0670,Computer Networks,34.3
+STU0670,Mathematics,26.9
+STU0670,Communication Skills,37.0
+ STU0671 ,Data Structures,44.1
+STU0671,DBMS,46.8
+STU0671,Operating Systems,47.9
+STU0671,Mathematics,57.9
+STU0671,Communication Skills,32.6
+STU0672,Machine Learning,65.6
+STU0672,Python Programming,77.3
+STU0672,Statistics,84.0
+STU0672,Mathematics,100.0
+STU0672,Communication Skills,85.7
+STU0673,Structural Analysis,71.7
+STU0673,Surveying,61.3
+STU0673,Geotechnical Engg,70.2
+stu0673,Mathematics,53.4
+STU0673,Communication Skills,82.2
+STU0674,Digital Electronics,56.9
+STU0674,Signals & Systems,58.1
+STU0674,Microprocessors,57.1
+STU0674,Mathematics,55.7
+STU0674,Communication Skills,48.0
+STU0675,Machine Learning,53.3
+STU0675,Python Programming,69.6
+STU0675,Statistics,40.3
+STU0675,Mathematics,58.5
+STU0675,Communication Skills,60.2
+STU0676,Web Technologies,63.7
+STU0676,DBMS,68.3
+STU0676,Computer Networks,absent
+STU0676,Mathematics,57.4
+STU0676,Communication Skills,73.3
+STU0677,Structural Analysis,67.8
+STU0677,Surveying,81.7
+STU0677,Geotechnical Engg,65.8
+STU0677,Mathematics,64.4
+STU0677,Communication Skills,76.5
+STU0678,Machine Learning,52.5
+STU0678,Python Programming,49.7
+STU0678,Statistics,44.6
+STU0678,Mathematics,45.9
+STU0678,Communication Skills,48.5
+STU0679,Data Structures,47.1
+STU0679,DBMS,48.5
+STU-0679,Operating Systems,41.8
+STU0679,Mathematics,46.6
+STU0679,Communication Skills,66.2
+STU0680,Web Technologies,66.8
+STU0680,DBMS,71.3
+STU0680,Computer Networks,67.2
+STU0680,Mathematics,55.7
+STU0680,Communication Skills,49.1
+STU0681,Data Structures,49.6
+STU0681,DBMS,48.7
+STU0681,Operating Systems,63.1
+STU0681,Mathematics,57.8
+STU0681,Communication Skills,62.6
+STU0682,Data Structures,65.5
+STU0682,DBMS,80.0
+STU0682,Operating Systems,63.2
+STU0682,Mathematics,69.4
+STU0682,Communication Skills,85.4
+STU0683,Data Structures,51.0
+STU0683,DBMS,40.4
+STU0683,Operating Systems,61.7
+STU0683,Mathematics,51.0
+STU0683,Communication Skills,50.5
+STU0684,Web Technologies,66.0
+STU0684,DBMS,72.3
+STU0684,Computer Networks,61.0
+STU0684,Mathematics,60.9
+STU0684,Communication Skills,55.2
+STU0685,Digital Electronics,90.4
+STU0685,Signals & Systems,67.2
+STU0685,Microprocessors,65.7
+STU0685,Mathematics,71.1
+STU0685,Communication Skills,81.9
+STU0686,Web Technologies,67.4
+STU0686,DBMS,70.0
+STU0686,Computer Networks,68.2
+stu_0686,Mathematics,75.8
+STU0686,Communication Skills,64.0
+STU0687,Web Technologies,64.5
+STU0687,DBMS,51.3
+STU0687,Computer Networks,67.7
+STU0687,Mathematics,74.6
+STU0687,Communication Skills,76.2
+STU0688,Structural Analysis,58.5
+STU0688,Surveying,67.3
+STU0688,Geotechnical Engg,39.7
+STU0688,Mathematics,67.9
+STU0688,Communication Skills,63.2
+STU0689,Digital Electronics,57.0
+STU0689,Signals & Systems,63.1
+STU0689,Microprocessors,46.6
+STU0689,Mathematics,67.1
+STU0689,Communication Skills,58.9
+STU0690,Machine Learning,58.8
+STU0690,Python Programming,50.8
+STU0690,Statistics,68.6
+STU0690,Mathematics,56.2
+STU0690,Communication Skills,74.8
+STU0691,Web Technologies,72.3
+STU0691,DBMS,89.6
+STU0691,Computer Networks,79.1
+STU0691,Mathematics,88.1
+STU0691,Communication Skills,68.2
+STU0692,Thermodynamics,52.0
+STU0692,Fluid Mechanics,69.8
+STU0692,Manufacturing,71.7
+STU0692,Mathematics,76.1
+STU0692,Communication Skills,61.7
+STU0693,Data Structures,51.6
+STU0693,DBMS,51.2
+STU0693,Operating Systems,54.4
+STU0693,Mathematics,52.5
+STU0693,Communication Skills,57.0
+STU0694,Web Technologies,61.4
+STU-0694,DBMS,62.8
+STU0694,Computer Networks,45.4
+STU0694,Mathematics,60.8
+STU0694,Communication Skills,56.0
+stu0695,Structural Analysis,61.2
+STU0695,Surveying,NA
+STU0695,Geotechnical Engg,60.9
+STU0695,Mathematics,69.4
+STU0695,Communication Skills,67.4
+STU0696,Machine Learning,61.4
+STU0696,Python Programming,54.3
+STU0696,Statistics,74.2
+STU0696,Mathematics,55.8
+STU0696,Communication Skills,46.5
+STU0697,Digital Electronics,66.9
+STU0697,Signals & Systems,77.4
+STU0697,Microprocessors,79.2
+STU0697,Mathematics,75.6
+STU0697,Communication Skills,69.5
+STU0698,Machine Learning,67.1
+STU0698,Python Programming,61.2
+STU0698,Statistics,72.7
+STU0698,Mathematics,72.3
+STU0698,Communication Skills,67.7
+STU0699,Digital Electronics,63.7
+STU0699,Signals & Systems,77.3
+STU0699,Microprocessors,79.8
+STU0699,Mathematics,77.8
+STU0699,Communication Skills,60.9
+STU0700,Web Technologies,AB
+STU0700,DBMS,88.1
+STU0700,Computer Networks,70.1
+STU0700,Mathematics,70.9
+STU0700,Communication Skills,74.0
+STU0701,Data Structures,86.0
+STU0701,DBMS,69.6
+STU0701,Operating Systems,72.2
+STU0701,Mathematics,71.5
+STU0701,Communication Skills,87.5
+STU0702,Web Technologies,absent
+STU0702,DBMS,36.9
+STU0702,Computer Networks,39.1
+STU0702,Mathematics,51.0
+STU0702,Communication Skills,49.6
+STU0703,Data Structures,48.4
+STU0703,DBMS,62.9
+STU0703,Operating Systems,50.7
+STU0703,Mathematics,59.5
+STU0703,Communication Skills,48.0
+STU0704,Thermodynamics,61.6
+STU0704,Fluid Mechanics,49.3
+STU0704,Manufacturing,58.8
+STU0704,Mathematics,60.2
+STU0704,Communication Skills,68.5
+STU0705,Web Technologies,67.2
+STU0705,DBMS,51.5
+STU0705,Computer Networks,75.6
+STU0705,Mathematics,61.6
+STU0705,Communication Skills,49.2
+stu0706,Machine Learning,47.8
+STU0706,Python Programming,45.1
+STU0706,Statistics,47.9
+STU0706,Mathematics,38.9
+STU0706,Communication Skills,39.3
+STU0707,Thermodynamics,44.7
+STU0707,Fluid Mechanics,67.0
+STU0707,Manufacturing,50.0
+STU0707,Mathematics,48.5
+STU0707,Communication Skills,55.9
+STU0708,Thermodynamics,49.5
+STU0708,Fluid Mechanics,69.0
+STU0708,Manufacturing,47.2
+STU0708,Mathematics,63.4
+STU0708,Communication Skills,66.7
+STU0709,Web Technologies,52.9
+STU0709,DBMS,55.0
+STU0709,Computer Networks,52.2
+STU0709,Mathematics,49.7
+STU0709,Communication Skills,68.7
+STU0710,Machine Learning,72.5
+STU0710,Python Programming,62.8
+STU0710,Statistics,56.5
+STU0710,Mathematics,42.8
+STU0710,Communication Skills,43.6
+STU0711,Structural Analysis,67.3
+STU0711,Surveying,74.7
+STU0711,Geotechnical Engg,73.6
+STU0711,Mathematics,83.6
+STU0711,Communication Skills,83.8
+STU0712,Digital Electronics,70.9
+STU0712,Signals & Systems,61.7
+STU0712,Microprocessors,54.2
+STU0712,Mathematics,61.7
+STU0712,Communication Skills,71.3
+STU0713,Thermodynamics,89.0
+STU0713,Fluid Mechanics,84.5
+STU0713,Manufacturing,91.9
+STU0713,Mathematics,78.8
+STU0713,Communication Skills,86.5
+STU0714,Structural Analysis,66.4
+STU0714,Surveying,60.2
+STU0714,Geotechnical Engg,42.9
+STU0714,Mathematics,59.4
+STU0714,Communication Skills,50.0
+STU0715,Thermodynamics,55.0
+STU0715,Fluid Mechanics,31.4
+STU0715,Manufacturing,64.1
+STU0715,Mathematics,56.8
+STU0715,Communication Skills,48.8
+STU0716,Data Structures,46.0
+stu0716,DBMS,43.0
+STU0716,Operating Systems,55.5
+STU0716,Mathematics,58.3
+STU0716,Communication Skills,52.1
+STU0717,Machine Learning,NA
+STU0717,Python Programming,63.1
+STU0717,Statistics,60.4
+STU0717,Mathematics,61.4
+STU0717,Communication Skills,65.4
+STU0718,Data Structures,76.1
+STU0718,DBMS,67.5
+STU0718,Operating Systems,74.5
+STU0718,Mathematics,78.1
+STU0718,Communication Skills,65.2
+STU0719,Digital Electronics,84.1
+STU0719,Signals & Systems,81.6
+STU0719,Microprocessors,90.0
+STU0719,Mathematics,80.4
+STU0719,Communication Skills,82.3
+STU0720,Structural Analysis,66.7
+STU0720,Surveying,58.0
+STU0720,Geotechnical Engg,51.0
+STU0720,Mathematics,48.6
+STU0720,Communication Skills,56.0
+STU0721,Machine Learning,75.3
+STU0721,Python Programming,72.7
+STU0721,Statistics,66.4
+STU0721,Mathematics,60.4
+STU0721,Communication Skills,67.6
+STU0722,Web Technologies,73.5
+STU0722,DBMS,46.9
+STU0722,Computer Networks,77.1
+STU0722,Mathematics,51.5
+STU0722,Communication Skills,54.2
+STU0723,Data Structures,44.8
+STU0723,DBMS,46.3
+STU0723,Operating Systems,37.1
+STU0723,Mathematics,53.4
+STU0723,Communication Skills,45.1
+STU0724,Structural Analysis,80.0
+STU0724,Surveying,71.7
+STU0724,Geotechnical Engg,78.7
+STU0724,Mathematics,73.2
+STU0724,Communication Skills,62.9
+STU0725,Data Structures,65.8
+STU0725,DBMS,83.2
+STU0725,Operating Systems,81.8
+STU0725,Mathematics,91.2
+STU0725,Communication Skills,86.1
+STU0726,Data Structures,42.5
+STU0726,DBMS,52.0
+STU0726,Operating Systems,69.9
+STU0726,Mathematics,47.4
+STU0726,Communication Skills,47.2
+STU0727,Data Structures,74.8
+STU0727,DBMS,68.7
+STU0727,Operating Systems,63.6
+stu0727,Mathematics,72.2
+STU0727,Communication Skills,64.7
+stu_0728,Data Structures,43.9
+STU0728,DBMS,48.0
+STU0728,Operating Systems,47.8
+STU0728,Mathematics,50.6
+STU0728,Communication Skills,32.5
+STU0729,Web Technologies,41.4
+STU0729,DBMS,49.1
+STU0729,Computer Networks,55.3
+STU0729,Mathematics,52.4
+STU0729,Communication Skills,51.9
+STU0730,Machine Learning,72.9
+STU0730,Python Programming,75.0
+STU0730,Statistics,67.3
+STU0730,Mathematics,78.1
+STU0730,Communication Skills,75.4
+STU0731,Web Technologies,59.9
+STU0731,DBMS,64.2
+STU0731,Computer Networks,66.7
+STU0731,Mathematics,51.1
+STU0731,Communication Skills,33.2
+STU0732,Data Structures,49.3
+STU0732,DBMS,52.8
+STU0732,Operating Systems,44.8
+STU0732,Mathematics,54.2
+STU0732,Communication Skills,41.9
+STU0733,Data Structures,68.9
+STU0733,DBMS,66.4
+STU0733,Operating Systems,57.4
+STU0733,Mathematics,67.8
+STU0733,Communication Skills,65.0
+STU0734,Web Technologies,39.3
+STU0734,DBMS,52.4
+STU0734,Computer Networks,58.7
+STU0734,Mathematics,57.0
+STU0734,Communication Skills,52.0
+STU0735,Data Structures,48.7
+STU0735,DBMS,65.1
+STU0735,Operating Systems,51.3
+STU0735,Mathematics,63.2
+STU0735,Communication Skills,61.7
+STU0736,Digital Electronics,75.3
+STU0736,Signals & Systems,65.5
+STU0736,Microprocessors,68.9
+STU0736,Mathematics,71.7
+STU0736,Communication Skills,69.7
+STU0737,Data Structures,56.6
+STU0737,DBMS,48.0
+STU0737,Operating Systems,35.5
+STU0737,Mathematics,43.0
+STU0737,Communication Skills,49.0
+STU0738,Web Technologies,52.5
+STU0738,DBMS,60.7
+STU0738,Computer Networks,44.2
+STU0738,Mathematics,42.9
+STU0738,Communication Skills,58.5
+STU0739,Web Technologies,71.3
+STU0739,DBMS,71.8
+STU0739,Computer Networks,70.7
+STU0739,Mathematics,66.5
+STU0739,Communication Skills,74.7
+STU0740,Web Technologies,81.8
+STU0740,DBMS,60.0
+STU0740,Computer Networks,60.2
+STU0740,Mathematics,absent
+STU0740,Communication Skills,81.8
+STU0741,Data Structures,82.1
+STU0741,DBMS,74.2
+STU0741,Operating Systems,86.8
+STU0741,Mathematics,84.4
+STU0741,Communication Skills,82.3
+STU0742,Data Structures,44.4
+STU0742,DBMS,34.6
+STU0742,Operating Systems,54.7
+STU0742,Mathematics,53.1
+STU0742,Communication Skills,52.9
+STU0743,Thermodynamics,82.0
+STU0743,Fluid Mechanics,65.4
+STU0743,Manufacturing,76.8
+STU0743,Mathematics,77.7
+STU0743,Communication Skills,75.1
+STU0744,Data Structures,58.2
+STU0744,DBMS,61.7
+STU0744,Operating Systems,58.8
+STU0744,Mathematics,39.2
+STU0744,Communication Skills,47.3
+STU0745,Machine Learning,73.7
+stu0745,Python Programming,97.5
+STU0745,Statistics,86.7
+STU0745,Mathematics,97.0
+STU0745,Communication Skills,74.3
+STU0746,Machine Learning,41.7
+STU0746,Python Programming,62.3
+STU-0746,Statistics,54.7
+STU0746,Mathematics,54.5
+STU0746,Communication Skills,61.8
+STU0747,Web Technologies,73.7
+STU0747,DBMS,77.8
+STU0747,Computer Networks,86.9
+STU0747,Mathematics,75.5
+STU0747,Communication Skills,80.3
+STU0748,Web Technologies,47.9
+STU0748,DBMS,58.2
+STU0748,Computer Networks,48.9
+STU0748,Mathematics,54.9
+STU0748,Communication Skills,61.2
+STU0749,Thermodynamics,79.1
+STU0749,Fluid Mechanics,73.7
+STU0749,Manufacturing,86.7
+STU0749,Mathematics,90.6
+STU0749,Communication Skills,91.2
+STU0750,Thermodynamics,68.3
+STU0750,Fluid Mechanics,77.2
+STU0750,Manufacturing,60.9
+STU0750,Mathematics,80.0
+STU0750,Communication Skills,60.8
+STU0751,Data Structures,50.5
+STU0751,DBMS,58.8
+STU0751,Operating Systems,AB
+STU0751,Mathematics,46.7
+STU0751,Communication Skills,62.0
+STU0752,Web Technologies,64.8
+STU0752,DBMS,50.1
+STU0752,Computer Networks,38.2
+STU0752,Mathematics,73.2
+STU0752,Communication Skills,52.5
+STU0753,Data Structures,80.3
+STU-0753,DBMS,71.0
+STU0753,Operating Systems,72.0
+STU0753,Mathematics,91.7
+STU0753,Communication Skills,73.1
+STU0754,Machine Learning,71.2
+STU0754,Python Programming,83.8
+STU0754,Statistics,NA
+STU0754,Mathematics,84.1
+STU0754,Communication Skills,61.1
+STU0755,Digital Electronics,61.4
+STU0755,Signals & Systems,50.1
+STU0755,Microprocessors,62.3
+STU0755,Mathematics,63.0
+STU0755,Communication Skills,47.8
+STU0756,Data Structures,56.6
+STU0756,DBMS,57.8
+STU0756,Operating Systems,65.0
+STU0756,Mathematics,54.9
+STU0756,Communication Skills,60.1
+STU0757,Web Technologies,78.7
+STU0757,DBMS,63.9
+STU0757,Computer Networks,58.1
+STU0757,Mathematics,63.5
+STU0757,Communication Skills,62.6
+STU0758,Structural Analysis,65.6
+STU0758,Surveying,71.2
+STU0758,Geotechnical Engg,57.1
+STU0758,Mathematics,49.3
+STU0758,Communication Skills,52.9
+STU0759,Data Structures,53.9
+STU0759,DBMS,50.2
+STU0759,Operating Systems,51.6
+STU0759,Mathematics,40.1
+STU0759,Communication Skills,41.7
+STU0760,Machine Learning,53.5
+STU-0760,Python Programming,56.6
+STU-0760,Statistics,49.0
+STU0760,Mathematics,63.9
+STU0760,Communication Skills,47.6
+STU0761,Digital Electronics,64.3
+STU0761,Signals & Systems,71.7
+STU0761,Microprocessors,59.8
+STU0761,Mathematics,73.7
+stu0761,Communication Skills,57.8
+STU0762,Data Structures,88.6
+STU0762,DBMS,82.4
+STU0762,Operating Systems,73.8
+STU0762,Mathematics,72.1
+STU0762,Communication Skills,80.2
+STU0763,Data Structures,70.0
+STU0763,DBMS,83.0
+STU0763,Operating Systems,75.8
+STU0763,Mathematics,96.5
+STU-0763,Communication Skills,72.1
+STU0764,Data Structures,69.3
+STU0764,DBMS,64.5
+STU0764,Operating Systems,64.9
+STU0764,Mathematics,63.1
+STU0764,Communication Skills,82.2
+STU0765,Structural Analysis,71.6
+STU0765,Surveying,60.6
+STU0765,Geotechnical Engg,64.5
+STU0765,Mathematics,71.8
+STU0765,Communication Skills,63.2
+STU0766,Data Structures,90.7
+STU0766,DBMS,79.6
+STU-0766,Operating Systems,87.5
+STU0766,Mathematics,60.1
+STU0766,Communication Skills,77.6
+STU0767,Data Structures,63.0
+STU0767,DBMS,51.0
+STU0767,Operating Systems,51.7
+STU0767,Mathematics,43.8
+STU0767,Communication Skills,56.9
+STU0768,Data Structures,59.2
+STU0768,DBMS,52.4
+STU0768,Operating Systems,53.6
+STU0768,Mathematics,79.1
+STU0768,Communication Skills,57.0
+STU0769,Data Structures,62.0
+STU0769,DBMS,NA
+STU0769,Operating Systems,48.9
+STU0769,Mathematics,49.1
+STU0769,Communication Skills,37.6
+STU0770,Digital Electronics,28.8
+STU0770,Signals & Systems,54.5
+STU0770,Microprocessors,44.6
+STU0770,Mathematics,50.7
+STU0770,Communication Skills,50.8
+STU0771,Data Structures,68.2
+STU0771,DBMS,62.5
+STU0771,Operating Systems,64.6
+STU0771,Mathematics,87.5
+STU0771,Communication Skills,83.7
+STU0772,Machine Learning,79.1
+STU0772,Python Programming,68.3
+STU0772,Statistics,71.4
+STU0772,Mathematics,61.1
+STU0772,Communication Skills,67.7
+STU0773,Machine Learning,65.7
+STU0773,Python Programming,69.3
+STU0773,Statistics,53.8
+STU0773,Mathematics,81.8
+STU0773,Communication Skills,71.7
+STU0774,Thermodynamics,66.6
+STU0774,Fluid Mechanics,72.7
+STU0774,Manufacturing,69.9
+STU0774,Mathematics,53.7
+STU0774,Communication Skills,61.5
+STU0775,Data Structures,66.8
+STU0775,DBMS,69.2
+STU0775,Operating Systems,75.4
+STU0775,Mathematics,70.7
+STU0775,Communication Skills,58.1
+stu0776,Thermodynamics,70.3
+STU0776,Fluid Mechanics,63.2
+STU0776,Manufacturing,51.8
+STU0776,Mathematics,74.7
+STU0776,Communication Skills,67.4
+STU0777,Machine Learning,71.2
+STU0777,Python Programming,83.9
+STU0777,Statistics,65.9
+STU0777,Mathematics,79.1
+STU0777,Communication Skills,68.3
+STU0778,Data Structures,55.9
+STU0778,DBMS,72.2
+STU0778,Operating Systems,72.9
+STU0778,Mathematics,60.6
+STU0778,Communication Skills,67.6
+STU0779,Digital Electronics,46.6
+STU0779,Signals & Systems,59.9
+STU0779,Microprocessors,69.6
+STU0779,Mathematics,45.0
+STU0779,Communication Skills,52.3
+STU0780,Thermodynamics,72.4
+STU0780,Fluid Mechanics,59.5
+STU0780,Manufacturing,68.2
+STU0780,Mathematics,68.5
+STU0780,Communication Skills,76.8
+STU0781,Data Structures,73.4
+STU0781,DBMS,66.6
+STU0781,Operating Systems,64.5
+STU0781,Mathematics,67.4
+STU0781,Communication Skills,73.4
+STU0782,Structural Analysis,50.7
+STU0782,Surveying,54.1
+STU0782,Geotechnical Engg,58.7
+STU0782,Mathematics,50.0
+STU0782,Communication Skills,56.6
+STU0783,Web Technologies,56.2
+STU0783,DBMS,52.1
+STU0783,Computer Networks,50.5
+STU0783,Mathematics,60.4
+STU0783,Communication Skills,68.9
+STU0784,Machine Learning,66.8
+STU0784,Python Programming,45.5
+STU0784,Statistics,51.4
+STU0784,Mathematics,69.7
+STU0784,Communication Skills,44.5
+STU0785,Structural Analysis,47.2
+STU0785,Surveying,63.8
+STU0785,Geotechnical Engg,59.5
+STU0785,Mathematics,58.0
+STU0785,Communication Skills,42.0
+STU0786,Web Technologies,48.2
+STU0786,DBMS,52.2
+STU0786,Computer Networks,37.6
+STU0786,Mathematics,38.1
+STU0786,Communication Skills,55.2
+STU0787,Thermodynamics,84.6
+STU0787,Fluid Mechanics,82.9
+STU0787,Manufacturing,92.4
+STU0787,Mathematics,88.9
+STU0787,Communication Skills,91.0
+STU0788,Web Technologies,81.5
+STU0788,DBMS,79.5
+STU0788,Computer Networks,63.7
+STU0788,Mathematics,58.0
+STU0788,Communication Skills,75.1
+STU0789,Thermodynamics,68.6
+ STU0789 ,Fluid Mechanics,77.4
+STU0789,Manufacturing,75.5
+STU0789,Mathematics,67.2
+STU0789,Communication Skills,64.4
+STU0790,Machine Learning,85.3
+STU0790,Python Programming,69.3
+STU0790,Statistics,91.3
+STU0790,Mathematics,76.0
+STU0790,Communication Skills,84.4
+STU0791,Data Structures,55.2
+STU0791,DBMS,59.4
+STU0791,Operating Systems,70.1
+ STU0791 ,Mathematics,56.3
+STU0791,Communication Skills,63.3
+STU0792,Web Technologies,96.4
+STU0792,DBMS,89.1
+STU0792,Computer Networks,100.0
+STU0792,Mathematics,100.0
+STU0792,Communication Skills,100.0
+stu_0793,Web Technologies,61.3
+STU0793,DBMS,57.3
+STU0793,Computer Networks,56.6
+STU0793,Mathematics,64.5
+STU0793,Communication Skills,56.0
+STU0794,Data Structures,65.4
+STU0794,DBMS,68.7
+STU0794,Operating Systems,69.3
+STU0794,Mathematics,72.4
+STU0794,Communication Skills,67.6
+STU0795,Data Structures,51.8
+STU0795,DBMS,64.9
+STU0795,Operating Systems,53.1
+STU0795,Mathematics,62.7
+STU0795,Communication Skills,68.0
+STU0796,Web Technologies,82.8
+STU0796,DBMS,72.0
+STU0796,Computer Networks,67.3
+STU0796,Mathematics,50.6
+STU0796,Communication Skills,71.9
+STU0797,Data Structures,70.0
+STU0797,DBMS,64.2
+STU0797,Operating Systems,79.3
+STU0797,Mathematics,70.6
+STU0797,Communication Skills,64.9
+STU0798,Data Structures,51.6
+STU0798,DBMS,73.0
+STU0798,Operating Systems,53.5
+STU0798,Mathematics,62.7
+STU0798,Communication Skills,51.9
+STU0799,Digital Electronics,88.9
+STU0799,Signals & Systems,80.5
+stu_0799,Microprocessors,89.7
+STU0799,Mathematics,81.7
+STU0799,Communication Skills,75.6
+STU0800,Digital Electronics,60.4
+STU0800,Signals & Systems,64.8
+STU0800,Microprocessors,76.1
+STU0800,Mathematics,70.8
+STU0800,Communication Skills,83.6
+STU0801,Digital Electronics,75.9
+STU0801,Signals & Systems,64.0
+STU0801,Microprocessors,63.8
+STU0801,Mathematics,65.4
+STU0801,Communication Skills,85.7
+STU0802,Web Technologies,39.5
+STU0802,DBMS,38.9
+STU0802,Computer Networks,57.7
+STU0802,Mathematics,55.5
+STU0802,Communication Skills,46.8
+STU0803,Thermodynamics,68.1
+STU0803,Fluid Mechanics,74.0
+STU0803,Manufacturing,61.9
+STU0803,Mathematics,74.4
+STU0803,Communication Skills,69.7
+STU0804,Machine Learning,55.1
+STU0804,Python Programming,49.5
+STU0804,Statistics,58.0
+STU0804,Mathematics,51.3
+STU0804,Communication Skills,59.8
+STU0805,Data Structures,53.8
+STU0805,DBMS,32.4
+STU0805,Operating Systems,41.4
+STU0805,Mathematics,40.3
+STU0805,Communication Skills,50.4
+STU0806,Data Structures,57.1
+STU0806,DBMS,43.0
+STU0806,Operating Systems,60.1
+STU0806,Mathematics,56.2
+STU0806,Communication Skills,42.3
+STU0807,Digital Electronics,98.5
+STU0807,Signals & Systems,100.0
+STU0807,Microprocessors,91.5
+STU0807,Mathematics,78.3
+STU0807,Communication Skills,93.0
+STU0808,Data Structures,59.4
+STU0808,DBMS,54.2
+STU0808,Operating Systems,53.4
+STU0808,Mathematics,79.7
+STU0808,Communication Skills,52.1
+STU0809,Machine Learning,35.7
+STU0809,Python Programming,40.4
+STU0809,Statistics,37.4
+STU0809,Mathematics,61.1
+STU0809,Communication Skills,47.0
+STU0810,Structural Analysis,73.4
+STU0810,Surveying,44.3
+STU0810,Geotechnical Engg,40.7
+STU0810,Mathematics,48.3
+STU0810,Communication Skills,56.8
+STU0811,Data Structures,66.2
+STU0811,DBMS,65.3
+STU0811,Operating Systems,56.4
+STU0811,Mathematics,71.8
+STU0811,Communication Skills,57.9
+STU0812,Data Structures,77.0
+STU0812,DBMS,72.9
+STU0812,Operating Systems,70.8
+STU0812,Mathematics,67.3
+STU0812,Communication Skills,NA
+STU0813,Structural Analysis,absent
+STU0813,Surveying,71.9
+STU0813,Geotechnical Engg,66.5
+STU0813,Mathematics,67.5
+STU0813,Communication Skills,64.9
+STU0814,Machine Learning,65.4
+STU0814,Python Programming,66.8
+STU0814,Statistics,70.5
+STU0814,Mathematics,56.3
+STU0814,Communication Skills,77.8
+STU0815,Data Structures,47.3
+STU0815,DBMS,55.8
+STU0815,Operating Systems,57.5
+STU0815,Mathematics,58.4
+STU0815,Communication Skills,40.8
+STU0816,Thermodynamics,57.1
+STU0816,Fluid Mechanics,41.7
+STU0816,Manufacturing,70.2
+STU0816,Mathematics,57.2
+STU0816,Communication Skills,68.8
+STU0817,Thermodynamics,48.4
+STU0817,Fluid Mechanics,41.0
+STU0817,Manufacturing,55.7
+STU0817,Mathematics,53.6
+STU0817,Communication Skills,55.7
+STU0818,Machine Learning,55.5
+STU0818,Python Programming,50.2
+STU0818,Statistics,59.3
+STU0818,Mathematics,54.6
+STU0818,Communication Skills,56.7
+STU0819,Digital Electronics,55.0
+STU0819,Signals & Systems,63.8
+STU0819,Microprocessors,52.7
+STU0819,Mathematics,50.9
+STU0819,Communication Skills,65.1
+STU0820,Data Structures,41.8
+STU0820,DBMS,51.9
+STU0820,Operating Systems,56.7
+STU0820,Mathematics,47.7
+STU0820,Communication Skills,53.6
+STU0821,Data Structures,85.6
+STU0821,DBMS,78.2
+STU0821,Operating Systems,96.1
+STU0821,Mathematics,70.6
+STU0821,Communication Skills,65.2
+STU0822,Machine Learning,68.1
+STU0822,Python Programming,62.8
+STU0822,Statistics,73.7
+STU0822,Mathematics,59.0
+STU0822,Communication Skills,63.6
+STU0823,Web Technologies,74.9
+STU0823,DBMS,72.0
+STU0823,Computer Networks,58.3
+STU0823,Mathematics,71.0
+STU0823,Communication Skills,77.4
+STU0824,Digital Electronics,71.6
+STU0824,Signals & Systems,55.3
+STU0824,Microprocessors,57.7
+STU0824,Mathematics,72.8
+STU0824,Communication Skills,55.0
+STU0825,Thermodynamics,85.1
+STU0825,Fluid Mechanics,67.5
+STU0825,Manufacturing,76.0
+STU0825,Mathematics,75.0
+STU0825,Communication Skills,64.3
+STU0826,Data Structures,30.5
+STU0826,DBMS,36.8
+STU0826,Operating Systems,52.2
+STU0826,Mathematics,32.1
+STU0826,Communication Skills,35.7
+STU0827,Machine Learning,76.6
+STU0827,Python Programming,60.2
+STU0827,Statistics,78.6
+STU0827,Mathematics,74.0
+STU0827,Communication Skills,81.8
+STU0828,Data Structures,65.6
+STU0828,DBMS,68.7
+STU0828,Operating Systems,57.7
+STU0828,Mathematics,74.5
+STU0828,Communication Skills,54.8
+STU0829,Thermodynamics,58.2
+STU0829,Fluid Mechanics,72.6
+STU0829,Manufacturing,70.3
+STU0829,Mathematics,72.9
+STU0829,Communication Skills,72.7
+STU0830,Data Structures,68.1
+STU0830,DBMS,69.8
+STU0830,Operating Systems,77.4
+STU0830,Mathematics,60.2
+STU0830,Communication Skills,64.6
+STU0831,Machine Learning,45.6
+STU0831,Python Programming,42.1
+STU0831,Statistics,42.9
+STU0831,Mathematics,39.2
+STU0831,Communication Skills,63.4
+STU0832,Machine Learning,57.0
+STU0832,Python Programming,49.0
+STU0832,Statistics,42.7
+STU0832,Mathematics,43.7
+STU0832,Communication Skills,51.8
+STU0833,Web Technologies,49.4
+STU0833,DBMS,48.8
+STU0833,Computer Networks,44.6
+stu_0833,Mathematics,60.4
+STU0833,Communication Skills,48.8
+STU0834,Digital Electronics,68.4
+STU0834,Signals & Systems,69.7
+STU0834,Microprocessors,78.4
+STU0834,Mathematics,67.8
+STU0834,Communication Skills,76.7
+STU0835,Digital Electronics,64.5
+STU0835,Signals & Systems,65.8
+STU0835,Microprocessors,62.5
+STU0835,Mathematics,64.0
+STU0835,Communication Skills,64.4
+STU0836,Machine Learning,37.0
+STU0836,Python Programming,47.5
+STU0836,Statistics,50.5
+STU0836,Mathematics,39.8
+STU0836,Communication Skills,49.2
+STU0837,Digital Electronics,45.4
+STU0837,Signals & Systems,44.2
+STU0837,Microprocessors,48.0
+STU0837,Mathematics,56.5
+STU0837,Communication Skills,55.9
+STU0838,Structural Analysis,44.2
+STU0838,Surveying,48.2
+STU0838,Geotechnical Engg,44.4
+STU0838,Mathematics,62.9
+ STU0838 ,Communication Skills,44.5
+STU0839,Web Technologies,67.1
+STU0839,DBMS,57.9
+STU0839,Computer Networks,64.2
+STU0839,Mathematics,48.1
+STU0839,Communication Skills,48.6
+STU0840,Machine Learning,40.6
+STU0840,Python Programming,41.1
+STU0840,Statistics,45.3
+STU0840,Mathematics,47.0
+STU0840,Communication Skills,62.6
+STU0841,Data Structures,37.9
+STU0841,DBMS,56.8
+STU0841,Operating Systems,37.9
+STU0841,Mathematics,41.7
+STU0841,Communication Skills,44.1
+STU0842,Thermodynamics,52.2
+STU0842,Fluid Mechanics,51.2
+STU0842,Manufacturing,71.2
+STU0842,Mathematics,49.7
+STU0842,Communication Skills,66.9
+STU0843,Machine Learning,64.6
+STU0843,Python Programming,53.4
+STU0843,Statistics,46.7
+STU0843,Mathematics,70.9
+STU0843,Communication Skills,59.5
+STU0844,Web Technologies,51.1
+STU0844,DBMS,43.8
+STU0844,Computer Networks,46.7
+STU0844,Mathematics,35.1
+STU0844,Communication Skills,53.9
+STU0845,Data Structures,58.1
+stu0845,DBMS,67.4
+STU0845,Operating Systems,54.7
+STU0845,Mathematics,72.6
+STU0845,Communication Skills,59.4
+STU0846,Thermodynamics,75.0
+STU0846,Fluid Mechanics,75.1
+STU0846,Manufacturing,69.3
+STU0846,Mathematics,71.9
+STU0846,Communication Skills,78.7
+STU0847,Web Technologies,41.2
+STU0847,DBMS,53.9
+STU0847,Computer Networks,47.2
+STU0847,Mathematics,66.4
+STU0847,Communication Skills,46.6
+STU0848,Digital Electronics,46.7
+STU0848,Signals & Systems,72.0
+STU-0848,Microprocessors,56.2
+STU0848,Mathematics,65.2
+STU0848,Communication Skills,68.6
+STU0849,Data Structures,77.1
+STU0849,DBMS,87.2
+STU0849,Operating Systems,79.7
+STU0849,Mathematics,63.7
+STU0849,Communication Skills,80.9
+STU0850,Structural Analysis,58.3
+STU0850,Surveying,47.9
+STU0850,Geotechnical Engg,63.0
+STU0850,Mathematics,56.8
+STU0850,Communication Skills,64.4
+STU0851,Data Structures,55.3
+STU0851,DBMS,54.3
+stu0851,Operating Systems,57.9
+ STU0851 ,Mathematics,49.9
+STU0851,Communication Skills,49.8
+STU0852,Data Structures,69.6
+STU0852,DBMS,65.4
+STU0852,Operating Systems,73.6
+STU0852,Mathematics,84.2
+STU0852,Communication Skills,78.1
+STU0853,Thermodynamics,63.4
+STU0853,Fluid Mechanics,52.8
+STU0853,Manufacturing,56.5
+STU0853,Mathematics,43.6
+STU0853,Communication Skills,67.0
+STU0854,Structural Analysis,69.6
+STU0854,Surveying,76.9
+STU0854,Geotechnical Engg,74.9
+STU0854,Mathematics,80.1
+STU0854,Communication Skills,74.5
+STU0855,Data Structures,61.2
+STU0855,DBMS,67.7
+STU0855,Operating Systems,74.3
+STU0855,Mathematics,66.1
+STU0855,Communication Skills,69.4
+STU0856,Machine Learning,61.1
+STU0856,Python Programming,62.4
+STU0856,Statistics,38.7
+STU0856,Mathematics,48.0
+STU0856,Communication Skills,61.8
+STU0857,Digital Electronics,64.8
+STU0857,Signals & Systems,NA
+STU0857,Microprocessors,66.3
+STU0857,Mathematics,71.7
+STU0857,Communication Skills,66.4
+STU0858,Thermodynamics,60.6
+STU0858,Fluid Mechanics,79.2
+STU0858,Manufacturing,68.5
+STU0858,Mathematics,87.1
+STU0858,Communication Skills,63.3
+STU0859,Web Technologies,75.4
+STU0859,DBMS,79.7
+STU0859,Computer Networks,56.4
+STU0859,Mathematics,AB
+STU0859,Communication Skills,70.8
+STU0860,Machine Learning,56.2
+STU0860,Python Programming,53.0
+STU0860,Statistics,63.5
+STU0860,Mathematics,47.3
+STU0860,Communication Skills,48.9
+STU0861,Digital Electronics,48.6
+STU0861,Signals & Systems,71.3
+STU0861,Microprocessors,54.6
+STU0861,Mathematics,59.6
+STU0861,Communication Skills,65.8
+STU0862,Digital Electronics,68.6
+STU0862,Signals & Systems,66.2
+STU0862,Microprocessors,51.5
+STU0862,Mathematics,51.5
+STU0862,Communication Skills,83.4
+STU0863,Thermodynamics,72.7
+STU0863,Fluid Mechanics,73.1
+stu_0863,Manufacturing,69.2
+STU0863,Mathematics,58.2
+STU0863,Communication Skills,68.8
+STU0864,Machine Learning,42.4
+STU0864,Python Programming,39.6
+STU0864,Statistics,57.3
+STU0864,Mathematics,46.3
+STU0864,Communication Skills,53.4
+STU0865,Data Structures,63.8
+STU0865,DBMS,78.3
+STU0865,Operating Systems,77.7
+STU0865,Mathematics,70.0
+STU0865,Communication Skills,84.3
+STU0866,Structural Analysis,69.9
+STU0866,Surveying,80.0
+STU0866,Geotechnical Engg,66.2
+STU0866,Mathematics,74.1
+STU0866,Communication Skills,49.9
+STU0867,Thermodynamics,56.5
+STU0867,Fluid Mechanics,43.0
+STU0867,Manufacturing,39.5
+STU0867,Mathematics,46.2
+STU0867,Communication Skills,41.7
+STU0868,Thermodynamics,77.5
+STU0868,Fluid Mechanics,81.6
+STU0868,Manufacturing,76.5
+STU0868,Mathematics,75.6
+STU0868,Communication Skills,81.4
+STU0869,Data Structures,100.0
+STU0869,DBMS,85.6
+STU0869,Operating Systems,100.0
+STU0869,Mathematics,80.4
+STU0869,Communication Skills,100.0
+STU0870,Data Structures,71.6
+STU0870,DBMS,90.0
+STU0870,Operating Systems,68.5
+STU0870,Mathematics,74.8
+STU0870,Communication Skills,65.5
+STU0871,Digital Electronics,84.1
+STU0871,Signals & Systems,93.4
+STU0871,Microprocessors,90.8
+STU0871,Mathematics,99.8
+STU0871,Communication Skills,73.5
+STU0872,Data Structures,70.9
+STU0872,DBMS,67.1
+STU0872,Operating Systems,74.4
+STU0872,Mathematics,69.6
+STU0872,Communication Skills,50.6
+STU0873,Structural Analysis,46.4
+STU0873,Surveying,38.9
+STU0873,Geotechnical Engg,40.5
+STU0873,Mathematics,40.0
+STU0873,Communication Skills,33.3
+STU0874,Web Technologies,41.5
+STU0874,DBMS,48.3
+STU0874,Computer Networks,44.1
+STU0874,Mathematics,45.8
+STU0874,Communication Skills,31.8
+STU0875,Digital Electronics,59.1
+STU0875,Signals & Systems,53.8
+STU0875,Microprocessors,75.0
+STU0875,Mathematics,84.5
+STU0875,Communication Skills,69.3
+STU0876,Thermodynamics,50.2
+STU0876,Fluid Mechanics,69.4
+STU0876,Manufacturing,52.3
+STU0876,Mathematics,64.0
+STU0876,Communication Skills,49.6
+stu0877,Web Technologies,59.2
+STU0877,DBMS,30.9
+STU0877,Computer Networks,55.8
+STU0877,Mathematics,51.1
+STU0877,Communication Skills,57.4
+STU0878,Web Technologies,57.5
+STU0878,DBMS,61.0
+STU0878,Computer Networks,60.0
+STU0878,Mathematics,70.2
+STU0878,Communication Skills,51.7
+STU0879,Machine Learning,absent
+STU0879,Python Programming,70.6
+STU0879,Statistics,75.8
+STU0879,Mathematics,70.7
+STU0879,Communication Skills,68.8
+ STU0880 ,Machine Learning,51.7
+STU0880,Python Programming,43.8
+STU0880,Statistics,42.3
+STU0880,Mathematics,55.1
+STU0880,Communication Skills,37.7
+STU0881,Web Technologies,56.2
+STU0881,DBMS,58.7
+STU0881,Computer Networks,57.7
+STU0881,Mathematics,58.9
+STU0881,Communication Skills,54.3
+STU0882,Machine Learning,80.8
+STU0882,Python Programming,77.1
+STU0882,Statistics,85.4
+STU0882,Mathematics,81.6
+STU0882,Communication Skills,71.2
+STU0883,Structural Analysis,37.9
+STU0883,Surveying,52.9
+STU0883,Geotechnical Engg,59.7
+STU0883,Mathematics,52.7
+STU0883,Communication Skills,44.1
+STU0884,Machine Learning,83.9
+STU0884,Python Programming,64.1
+STU0884,Statistics,58.6
+STU0884,Mathematics,71.2
+STU0884,Communication Skills,76.8
+STU0885,Data Structures,53.4
+STU0885,DBMS,62.0
+STU0885,Operating Systems,63.5
+STU0885,Mathematics,56.8
+STU0885,Communication Skills,55.8
+STU0886,Web Technologies,65.4
+STU0886,DBMS,76.4
+STU0886,Computer Networks,75.2
+STU0886,Mathematics,59.8
+STU0886,Communication Skills,62.3
+STU0887,Web Technologies,78.2
+STU0887,DBMS,76.8
+STU0887,Computer Networks,84.2
+STU0887,Mathematics,67.2
+ STU0887 ,Communication Skills,81.8
+STU0888,Data Structures,74.3
+STU0888,DBMS,61.2
+STU0888,Operating Systems,66.2
+STU0888,Mathematics,80.7
+STU0888,Communication Skills,62.8
+STU0889,Data Structures,74.2
+stu0889,DBMS,77.5
+STU0889,Operating Systems,81.6
+STU0889,Mathematics,63.2
+STU0889,Communication Skills,82.3
+STU0890,Digital Electronics,62.5
+STU0890,Signals & Systems,58.0
+STU0890,Microprocessors,45.1
+STU0890,Mathematics,43.2
+STU0890,Communication Skills,53.0
+STU0891,Web Technologies,69.0
+STU0891,DBMS,76.7
+STU0891,Computer Networks,75.6
+STU0891,Mathematics,69.2
+STU0891,Communication Skills,67.4
+STU0892,Structural Analysis,52.4
+STU0892,Surveying,48.7
+STU0892,Geotechnical Engg,43.8
+STU0892,Mathematics,52.2
+STU0892,Communication Skills,42.7
+STU0893,Data Structures,63.0
+STU0893,DBMS,54.3
+STU0893,Operating Systems,86.3
+STU0893,Mathematics,57.6
+STU0893,Communication Skills,65.3
+STU0894,Data Structures,67.7
+STU0894,DBMS,absent
+STU0894,Operating Systems,66.2
+STU0894,Mathematics,67.2
+STU0894,Communication Skills,69.6
+STU0895,Digital Electronics,58.7
+STU0895,Signals & Systems,74.0
+STU0895,Microprocessors,65.3
+STU0895,Mathematics,63.8
+STU0895,Communication Skills,70.2
+STU0896,Thermodynamics,65.6
+STU0896,Fluid Mechanics,58.6
+STU0896,Manufacturing,69.0
+STU0896,Mathematics,59.0
+STU0896,Communication Skills,71.0
+STU0897,Data Structures,49.5
+STU0897,DBMS,60.5
+STU0897,Operating Systems,60.4
+STU0897,Mathematics,41.8
+stu0897,Communication Skills,54.6
+STU0898,Data Structures,45.0
+STU0898,DBMS,53.9
+STU0898,Operating Systems,43.9
+STU0898,Mathematics,39.5
+STU0898,Communication Skills,40.3
+STU0899,Data Structures,80.9
+STU0899,DBMS,88.6
+STU0899,Operating Systems,79.3
+STU0899,Mathematics,84.4
+stu_0899,Communication Skills,75.4
+STU0900,Machine Learning,68.6
+STU0900,Python Programming,60.6
+STU0900,Statistics,63.2
+STU0900,Mathematics,60.6
+STU0900,Communication Skills,62.0
+STU0901,Machine Learning,76.6
+stu0901,Python Programming,71.5
+STU0901,Statistics,65.1
+STU0901,Mathematics,82.9
+STU0901,Communication Skills,81.3
+STU0902,Data Structures,71.0
+STU0902,DBMS,65.5
+STU0902,Operating Systems,59.9
+STU0902,Mathematics,47.3
+STU0902,Communication Skills,69.6
+STU0903,Data Structures,54.7
+STU0903,DBMS,39.8
+STU0903,Operating Systems,34.6
+STU0903,Mathematics,47.1
+STU0903,Communication Skills,42.8
+STU0904,Machine Learning,66.2
+STU0904,Python Programming,81.8
+STU0904,Statistics,77.6
+STU0904,Mathematics,68.8
+STU0904,Communication Skills,67.4
+STU0905,Structural Analysis,46.8
+STU0905,Surveying,53.9
+STU0905,Geotechnical Engg,57.7
+STU0905,Mathematics,56.6
+STU0905,Communication Skills,49.5
+STU0906,Digital Electronics,63.8
+STU0906,Signals & Systems,76.1
+STU0906,Microprocessors,79.4
+STU0906,Mathematics,75.1
+STU0906,Communication Skills,66.8
+STU0907,Machine Learning,56.8
+STU0907,Python Programming,57.1
+STU0907,Statistics,57.9
+STU0907,Mathematics,50.2
+STU0907,Communication Skills,52.1
+STU0908,Data Structures,74.1
+STU0908,DBMS,85.9
+STU0908,Operating Systems,73.2
+STU0908,Mathematics,81.4
+STU0908,Communication Skills,74.0
+STU0909,Data Structures,61.9
+STU0909,DBMS,64.1
+STU0909,Operating Systems,58.4
+STU0909,Mathematics,46.7
+STU-0909,Communication Skills,52.3
+STU0910,Web Technologies,64.9
+STU0910,DBMS,56.4
+STU0910,Computer Networks,55.8
+STU0910,Mathematics,46.2
+STU0910,Communication Skills,62.4
+STU0911,Digital Electronics,64.8
+STU0911,Signals & Systems,59.0
+STU-0911,Microprocessors,60.0
+STU0911,Mathematics,49.7
+STU0911,Communication Skills,58.9
+STU0912,Thermodynamics,48.0
+STU0912,Fluid Mechanics,48.5
+STU0912,Manufacturing,41.9
+STU0912,Mathematics,33.7
+STU0912,Communication Skills,43.5
+STU0913,Structural Analysis,57.9
+STU0913,Surveying,79.6
+STU0913,Geotechnical Engg,80.8
+STU0913,Mathematics,67.8
+STU0913,Communication Skills,75.2
+STU0914,Structural Analysis,76.2
+STU0914,Surveying,93.9
+stu0914,Geotechnical Engg,69.1
+STU0914,Mathematics,62.7
+STU0914,Communication Skills,66.9
+stu_0915,Structural Analysis,71.5
+STU0915,Surveying,65.8
+STU0915,Geotechnical Engg,37.4
+STU0915,Mathematics,56.7
+STU0915,Communication Skills,51.7
+STU0916,Structural Analysis,71.7
+STU0916,Surveying,63.4
+STU0916,Geotechnical Engg,78.9
+STU0916,Mathematics,66.8
+STU0916,Communication Skills,49.9
+STU0917,Data Structures,15.9
+STU0917,DBMS,31.9
+STU0917,Operating Systems,35.2
+STU0917,Mathematics,29.5
+STU0917,Communication Skills,33.5
+STU0918,Data Structures,NA
+STU0918,DBMS,71.0
+STU0918,Operating Systems,56.2
+STU0918,Mathematics,55.2
+STU0918,Communication Skills,47.4
+STU0919,Web Technologies,42.2
+STU0919,DBMS,58.0
+STU0919,Computer Networks,66.1
+STU0919,Mathematics,46.2
+STU0919,Communication Skills,59.1
+STU0920,Machine Learning,57.9
+STU0920,Python Programming,59.9
+STU0920,Statistics,68.2
+STU0920,Mathematics,NA
+STU0920,Communication Skills,62.7
+stu0921,Data Structures,82.9
+STU0921,DBMS,62.9
+STU0921,Operating Systems,74.2
+STU0921,Mathematics,80.2
+STU0921,Communication Skills,72.3
+STU0922,Thermodynamics,61.3
+STU0922,Fluid Mechanics,56.0
+STU0922,Manufacturing,57.2
+STU0922,Mathematics,58.8
+STU0922,Communication Skills,62.4
+STU0923,Machine Learning,69.2
+STU0923,Python Programming,64.9
+STU0923,Statistics,62.3
+STU0923,Mathematics,68.0
+STU0923,Communication Skills,57.0
+STU0924,Machine Learning,46.8
+STU0924,Python Programming,62.5
+STU0924,Statistics,46.2
+STU0924,Mathematics,53.2
+STU0924,Communication Skills,44.5
+STU0925,Data Structures,31.3
+STU0925,DBMS,50.3
+STU0925,Operating Systems,29.1
+STU0925,Mathematics,42.2
+STU0925,Communication Skills,47.0
+STU0926,Data Structures,58.8
+STU0926,DBMS,50.4
+STU0926,Operating Systems,51.1
+STU0926,Mathematics,48.1
+STU0926,Communication Skills,41.2
+STU0927,Data Structures,69.2
+STU0927,DBMS,70.5
+STU0927,Operating Systems,65.2
+STU0927,Mathematics,90.9
+STU0927,Communication Skills,87.1
+STU0928,Thermodynamics,43.6
+STU0928,Fluid Mechanics,32.0
+STU0928,Manufacturing,33.4
+STU0928,Mathematics,30.4
+STU0928,Communication Skills,15.9
+STU0929,Machine Learning,49.3
+STU0929,Python Programming,47.7
+STU0929,Statistics,53.0
+STU0929,Mathematics,46.3
+STU0929,Communication Skills,38.4
+STU0930,Digital Electronics,56.4
+STU0930,Signals & Systems,57.4
+STU0930,Microprocessors,54.7
+STU0930,Mathematics,47.4
+STU0930,Communication Skills,66.0
+STU0931,Web Technologies,75.7
+STU0931,DBMS,86.0
+STU0931,Computer Networks,84.5
+STU0931,Mathematics,79.6
+STU0931,Communication Skills,81.0
+STU0932,Web Technologies,80.5
+STU0932,DBMS,77.8
+STU0932,Computer Networks,79.3
+STU0932,Mathematics,86.3
+STU0932,Communication Skills,68.9
+STU0933,Web Technologies,53.4
+STU0933,DBMS,55.1
+STU0933,Computer Networks,56.1
+STU0933,Mathematics,40.6
+STU0933,Communication Skills,47.4
+STU0934,Digital Electronics,84.6
+STU0934,Signals & Systems,78.6
+STU0934,Microprocessors,69.4
+STU0934,Mathematics,68.1
+STU0934,Communication Skills,77.4
+STU0935,Digital Electronics,62.4
+STU0935,Signals & Systems,42.3
+STU0935,Microprocessors,66.9
+STU0935,Mathematics,47.7
+STU0935,Communication Skills,58.8
+STU0936,Data Structures,64.4
+STU0936,DBMS,73.1
+STU0936,Operating Systems,80.0
+STU0936,Mathematics,66.8
+STU0936,Communication Skills,72.2
+STU0937,Structural Analysis,52.1
+STU0937,Surveying,52.3
+STU0937,Geotechnical Engg,31.0
+STU0937,Mathematics,41.8
+STU0937,Communication Skills,60.3
+STU0938,Data Structures,61.5
+STU0938,DBMS,77.7
+STU0938,Operating Systems,67.3
+STU0938,Mathematics,81.5
+STU0938,Communication Skills,59.1
+STU0939,Thermodynamics,55.2
+STU0939,Fluid Mechanics,51.7
+STU0939,Manufacturing,48.7
+STU0939,Mathematics,54.4
+STU0939,Communication Skills,55.7
+STU0940,Data Structures,45.5
+STU0940,DBMS,49.8
+STU0940,Operating Systems,50.0
+STU0940,Mathematics,42.4
+STU0940,Communication Skills,34.5
+STU0941,Data Structures,59.7
+STU0941,DBMS,73.9
+STU0941,Operating Systems,54.2
+STU0941,Mathematics,60.4
+STU0941,Communication Skills,65.3
+STU0942,Thermodynamics,60.1
+STU0942,Fluid Mechanics,64.1
+STU0942,Manufacturing,44.0
+STU0942,Mathematics,54.9
+STU0942,Communication Skills,73.0
+STU0943,Data Structures,63.5
+STU0943,DBMS,59.8
+STU0943,Operating Systems,54.4
+STU0943,Mathematics,39.1
+STU0943,Communication Skills,47.1
+STU0944,Web Technologies,67.2
+STU0944,DBMS,48.6
+STU0944,Computer Networks,72.3
+STU0944,Mathematics,76.5
+STU0944,Communication Skills,71.0
+STU0945,Web Technologies,48.4
+STU0945,DBMS,53.2
+STU0945,Computer Networks,54.1
+STU0945,Mathematics,41.0
+STU0945,Communication Skills,44.3
+STU0946,Data Structures,NA
+STU0946,DBMS,66.6
+STU0946,Operating Systems,66.9
+STU0946,Mathematics,63.1
+STU0946,Communication Skills,46.7
+STU0947,Digital Electronics,68.5
+STU0947,Signals & Systems,74.0
+STU0947,Microprocessors,73.0
+STU0947,Mathematics,73.8
+STU0947,Communication Skills,53.4
+STU0948,Thermodynamics,40.7
+STU0948,Fluid Mechanics,64.7
+STU0948,Manufacturing,54.8
+STU0948,Mathematics,62.4
+STU0948,Communication Skills,65.9
+STU0949,Thermodynamics,57.0
+STU0949,Fluid Mechanics,56.9
+STU0949,Manufacturing,42.8
+STU0949,Mathematics,60.2
+STU0949,Communication Skills,68.6
+STU0950,Web Technologies,82.9
+STU0950,DBMS,77.0
+STU0950,Computer Networks,56.6
+STU0950,Mathematics,65.6
+STU0950,Communication Skills,66.9
+STU0951,Machine Learning,57.8
+STU0951,Python Programming,65.2
+STU0951,Statistics,55.1
+STU0951,Mathematics,58.7
+STU0951,Communication Skills,70.5
+STU0952,Data Structures,95.0
+STU0952,DBMS,89.4
+STU0952,Operating Systems,100.0
+STU0952,Mathematics,81.9
+STU0952,Communication Skills,100.0
+STU0953,Data Structures,58.4
+STU0953,DBMS,77.7
+STU0953,Operating Systems,NA
+stu0953,Mathematics,87.5
+STU0953,Communication Skills,74.1
+STU0954,Data Structures,67.6
+STU0954,DBMS,79.6
+STU0954,Operating Systems,56.8
+STU0954,Mathematics,74.0
+STU0954,Communication Skills,77.9
+STU0955,Structural Analysis,92.7
+STU0955,Surveying,100.0
+STU0955,Geotechnical Engg,100.0
+STU0955,Mathematics,100.0
+STU0955,Communication Skills,95.1
+STU0956,Thermodynamics,63.0
+STU0956,Fluid Mechanics,71.2
+STU0956,Manufacturing,65.8
+STU0956,Mathematics,63.4
+STU0956,Communication Skills,81.6
+STU0957,Digital Electronics,71.0
+STU0957,Signals & Systems,61.9
+STU0957,Microprocessors,60.6
+STU0957,Mathematics,65.0
+STU0957,Communication Skills,65.0
+STU0958,Machine Learning,80.7
+STU0958,Python Programming,66.4
+STU0958,Statistics,68.0
+STU0958,Mathematics,90.0
+STU0958,Communication Skills,70.3
+STU0959,Machine Learning,38.4
+STU0959,Python Programming,39.6
+STU0959,Statistics,40.3
+STU0959,Mathematics,37.2
+STU0959,Communication Skills,46.6
+STU0960,Machine Learning,63.5
+STU-0960,Python Programming,57.6
+STU0960,Statistics,50.6
+STU0960,Mathematics,56.4
+STU0960,Communication Skills,68.6
+STU0961,Machine Learning,53.4
+STU0961,Python Programming,54.5
+STU0961,Statistics,53.2
+STU0961,Mathematics,69.1
+STU0961,Communication Skills,63.3
+STU0962,Web Technologies,59.5
+STU0962,DBMS,70.9
+STU0962,Computer Networks,77.8
+STU0962,Mathematics,62.0
+STU0962,Communication Skills,73.0
+STU0963,Data Structures,62.1
+STU0963,DBMS,61.6
+STU0963,Operating Systems,56.4
+STU0963,Mathematics,66.4
+STU0963,Communication Skills,56.5
+stu_0964,Data Structures,63.3
+STU0964,DBMS,58.7
+STU0964,Operating Systems,75.0
+STU0964,Mathematics,AB
+STU0964,Communication Skills,54.2
+STU0965,Structural Analysis,73.1
+STU0965,Surveying,84.2
+STU0965,Geotechnical Engg,71.4
+STU0965,Mathematics,67.9
+STU0965,Communication Skills,68.6
+STU0966,Machine Learning,82.8
+STU0966,Python Programming,63.8
+STU0966,Statistics,73.9
+STU0966,Mathematics,68.6
+STU0966,Communication Skills,69.0
+STU0967,Structural Analysis,62.1
+STU0967,Surveying,56.4
+STU0967,Geotechnical Engg,59.4
+STU0967,Mathematics,57.1
+STU0967,Communication Skills,60.3
+STU0968,Data Structures,64.0
+STU0968,DBMS,61.0
+STU0968,Operating Systems,54.5
+STU0968,Mathematics,54.8
+STU0968,Communication Skills,42.0
+STU0969,Machine Learning,63.9
+STU0969,Python Programming,64.0
+STU0969,Statistics,67.6
+STU0969,Mathematics,75.6
+STU0969,Communication Skills,76.9
+STU0970,Data Structures,76.5
+STU0970,DBMS,60.9
+STU0970,Operating Systems,68.6
+STU0970,Mathematics,78.5
+STU0970,Communication Skills,67.7
+STU0971,Data Structures,54.5
+STU0971,DBMS,37.0
+STU0971,Operating Systems,29.5
+STU0971,Mathematics,40.3
+ STU0971 ,Communication Skills,67.1
+STU0972,Data Structures,54.9
+STU0972,DBMS,53.6
+STU0972,Operating Systems,56.4
+STU0972,Mathematics,65.6
+STU0972,Communication Skills,43.5
+STU0973,Data Structures,60.0
+STU0973,DBMS,66.7
+STU0973,Operating Systems,71.1
+STU0973,Mathematics,72.8
+STU0973,Communication Skills,66.4
+STU0974,Structural Analysis,74.5
+STU0974,Surveying,67.7
+STU0974,Geotechnical Engg,72.4
+STU0974,Mathematics,79.0
+STU0974,Communication Skills,53.9
+STU0975,Web Technologies,68.1
+STU0975,DBMS,74.5
+STU0975,Computer Networks,87.6
+STU0975,Mathematics,76.3
+STU0975,Communication Skills,80.8
+STU0976,Machine Learning,75.3
+STU0976,Python Programming,44.2
+STU0976,Statistics,59.9
+STU0976,Mathematics,68.8
+STU0976,Communication Skills,69.9
+STU0977,Machine Learning,64.4
+STU0977,Python Programming,73.6
+STU0977,Statistics,62.7
+STU0977,Mathematics,74.1
+STU0977,Communication Skills,71.1
+STU0978,Web Technologies,64.0
+STU0978,DBMS,75.9
+stu0978,Computer Networks,56.1
+STU0978,Mathematics,66.5
+STU0978,Communication Skills,50.4
+STU0979,Machine Learning,55.0
+STU0979,Python Programming,63.9
+STU0979,Statistics,46.2
+STU0979,Mathematics,60.9
+STU0979,Communication Skills,69.6
+STU0980,Data Structures,62.1
+stu0980,DBMS,62.2
+STU0980,Operating Systems,57.2
+STU0980,Mathematics,55.4
+STU0980,Communication Skills,59.7
+STU0981,Structural Analysis,66.4
+STU0981,Surveying,50.5
+STU0981,Geotechnical Engg,61.7
+STU0981,Mathematics,54.2
+STU0981,Communication Skills,64.0
+STU0982,Thermodynamics,62.5
+STU0982,Fluid Mechanics,61.2
+STU0982,Manufacturing,70.9
+STU0982,Mathematics,62.1
+STU0982,Communication Skills,77.2
+STU0983,Digital Electronics,44.8
+STU0983,Signals & Systems,29.1
+STU0983,Microprocessors,38.6
+STU0983,Mathematics,44.9
+STU0983,Communication Skills,19.8
+STU0984,Machine Learning,67.7
+STU0984,Python Programming,57.1
+STU0984,Statistics,63.8
+STU0984,Mathematics,54.9
+STU0984,Communication Skills,42.7
+STU-0985,Data Structures,61.6
+STU0985,DBMS,53.9
+STU0985,Operating Systems,63.9
+STU0985,Mathematics,66.9
+STU0985,Communication Skills,61.7
+STU0986,Structural Analysis,59.4
+STU0986,Surveying,63.4
+STU0986,Geotechnical Engg,65.8
+STU0986,Mathematics,59.7
+STU0986,Communication Skills,59.3
+STU0987,Web Technologies,59.1
+STU0987,DBMS,66.5
+STU0987,Computer Networks,61.0
+STU0987,Mathematics,81.8
+STU0987,Communication Skills,63.1
+STU0988,Data Structures,63.6
+STU0988,DBMS,60.1
+STU0988,Operating Systems,54.7
+STU0988,Mathematics,67.6
+STU0988,Communication Skills,57.1
+STU0989,Web Technologies,40.5
+STU0989,DBMS,48.6
+STU0989,Computer Networks,51.4
+STU0989,Mathematics,44.3
+STU0989,Communication Skills,55.4
+STU0990,Thermodynamics,41.1
+STU0990,Fluid Mechanics,50.7
+STU0990,Manufacturing,38.4
+STU0990,Mathematics,36.8
+STU0990,Communication Skills,42.9
+STU0991,Digital Electronics,49.3
+STU0991,Signals & Systems,58.4
+STU0991,Microprocessors,61.3
+STU0991,Mathematics,62.2
+STU0991,Communication Skills,37.2
+STU0992,Digital Electronics,50.4
+STU0992,Signals & Systems,75.3
+STU0992,Microprocessors,65.5
+STU0992,Mathematics,70.8
+STU0992,Communication Skills,79.5
+STU0993,Thermodynamics,75.8
+STU0993,Fluid Mechanics,95.4
+STU0993,Manufacturing,72.6
+STU0993,Mathematics,97.5
+STU0993,Communication Skills,88.4
+STU0994,Data Structures,62.9
+STU0994,DBMS,71.1
+STU0994,Operating Systems,68.9
+STU0994,Mathematics,86.8
+STU0994,Communication Skills,77.0
+STU0995,Structural Analysis,43.7
+STU0995,Surveying,54.3
+STU0995,Geotechnical Engg,36.4
+STU0995,Mathematics,48.6
+STU0995,Communication Skills,47.4
+STU0996,Web Technologies,73.4
+STU0996,DBMS,64.6
+STU0996,Computer Networks,65.2
+STU0996,Mathematics,54.5
+STU0996,Communication Skills,55.9
+STU0997,Digital Electronics,76.2
+STU0997,Signals & Systems,63.8
+STU0997,Microprocessors,63.8
+STU0997,Mathematics,63.8
+stu_0997,Communication Skills,71.0
+STU0998,Data Structures,55.7
+STU0998,DBMS,59.3
+STU0998,Operating Systems,56.0
+STU0998,Mathematics,62.1
+STU0998,Communication Skills,55.4
+STU0999,Structural Analysis,83.4
+STU0999,Surveying,63.1
+STU0999,Geotechnical Engg,83.9
+STU0999,Mathematics,59.5
+STU0999,Communication Skills,74.9
+STU1000,Web Technologies,54.3
+STU1000,DBMS,49.1
+STU1000,Computer Networks,49.9
+STU1000,Mathematics,46.9
+STU1000,Communication Skills,58.0
+STU1001,Data Structures,56.7
+STU1001,DBMS,64.9
+STU1001,Operating Systems,59.1
+STU1001,Mathematics,50.5
+STU1001,Communication Skills,69.5
+stu1002,Web Technologies,66.2
+STU1002,DBMS,56.2
+STU1002,Computer Networks,71.0
+STU1002,Mathematics,66.4
+STU1002,Communication Skills,74.1
+STU1003,Data Structures,74.0
+STU1003,DBMS,75.7
+STU1003,Operating Systems,80.7
+STU1003,Mathematics,81.1
+STU1003,Communication Skills,75.7
+STU1004,Data Structures,42.3
+STU1004,DBMS,44.7
+STU1004,Operating Systems,58.4
+STU1004,Mathematics,44.5
+STU1004,Communication Skills,63.1
+STU1005,Digital Electronics,44.8
+STU1005,Signals & Systems,57.2
+STU1005,Microprocessors,46.4
+STU1005,Mathematics,41.7
+STU1005,Communication Skills,57.7
+STU1006,Web Technologies,13.4
+STU1006,DBMS,25.8
+STU1006,Computer Networks,19.2
+STU1006,Mathematics,37.6
+STU1006,Communication Skills,25.4
+STU1007,Structural Analysis,45.5
+STU1007,Surveying,50.0
+STU1007,Geotechnical Engg,63.3
+STU1007,Mathematics,28.6
+STU1007,Communication Skills,41.3
+STU1008,Web Technologies,66.9
+STU1008,DBMS,59.3
+STU1008,Computer Networks,45.0
+STU1008,Mathematics,51.9
+STU1008,Communication Skills,63.6
+STU1009,Digital Electronics,40.3
+STU1009,Signals & Systems,41.6
+STU1009,Microprocessors,AB
+STU1009,Mathematics,49.7
+STU1009,Communication Skills,61.3
+STU1010,Machine Learning,49.6
+STU1010,Python Programming,62.7
+STU1010,Statistics,74.3
+STU1010,Mathematics,67.0
+STU1010,Communication Skills,67.5
+STU1011,Digital Electronics,62.0
+STU1011,Signals & Systems,71.0
+STU1011,Microprocessors,51.4
+STU1011,Mathematics,59.2
+ STU1011 ,Communication Skills,67.5
+STU1012,Machine Learning,35.6
+STU1012,Python Programming,34.9
+STU1012,Statistics,30.9
+STU1012,Mathematics,29.3
+STU1012,Communication Skills,34.2
+STU1013,Machine Learning,67.8
+STU1013,Python Programming,51.9
+STU1013,Statistics,52.7
+STU1013,Mathematics,58.7
+STU1013,Communication Skills,64.9
+STU1014,Structural Analysis,56.4
+STU1014,Surveying,55.2
+STU1014,Geotechnical Engg,42.3
+STU1014,Mathematics,45.5
+STU1014,Communication Skills,31.5
+STU1015,Web Technologies,62.0
+STU1015,DBMS,63.2
+STU1015,Computer Networks,69.4
+STU1015,Mathematics,63.1
+STU1015,Communication Skills,63.5
+STU1016,Data Structures,47.8
+STU1016,DBMS,49.4
+STU1016,Operating Systems,47.1
+STU1016,Mathematics,38.7
+STU1016,Communication Skills,42.5
+STU1017,Digital Electronics,60.9
+STU1017,Signals & Systems,55.6
+STU1017,Microprocessors,59.3
+ STU1017 ,Mathematics,59.8
+STU1017,Communication Skills,49.8
+STU1018,Thermodynamics,61.3
+STU1018,Fluid Mechanics,56.5
+STU1018,Manufacturing,65.8
+STU1018,Mathematics,67.7
+STU-1018,Communication Skills,68.5
+STU1019,Data Structures,76.8
+STU1019,DBMS,60.6
+STU1019,Operating Systems,66.1
+STU1019,Mathematics,65.9
+STU1019,Communication Skills,56.4
+STU1020,Web Technologies,60.1
+STU1020,DBMS,60.6
+STU1020,Computer Networks,54.4
+STU1020,Mathematics,61.8
+ STU1020 ,Communication Skills,49.6
+STU1021,Thermodynamics,55.4
+STU1021,Fluid Mechanics,53.1
+STU1021,Manufacturing,59.3
+STU1021,Mathematics,59.4
+STU1021,Communication Skills,57.1
+STU1022,Digital Electronics,34.7
+STU1022,Signals & Systems,29.0
+STU1022,Microprocessors,39.0
+STU1022,Mathematics,43.3
+STU1022,Communication Skills,32.4
+STU1023,Structural Analysis,39.0
+STU1023,Surveying,52.7
+STU1023,Geotechnical Engg,48.0
+STU1023,Mathematics,41.4
+STU1023,Communication Skills,35.7
+STU1024,Machine Learning,40.1
+STU1024,Python Programming,49.0
+STU1024,Statistics,63.7
+STU1024,Mathematics,71.5
+STU1024,Communication Skills,49.9
+STU1025,Digital Electronics,67.0
+STU1025,Signals & Systems,65.8
+STU1025,Microprocessors,69.8
+STU1025,Mathematics,65.1
+STU1025,Communication Skills,61.3
+STU1026,Web Technologies,44.6
+STU1026,DBMS,51.3
+STU1026,Computer Networks,52.1
+STU1026,Mathematics,66.1
+STU1026,Communication Skills,57.9
+STU1027,Structural Analysis,76.5
+STU1027,Surveying,70.0
+STU1027,Geotechnical Engg,74.8
+STU1027,Mathematics,66.9
+stu1027,Communication Skills,62.2
+STU1028,Web Technologies,65.4
+STU1028,DBMS,51.1
+STU1028,Computer Networks,53.2
+STU1028,Mathematics,68.4
+STU1028,Communication Skills,60.2
+STU1029,Digital Electronics,58.6
+STU1029,Signals & Systems,39.7
+STU1029,Microprocessors,50.4
+STU1029,Mathematics,52.4
+STU1029,Communication Skills,50.0
+STU1030,Web Technologies,54.4
+STU1030,DBMS,62.1
+STU1030,Computer Networks,59.9
+STU1030,Mathematics,58.5
+STU1030,Communication Skills,67.7
+STU1031,Machine Learning,64.4
+STU1031,Python Programming,59.0
+STU1031,Statistics,67.3
+STU1031,Mathematics,68.6
+STU1031,Communication Skills,57.1
+STU1032,Digital Electronics,69.9
+STU1032,Signals & Systems,69.9
+STU1032,Microprocessors,72.8
+STU1032,Mathematics,58.2
+STU1032,Communication Skills,67.5
+ STU1033 ,Machine Learning,100.0
+STU1033,Python Programming,82.5
+STU1033,Statistics,89.9
+STU1033,Mathematics,76.0
+STU1033,Communication Skills,77.1
+STU1034,Structural Analysis,43.3
+STU1034,Surveying,60.9
+STU1034,Geotechnical Engg,45.5
+STU1034,Mathematics,45.8
+STU1034,Communication Skills,60.7
+STU1035,Web Technologies,73.8
+STU1035,DBMS,57.1
+STU1035,Computer Networks,59.2
+STU1035,Mathematics,49.4
+STU1035,Communication Skills,68.6
+STU1036,Digital Electronics,64.3
+STU1036,Signals & Systems,69.8
+STU1036,Microprocessors,71.5
+STU1036,Mathematics,74.4
+STU1036,Communication Skills,59.6
+STU1037,Web Technologies,73.7
+STU1037,DBMS,56.4
+STU1037,Computer Networks,57.6
+STU1037,Mathematics,70.1
+STU1037,Communication Skills,50.8
+STU1038,Web Technologies,57.8
+STU1038,DBMS,55.3
+STU1038,Computer Networks,52.2
+STU1038,Mathematics,62.5
+STU1038,Communication Skills,58.1
+STU1039,Web Technologies,38.0
+STU1039,DBMS,43.6
+STU1039,Computer Networks,37.5
+STU1039,Mathematics,55.3
+STU1039,Communication Skills,43.8
+STU1040,Data Structures,65.4
+STU1040,DBMS,50.0
+STU1040,Operating Systems,62.3
+STU1040,Mathematics,48.1
+STU1040,Communication Skills,46.5
+STU1041,Data Structures,67.4
+STU1041,DBMS,47.9
+STU1041,Operating Systems,55.4
+STU1041,Mathematics,43.0
+STU1041,Communication Skills,66.5
+STU1042,Digital Electronics,41.8
+STU1042,Signals & Systems,38.6
+STU1042,Microprocessors,30.8
+STU1042,Mathematics,31.0
+STU1042,Communication Skills,46.0
+STU1043,Digital Electronics,55.7
+STU1043,Signals & Systems,57.2
+STU1043,Microprocessors,37.7
+STU1043,Mathematics,49.7
+STU1043,Communication Skills,67.3
+STU1044,Digital Electronics,54.6
+STU1044,Signals & Systems,67.3
+STU1044,Microprocessors,51.1
+STU1044,Mathematics,39.9
+STU1044,Communication Skills,46.6
+STU1045,Data Structures,75.6
+STU1045,DBMS,59.0
+STU1045,Operating Systems,62.6
+STU1045,Mathematics,57.9
+STU1045,Communication Skills,85.0
+STU1046,Web Technologies,70.3
+STU1046,DBMS,86.2
+STU1046,Computer Networks,79.3
+STU1046,Mathematics,71.2
+STU1046,Communication Skills,58.2
+STU1047,Data Structures,52.5
+STU1047,DBMS,45.6
+STU1047,Operating Systems,43.8
+STU1047,Mathematics,45.7
+STU1047,Communication Skills,56.4
+STU1048,Digital Electronics,55.4
+STU1048,Signals & Systems,63.3
+STU1048,Microprocessors,53.7
+STU1048,Mathematics,66.8
+STU1048,Communication Skills,55.0
+STU1049,Thermodynamics,43.6
+STU1049,Fluid Mechanics,27.0
+STU1049,Manufacturing,33.2
+STU1049,Mathematics,37.7
+STU1049,Communication Skills,39.3
+STU1050,Data Structures,62.8
+STU1050,DBMS,56.0
+STU1050,Operating Systems,59.7
+STU1050,Mathematics,50.6
+STU1050,Communication Skills,46.6
+STU1051,Digital Electronics,63.9
+STU1051,Signals & Systems,66.0
+STU1051,Microprocessors,59.1
+STU1051,Mathematics,70.7
+STU1051,Communication Skills,62.1
+STU1052,Data Structures,56.4
+STU1052,DBMS,72.5
+STU1052,Operating Systems,72.6
+STU1052,Mathematics,68.0
+STU1052,Communication Skills,60.0
+STU1053,Data Structures,39.6
+STU1053,DBMS,54.6
+STU1053,Operating Systems,41.9
+STU1053,Mathematics,63.0
+STU1053,Communication Skills,42.0
+STU1054,Data Structures,74.3
+STU1054,DBMS,56.7
+ STU1054 ,Operating Systems,76.5
+STU1054,Mathematics,65.0
+STU1054,Communication Skills,68.0
+STU1055,Web Technologies,48.8
+STU1055,DBMS,54.1
+STU1055,Computer Networks,51.2
+STU1055,Mathematics,37.2
+STU1055,Communication Skills,36.1
+STU1056,Digital Electronics,38.6
+STU1056,Signals & Systems,40.5
+STU1056,Microprocessors,45.1
+STU1056,Mathematics,39.5
+STU1056,Communication Skills,46.8
+STU1057,Structural Analysis,65.8
+STU1057,Surveying,84.5
+STU1057,Geotechnical Engg,73.9
+STU1057,Mathematics,72.0
+STU1057,Communication Skills,71.9
+STU1058,Data Structures,86.0
+STU1058,DBMS,82.8
+STU1058,Operating Systems,76.7
+STU-1058,Mathematics,82.0
+STU1058,Communication Skills,82.8
+STU1059,Machine Learning,80.6
+STU1059,Python Programming,72.0
+STU1059,Statistics,51.2
+STU1059,Mathematics,60.9
+stu_1059,Communication Skills,73.0
+STU1060,Digital Electronics,70.0
+STU1060,Signals & Systems,69.3
+STU1060,Microprocessors,68.9
+STU1060,Mathematics,55.2
+STU1060,Communication Skills,65.4
+STU1061,Structural Analysis,37.3
+STU1061,Surveying,35.9
+STU1061,Geotechnical Engg,38.2
+STU1061,Mathematics,37.0
+STU1061,Communication Skills,50.5
+STU1062,Machine Learning,51.3
+STU1062,Python Programming,35.9
+STU1062,Statistics,25.5
+STU1062,Mathematics,51.8
+STU1062,Communication Skills,34.0
+STU1063,Data Structures,73.1
+STU1063,DBMS,59.6
+STU1063,Operating Systems,61.9
+STU1063,Mathematics,67.3
+STU1063,Communication Skills,60.3
+STU1064,Digital Electronics,65.9
+STU1064,Signals & Systems,45.7
+STU1064,Microprocessors,47.0
+STU1064,Mathematics,57.2
+STU1064,Communication Skills,57.1
+STU1065,Web Technologies,68.9
+STU1065,DBMS,40.1
+STU1065,Computer Networks,55.9
+STU1065,Mathematics,58.4
+STU1065,Communication Skills,50.7
+STU1066,Structural Analysis,53.1
+STU1066,Surveying,51.3
+STU1066,Geotechnical Engg,81.7
+STU1066,Mathematics,80.8
+STU1066,Communication Skills,65.2
+STU1067,Web Technologies,81.9
+STU1067,DBMS,52.0
+STU1067,Computer Networks,62.9
+STU1067,Mathematics,66.6
+STU1067,Communication Skills,71.4
+STU1068,Digital Electronics,57.6
+STU1068,Signals & Systems,78.2
+STU1068,Microprocessors,71.2
+STU1068,Mathematics,74.2
+STU1068,Communication Skills,62.8
+STU1069,Data Structures,53.1
+ STU1069 ,DBMS,59.5
+STU1069,Operating Systems,58.9
+STU1069,Mathematics,61.4
+STU1069,Communication Skills,54.5
+STU1070,Web Technologies,76.9
+STU1070,DBMS,78.5
+STU1070,Computer Networks,77.9
+STU1070,Mathematics,70.9
+STU1070,Communication Skills,78.0
+STU1071,Thermodynamics,47.6
+STU1071,Fluid Mechanics,61.8
+STU1071,Manufacturing,58.0
+STU1071,Mathematics,72.3
+STU1071,Communication Skills,65.1
+STU1072,Machine Learning,59.9
+STU1072,Python Programming,64.1
+STU1072,Statistics,67.5
+STU1072,Mathematics,69.8
+STU1072,Communication Skills,45.3
+STU1073,Web Technologies,69.1
+STU1073,DBMS,67.6
+STU1073,Computer Networks,65.8
+STU1073,Mathematics,58.9
+STU1073,Communication Skills,76.1
+STU1074,Structural Analysis,46.5
+STU1074,Surveying,52.6
+STU1074,Geotechnical Engg,67.8
+STU1074,Mathematics,56.2
+STU1074,Communication Skills,64.6
+STU1075,Thermodynamics,95.4
+STU1075,Fluid Mechanics,100.0
+STU1075,Manufacturing,89.8
+STU1075,Mathematics,81.9
+STU1075,Communication Skills,90.7
+STU1076,Web Technologies,62.1
+STU1076,DBMS,74.7
+STU1076,Computer Networks,60.2
+STU1076,Mathematics,67.6
+STU1076,Communication Skills,60.4
+STU1077,Machine Learning,74.5
+STU1077,Python Programming,76.0
+STU1077,Statistics,58.9
+stu1077,Mathematics,72.2
+STU1077,Communication Skills,65.2
+STU1078,Machine Learning,61.0
+STU1078,Python Programming,66.0
+STU1078,Statistics,64.7
+STU1078,Mathematics,64.8
+STU1078,Communication Skills,65.5
+STU1079,Digital Electronics,69.1
+STU1079,Signals & Systems,82.4
+STU-1079,Microprocessors,65.1
+stu1079,Mathematics,79.6
+STU1079,Communication Skills,89.7
+STU1080,Web Technologies,78.7
+STU1080,DBMS,72.3
+STU1080,Computer Networks,68.9
+STU1080,Mathematics,57.7
+STU1080,Communication Skills,71.5
+STU-1081,Data Structures,44.1
+STU1081,DBMS,45.9
+STU1081,Operating Systems,28.8
+STU1081,Mathematics,43.4
+STU1081,Communication Skills,54.6
+STU1082,Structural Analysis,95.1
+STU1082,Surveying,83.1
+STU1082,Geotechnical Engg,57.7
+STU1082,Mathematics,81.6
+STU1082,Communication Skills,72.2
+STU1083,Structural Analysis,64.2
+STU1083,Surveying,61.8
+STU1083,Geotechnical Engg,68.7
+STU1083,Mathematics,64.1
+STU1083,Communication Skills,60.1
+STU1084,Thermodynamics,56.7
+STU1084,Fluid Mechanics,62.3
+STU1084,Manufacturing,57.5
+STU1084,Mathematics,61.7
+STU1084,Communication Skills,62.2
+STU1085,Structural Analysis,46.1
+STU1085,Surveying,54.4
+STU1085,Geotechnical Engg,45.8
+STU1085,Mathematics,47.9
+STU1085,Communication Skills,44.6
+STU1086,Digital Electronics,69.4
+STU1086,Signals & Systems,61.7
+STU1086,Microprocessors,51.5
+STU1086,Mathematics,67.6
+STU1086,Communication Skills,66.5
+STU1087,Digital Electronics,47.6
+STU1087,Signals & Systems,49.6
+ STU1087 ,Microprocessors,51.1
+STU1087,Mathematics,63.9
+STU1087,Communication Skills,48.2
+STU1088,Digital Electronics,62.6
+STU1088,Signals & Systems,62.7
+STU1088,Microprocessors,59.5
+STU1088,Mathematics,52.6
+STU1088,Communication Skills,81.4
+STU1089,Machine Learning,59.0
+STU1089,Python Programming,69.5
+STU1089,Statistics,58.9
+STU1089,Mathematics,57.2
+STU1089,Communication Skills,59.9
+STU1090,Web Technologies,94.9
+STU1090,DBMS,96.2
+STU1090,Computer Networks,84.8
+STU1090,Mathematics,73.8
+STU1090,Communication Skills,87.3
+STU1091,Data Structures,72.3
+STU1091,DBMS,82.5
+STU1091,Operating Systems,84.5
+STU1091,Mathematics,90.2
+STU1091,Communication Skills,85.1
+STU1092,Digital Electronics,69.8
+STU1092,Signals & Systems,58.8
+STU1092,Microprocessors,82.9
+STU1092,Mathematics,76.2
+STU1092,Communication Skills,47.9
+STU1093,Web Technologies,72.2
+STU1093,DBMS,60.5
+STU1093,Computer Networks,72.7
+STU1093,Mathematics,53.9
+STU1093,Communication Skills,54.4
+STU1094,Data Structures,64.2
+STU1094,DBMS,66.4
+STU1094,Operating Systems,58.3
+STU1094,Mathematics,57.6
+STU1094,Communication Skills,72.5
+STU1095,Machine Learning,80.1
+STU1095,Python Programming,93.2
+STU1095,Statistics,84.2
+STU1095,Mathematics,72.7
+STU1095,Communication Skills,71.0
+STU-1096,Web Technologies,62.5
+STU1096,DBMS,51.2
+STU1096,Computer Networks,69.6
+STU1096,Mathematics,63.9
+STU1096,Communication Skills,70.5
+STU1097,Data Structures,58.0
+STU1097,DBMS,60.4
+STU1097,Operating Systems,57.9
+STU-1097,Mathematics,74.7
+STU1097,Communication Skills,58.3
+STU1098,Thermodynamics,73.8
+STU1098,Fluid Mechanics,71.4
+STU1098,Manufacturing,80.7
+STU1098,Mathematics,71.5
+STU1098,Communication Skills,59.5
+STU1099,Thermodynamics,60.5
+STU1099,Fluid Mechanics,63.0
+STU1099,Manufacturing,40.3
+STU1099,Mathematics,40.5
+STU1099,Communication Skills,49.7
+STU1100,Data Structures,62.7
+STU1100,DBMS,43.7
+STU1100,Operating Systems,68.6
+STU1100,Mathematics,72.6
+STU1100,Communication Skills,61.3
+STU1101,Data Structures,40.0
+STU1101,DBMS,32.3
+STU1101,Operating Systems,51.3
+STU1101,Mathematics,54.0
+STU1101,Communication Skills,35.5
+STU1102,Web Technologies,85.1
+STU1102,DBMS,65.4
+STU1102,Computer Networks,72.6
+STU1102,Mathematics,75.7
+STU1102,Communication Skills,63.8
+STU1103,Thermodynamics,73.7
+STU1103,Fluid Mechanics,92.6
+STU1103,Manufacturing,87.4
+STU1103,Mathematics,85.9
+STU1103,Communication Skills,79.3
+STU1104,Thermodynamics,69.4
+STU1104,Fluid Mechanics,66.1
+STU1104,Manufacturing,81.6
+STU1104,Mathematics,72.1
+STU1104,Communication Skills,73.9
+STU1105,Data Structures,79.9
+STU1105,DBMS,74.4
+STU1105,Operating Systems,75.8
+STU1105,Mathematics,76.0
+STU1105,Communication Skills,78.9
+STU1106,Digital Electronics,45.2
+STU1106,Signals & Systems,48.7
+STU1106,Microprocessors,60.6
+STU1106,Mathematics,49.2
+STU1106,Communication Skills,55.0
+STU1107,Data Structures,59.1
+STU1107,DBMS,68.9
+STU1107,Operating Systems,66.7
+STU1107,Mathematics,67.4
+STU1107,Communication Skills,67.7
+STU1108,Web Technologies,51.6
+STU1108,DBMS,46.1
+STU1108,Computer Networks,47.5
+STU1108,Mathematics,60.0
+STU1108,Communication Skills,52.5
+STU1109,Structural Analysis,57.4
+STU1109,Surveying,67.5
+STU1109,Geotechnical Engg,55.8
+STU1109,Mathematics,66.8
+STU1109,Communication Skills,57.3
+STU1110,Data Structures,69.9
+STU1110,DBMS,84.1
+STU1110,Operating Systems,84.4
+STU1110,Mathematics,73.9
+STU1110,Communication Skills,60.7
+STU1111,Data Structures,62.4
+STU1111,DBMS,57.5
+STU1111,Operating Systems,65.5
+STU1111,Mathematics,68.3
+STU1111,Communication Skills,63.7
+STU1112,Web Technologies,46.7
+STU1112,DBMS,57.6
+STU1112,Computer Networks,41.6
+STU1112,Mathematics,59.3
+stu1112,Communication Skills,47.9
+STU1113,Machine Learning,51.2
+STU1113,Python Programming,36.4
+STU1113,Statistics,55.2
+STU1113,Mathematics,34.8
+STU1113,Communication Skills,56.7
+STU1114,Structural Analysis,43.4
+STU1114,Surveying,53.4
+STU1114,Geotechnical Engg,46.0
+STU1114,Mathematics,41.3
+STU1114,Communication Skills,45.0
+STU1115,Structural Analysis,71.3
+STU1115,Surveying,75.4
+STU1115,Geotechnical Engg,63.5
+STU1115,Mathematics,64.6
+stu_1115,Communication Skills,76.4
+STU1116,Data Structures,82.8
+STU1116,DBMS,85.9
+STU1116,Operating Systems,84.3
+STU1116,Mathematics,94.9
+STU1116,Communication Skills,84.7
+STU1117,Data Structures,70.6
+STU1117,DBMS,63.2
+STU1117,Operating Systems,75.7
+STU-1117,Mathematics,73.9
+STU1117,Communication Skills,75.7
+STU1118,Thermodynamics,36.6
+STU1118,Fluid Mechanics,31.1
+STU1118,Manufacturing,27.2
+STU1118,Mathematics,45.1
+stu1118,Communication Skills,51.3
+STU1119,Data Structures,91.2
+STU1119,DBMS,89.9
+STU1119,Operating Systems,72.5
+STU1119,Mathematics,66.1
+STU1119,Communication Skills,84.9
+STU1120,Thermodynamics,70.5
+STU1120,Fluid Mechanics,68.3
+STU1120,Manufacturing,71.7
+STU1120,Mathematics,84.8
+STU1120,Communication Skills,60.2
+STU1121,Digital Electronics,41.6
+STU1121,Signals & Systems,51.7
+STU1121,Microprocessors,34.4
+STU1121,Mathematics,41.3
+STU1121,Communication Skills,48.0
+STU1122,Data Structures,43.2
+STU1122,DBMS,49.3
+STU1122,Operating Systems,64.9
+STU1122,Mathematics,50.8
+STU1122,Communication Skills,absent
+STU1123,Thermodynamics,77.8
+STU1123,Fluid Mechanics,71.4
+STU1123,Manufacturing,89.7
+STU1123,Mathematics,75.8
+STU1123,Communication Skills,72.8
+STU1124,Data Structures,81.3
+STU1124,DBMS,61.9
+STU1124,Operating Systems,70.5
+STU1124,Mathematics,89.3
+STU1124,Communication Skills,83.3
+STU1125,Web Technologies,49.5
+STU1125,DBMS,34.8
+STU1125,Computer Networks,56.8
+STU1125,Mathematics,59.5
+STU1125,Communication Skills,54.5
+STU1126,Machine Learning,63.9
+STU1126,Python Programming,69.4
+STU1126,Statistics,65.5
+STU1126,Mathematics,71.2
+STU1126,Communication Skills,57.6
+STU1127,Machine Learning,41.1
+STU1127,Python Programming,29.4
+STU1127,Statistics,25.5
+STU-1127,Mathematics,43.6
+STU1127,Communication Skills,44.6
+STU1128,Digital Electronics,51.5
+STU1128,Signals & Systems,57.0
+STU1128,Microprocessors,48.3
+STU1128,Mathematics,61.8
+STU1128,Communication Skills,71.0
+STU1129,Digital Electronics,68.5
+STU1129,Signals & Systems,68.5
+STU1129,Microprocessors,70.3
+STU1129,Mathematics,83.8
+STU1129,Communication Skills,91.6
+STU1130,Structural Analysis,67.0
+STU1130,Surveying,70.0
+STU1130,Geotechnical Engg,52.5
+STU1130,Mathematics,73.9
+STU1130,Communication Skills,48.5
+STU1131,Structural Analysis,49.8
+STU1131,Surveying,68.2
+STU1131,Geotechnical Engg,66.8
+STU1131,Mathematics,51.8
+STU1131,Communication Skills,54.2
+STU1132,Machine Learning,68.8
+STU1132,Python Programming,73.4
+STU1132,Statistics,66.4
+STU1132,Mathematics,64.8
+STU1132,Communication Skills,67.0
+STU1133,Data Structures,67.6
+STU1133,DBMS,83.9
+STU1133,Operating Systems,75.0
+STU1133,Mathematics,73.9
+STU1133,Communication Skills,65.7
+STU1134,Digital Electronics,90.4
+STU1134,Signals & Systems,73.7
+STU1134,Microprocessors,75.7
+STU1134,Mathematics,76.8
+STU1134,Communication Skills,83.7
+STU1135,Structural Analysis,67.2
+STU1135,Surveying,74.7
+STU1135,Geotechnical Engg,80.0
+STU1135,Mathematics,71.7
+STU1135,Communication Skills,57.1
+STU1136,Web Technologies,67.7
+STU1136,DBMS,76.0
+STU1136,Computer Networks,78.5
+STU1136,Mathematics,72.0
+STU1136,Communication Skills,77.8
+STU1137,Machine Learning,69.3
+STU1137,Python Programming,83.4
+STU1137,Statistics,65.7
+STU1137,Mathematics,61.5
+STU1137,Communication Skills,56.6
+STU1138,Web Technologies,66.3
+STU1138,DBMS,64.3
+STU1138,Computer Networks,80.8
+STU1138,Mathematics,66.1
+STU1138,Communication Skills,59.8
+STU1139,Data Structures,62.0
+STU1139,DBMS,50.9
+STU1139,Operating Systems,58.5
+STU1139,Mathematics,79.9
+STU1139,Communication Skills,70.2
+STU1140,Digital Electronics,50.4
+STU1140,Signals & Systems,47.6
+STU1140,Microprocessors,48.8
+STU1140,Mathematics,56.8
+STU1140,Communication Skills,49.0
+STU1141,Web Technologies,45.0
+STU1141,DBMS,50.0
+STU1141,Computer Networks,52.8
+STU1141,Mathematics,43.9
+STU1141,Communication Skills,55.6
+STU1142,Thermodynamics,46.4
+STU1142,Fluid Mechanics,40.0
+STU1142,Manufacturing,38.8
+STU1142,Mathematics,41.8
+STU1142,Communication Skills,40.4
+STU1143,Thermodynamics,56.1
+STU1143,Fluid Mechanics,59.5
+stu_1143,Manufacturing,69.8
+STU1143,Mathematics,53.2
+STU1143,Communication Skills,54.3
+STU1144,Thermodynamics,54.1
+STU1144,Fluid Mechanics,43.4
+STU1144,Manufacturing,NA
+STU1144,Mathematics,70.5
+STU1144,Communication Skills,63.0
+STU1145,Web Technologies,77.9
+STU1145,DBMS,86.6
+STU1145,Computer Networks,76.7
+STU1145,Mathematics,79.0
+STU1145,Communication Skills,96.8
+STU1146,Web Technologies,55.1
+STU1146,DBMS,48.1
+STU1146,Computer Networks,52.5
+STU1146,Mathematics,51.1
+STU1146,Communication Skills,68.1
+STU1147,Digital Electronics,79.2
+STU1147,Signals & Systems,73.8
+STU1147,Microprocessors,71.8
+STU1147,Mathematics,85.4
+STU1147,Communication Skills,70.3
+STU1148,Thermodynamics,66.3
+STU1148,Fluid Mechanics,81.3
+STU1148,Manufacturing,83.0
+STU1148,Mathematics,68.6
+STU1148,Communication Skills,70.2
+STU1149,Machine Learning,55.6
+STU1149,Python Programming,69.2
+STU1149,Statistics,49.0
+STU1149,Mathematics,64.7
+STU1149,Communication Skills,54.2
+STU1150,Thermodynamics,70.3
+STU1150,Fluid Mechanics,71.6
+STU1150,Manufacturing,73.1
+STU1150,Mathematics,68.2
+STU1150,Communication Skills,64.6
+STU1151,Data Structures,54.6
+STU1151,DBMS,53.3
+STU1151,Operating Systems,49.0
+ STU1151 ,Mathematics,59.1
+STU1151,Communication Skills,57.5
+STU1152,Thermodynamics,72.1
+STU1152,Fluid Mechanics,76.3
+STU1152,Manufacturing,82.7
+STU1152,Mathematics,81.6
+STU1152,Communication Skills,60.3
+STU1153,Data Structures,81.4
+STU1153,DBMS,64.4
+STU1153,Operating Systems,58.8
+STU1153,Mathematics,64.5
+STU1153,Communication Skills,63.5
+STU1154,Data Structures,42.1
+STU1154,DBMS,50.4
+STU1154,Operating Systems,47.3
+STU1154,Mathematics,39.7
+STU1154,Communication Skills,31.7
+STU1155,Machine Learning,61.6
+STU1155,Python Programming,52.8
+STU1155,Statistics,57.6
+STU1155,Mathematics,64.9
+STU1155,Communication Skills,76.3
+STU1156,Data Structures,84.0
+STU1156,DBMS,96.5
+STU1156,Operating Systems,92.6
+STU1156,Mathematics,83.9
+STU1156,Communication Skills,79.0
+STU1157,Data Structures,59.8
+ STU1157 ,DBMS,51.0
+STU1157,Operating Systems,51.5
+STU1157,Mathematics,63.7
+STU1157,Communication Skills,53.5
+STU1158,Data Structures,79.6
+STU1158,DBMS,74.4
+STU1158,Operating Systems,75.6
+STU1158,Mathematics,68.6
+STU1158,Communication Skills,77.1
+STU1159,Web Technologies,69.1
+STU1159,DBMS,76.9
+STU1159,Computer Networks,65.0
+STU1159,Mathematics,57.9
+STU1159,Communication Skills,58.7
+STU1160,Digital Electronics,57.3
+STU1160,Signals & Systems,45.2
+ STU1160 ,Microprocessors,39.3
+STU1160,Mathematics,47.6
+STU1160,Communication Skills,58.9
+STU1161,Data Structures,76.3
+STU1161,DBMS,65.0
+STU1161,Operating Systems,65.1
+STU1161,Mathematics,82.6
+STU1161,Communication Skills,73.5
+STU1162,Digital Electronics,46.9
+STU-1162,Signals & Systems,47.1
+STU1162,Microprocessors,66.0
+STU1162,Mathematics,43.7
+STU1162,Communication Skills,35.6
+STU1163,Thermodynamics,57.9
+STU1163,Fluid Mechanics,45.5
+STU1163,Manufacturing,55.6
+STU1163,Mathematics,62.9
+STU1163,Communication Skills,54.4
+STU1164,Data Structures,71.1
+STU1164,DBMS,73.2
+STU1164,Operating Systems,88.9
+STU1164,Mathematics,79.6
+STU1164,Communication Skills,69.5
+STU1165,Data Structures,63.9
+STU1165,DBMS,65.5
+STU1165,Operating Systems,57.6
+STU1165,Mathematics,77.2
+STU1165,Communication Skills,75.6
+STU1166,Thermodynamics,62.7
+STU1166,Fluid Mechanics,45.7
+STU1166,Manufacturing,51.5
+STU1166,Mathematics,69.1
+STU1166,Communication Skills,46.9
+STU1167,Thermodynamics,63.6
+STU1167,Fluid Mechanics,61.8
+STU1167,Manufacturing,54.0
+STU1167,Mathematics,63.2
+STU1167,Communication Skills,62.6
+STU1168,Machine Learning,65.1
+STU1168,Python Programming,61.7
+STU1168,Statistics,56.3
+STU1168,Mathematics,54.2
+STU1168,Communication Skills,75.5
+STU1169,Thermodynamics,57.8
+STU1169,Fluid Mechanics,61.8
+STU1169,Manufacturing,60.2
+STU1169,Mathematics,51.1
+STU1169,Communication Skills,75.4
+STU1170,Data Structures,72.0
+STU1170,DBMS,100.0
+STU1170,Operating Systems,73.8
+STU1170,Mathematics,68.6
+STU1170,Communication Skills,74.8
+STU1171,Web Technologies,52.9
+STU-1171,DBMS,51.2
+stu_1171,Computer Networks,50.7
+STU1171,Mathematics,54.1
+STU1171,Communication Skills,52.9
+STU1172,Digital Electronics,74.4
+STU1172,Signals & Systems,72.3
+STU1172,Microprocessors,52.3
+STU1172,Mathematics,59.1
+STU1172,Communication Skills,54.9
+STU1173,Data Structures,61.6
+STU1173,DBMS,61.6
+STU1173,Operating Systems,51.7
+STU1173,Mathematics,54.5
+STU1173,Communication Skills,59.3
+STU1174,Digital Electronics,34.1
+STU1174,Signals & Systems,29.2
+STU1174,Microprocessors,42.6
+STU1174,Mathematics,39.6
+STU1174,Communication Skills,61.8
+STU1175,Machine Learning,57.5
+STU1175,Python Programming,53.6
+STU1175,Statistics,51.0
+STU1175,Mathematics,51.7
+STU1175,Communication Skills,32.0
+STU1176,Digital Electronics,97.6
+STU1176,Signals & Systems,81.6
+STU1176,Microprocessors,75.5
+STU1176,Mathematics,80.3
+STU1176,Communication Skills,75.1
+STU1177,Machine Learning,64.0
+STU1177,Python Programming,71.0
+stu_1177,Statistics,66.1
+STU1177,Mathematics,54.3
+STU1177,Communication Skills,60.0
+STU1178,Web Technologies,45.7
+STU1178,DBMS,35.3
+STU1178,Computer Networks,43.7
+STU1178,Mathematics,41.2
+STU1178,Communication Skills,40.2
+STU1179,Data Structures,40.9
+STU1179,DBMS,47.0
+STU1179,Operating Systems,36.6
+STU1179,Mathematics,46.4
+STU1179,Communication Skills,32.0
+STU1180,Data Structures,53.8
+STU1180,DBMS,59.5
+STU1180,Operating Systems,63.9
+STU1180,Mathematics,58.9
+STU1180,Communication Skills,47.8
+STU1181,Digital Electronics,83.2
+STU1181,Signals & Systems,89.1
+STU1181,Microprocessors,87.4
+STU1181,Mathematics,80.2
+STU1181,Communication Skills,88.6
+STU1182,Data Structures,48.0
+STU1182,DBMS,76.9
+STU1182,Operating Systems,61.6
+STU1182,Mathematics,56.2
+STU1182,Communication Skills,63.2
+STU1183,Data Structures,80.3
+STU1183,DBMS,76.1
+STU1183,Operating Systems,86.8
+STU1183,Mathematics,69.9
+STU1183,Communication Skills,79.8
+STU1184,Data Structures,55.7
+STU1184,DBMS,63.3
+STU1184,Operating Systems,65.6
+STU1184,Mathematics,69.4
+STU1184,Communication Skills,63.4
+STU1185,Data Structures,58.2
+STU1185,DBMS,62.0
+STU1185,Operating Systems,50.4
+STU-1185,Mathematics,63.5
+STU1185,Communication Skills,63.4
+STU1186,Thermodynamics,56.3
+STU1186,Fluid Mechanics,28.6
+STU1186,Manufacturing,51.9
+STU1186,Mathematics,45.8
+STU1186,Communication Skills,55.1
+STU1187,Web Technologies,82.0
+STU1187,DBMS,75.8
+STU1187,Computer Networks,77.0
+STU1187,Mathematics,75.3
+STU1187,Communication Skills,70.2
+STU1188,Structural Analysis,42.6
+STU1188,Surveying,49.0
+STU1188,Geotechnical Engg,68.2
+STU1188,Mathematics,60.1
+STU1188,Communication Skills,49.2
+STU1189,Data Structures,68.8
+STU1189,DBMS,82.5
+STU1189,Operating Systems,55.9
+stu_1189,Mathematics,69.9
+STU1189,Communication Skills,79.3
+STU1190,Digital Electronics,36.9
+STU1190,Signals & Systems,53.3
+STU1190,Microprocessors,49.5
+STU1190,Mathematics,53.9
+STU1190,Communication Skills,48.0
+STU1191,Web Technologies,76.3
+STU1191,DBMS,70.0
+STU1191,Computer Networks,60.2
+STU1191,Mathematics,59.1
+STU1191,Communication Skills,57.3
+STU1192,Web Technologies,78.6
+STU1192,DBMS,66.2
+STU1192,Computer Networks,60.0
+STU1192,Mathematics,62.1
+STU1192,Communication Skills,77.2
+STU1193,Thermodynamics,60.0
+STU1193,Fluid Mechanics,72.5
+STU1193,Manufacturing,54.0
+STU1193,Mathematics,52.1
+stu_1193,Communication Skills,69.0
+STU1194,Structural Analysis,55.1
+STU1194,Surveying,55.9
+STU1194,Geotechnical Engg,71.4
+STU1194,Mathematics,61.7
+STU1194,Communication Skills,66.0
+STU1195,Thermodynamics,63.5
+STU1195,Fluid Mechanics,51.8
+STU1195,Manufacturing,67.6
+STU1195,Mathematics,54.0
+STU1195,Communication Skills,62.4
+STU1196,Data Structures,42.7
+STU1196,DBMS,44.3
+STU1196,Operating Systems,71.5
+STU1196,Mathematics,43.6
+STU1196,Communication Skills,57.5
+STU1197,Data Structures,84.0
+STU1197,DBMS,77.1
+STU1197,Operating Systems,100.0
+STU1197,Mathematics,88.5
+STU1197,Communication Skills,86.1
+STU1198,Digital Electronics,79.0
+STU1198,Signals & Systems,76.4
+STU1198,Microprocessors,67.4
+STU1198,Mathematics,74.0
+STU1198,Communication Skills,77.9
+STU1199,Web Technologies,64.3
+STU1199,DBMS,58.9
+STU1199,Computer Networks,51.8
+STU1199,Mathematics,47.2
+STU1199,Communication Skills,69.3
+STU1200,Digital Electronics,72.1
+STU1200,Signals & Systems,75.2
+STU1200,Microprocessors,77.4
+STU1200,Mathematics,72.3
+STU1200,Communication Skills,74.7
