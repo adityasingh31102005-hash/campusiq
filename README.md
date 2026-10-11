@@ -104,7 +104,7 @@ src/risk_model.py       the two early-warning models
 src/summary.py          the written mentor summary
 src/generate_data.py    the synthetic campus
 data/                   the source CSV files
-docs/                   Success Score note, slides, demo walkthrough
+docs/                   Success Score note and slides
 ```
 
 Built with Python, pandas, scikit-learn, Plotly and Streamlit.
