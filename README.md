@@ -1,80 +1,92 @@
-# CampusIQ: AI-Powered Student Analytics & Success Platform
+# CampusIQ
 
-HacXLerate 2026, Round 1. Problem statement: **AI-Powered Student Analytics and Success Platform (KPMG in India)**.
-
-CampusIQ joins eight separate campus data sources into one record per student, computes a transparent **Student Success Score**, flags at-risk students with the reasons, and tells faculty what to do next.
+A student success dashboard built for HacXLerate 2026, Round 1, for the KPMG problem statement
+"AI-Powered Student Analytics and Success Platform".
 
 **Live demo:** https://campusiq-74yntvtpyggp7bsmmshwa8.streamlit.app
 
-**Deliverables:** working dashboard (live link above) · [Student Success Score note](docs/success_score_note.md) · [slides](docs/CampusIQ_Deck.pdf)
+## The problem we went after
+
+A college already records everything it needs to spot a struggling student. Attendance is in one
+register, marks in another, LMS logins somewhere else, placement practice in a fourth place. Nobody
+reads them together, so the warning only arrives with the result sheet, when the semester is over.
+
+CampusIQ pulls those sources into one record per student, scores them, flags who is in trouble, and
+says why. A mentor opens one page instead of chasing five systems.
 
 ## What it does
 
-| Requirement | Where in the app |
-|---|---|
-| Data integration across sources | **Data Integration** page: source coverage, cleaning log, integrated dataset download |
-| Student Success Score | Every page; formula on **How the Score Works** |
-| Risk flags | **At-Risk Students**: prioritised list with reasons and recommended action |
-| Key trends | **Trends & Insights**: 6-month attendance, LMS and test trends by risk level and department |
-| Relevant student insights | **Overview** "What needs attention" and **Student 360** |
-| Bonus: Student segmentation | **Segments** page: 7 segments, each with a targeted intervention |
-| Bonus: Explainable score | **Student 360**: which pillars lift or pull down each student's score, and why they were flagged |
-| At-risk: academic and placement | **AI Early Warning**: two models trained on last year's cohort, one per outcome the brief names, plus a watchlist of students the rules miss |
-| Mentor summary | **Student 360**: an auto-generated plain-language note on each student with next steps |
-| Bring your own data | **Data Integration**: upload a CSV to replace any source; it is validated, cleaned and integrated |
-| What-if simulator | **Student 360**: test an intervention and see the projected score, risk flag and risk probability |
+The dashboard has eight views. **Overview** gives the campus picture: how many students are at risk,
+which department and year they sit in, which pillar is weakest. **At-Risk Students** is the working
+list, sorted worst first, with the reasons each flag fired and a suggested action, exportable to CSV
+because the next step happens in a mentor meeting.
 
-## Data
+**Student 360** is where you land on one student: the triggers that flagged them, a chart of which
+pillars pull their score up or down, a short written summary, their six-month trend, subject-wise
+marks, and a what-if simulator that projects what an intervention would actually change.
 
-`src/generate_data.py` creates a synthetic campus of 1,200 students across 6 departments, as 8 source files plus a monthly trend file, covering every suggested category:
+**AI Early Warning** holds the two prediction models. **Segments** groups students into seven types
+that each need different help. **Trends & Insights** shows what only the combined data reveals.
+**Data Integration** shows every cleaning fix we made and lets a college upload its own CSV in place
+of ours. **How the Score Works** publishes the entire formula.
 
-| File | Category | Fields |
-|---|---|---|
-| `students.csv` | Master | department, year, section, mentor |
-| `academics.csv`, `subject_marks.csv` | Academic | CGPA, backlogs, subject marks |
-| `attendance.csv` | Attendance | subject-wise classes held and attended |
-| `lms_activity.csv` | LMS | logins per week, assignments submitted, last login |
-| `engagement.csv` | Engagement | events, clubs, hackathons, certifications |
-| `placement.csv` | Placement | aptitude, coding, mock interviews |
-| `skills.csv` | Skills | technical and soft-skill assessments |
-| `feedback.csv` | Feedback | student satisfaction, faculty feedback |
-| `monthly_trends.csv` | Trends | 6 months of attendance, LMS logins, test scores |
-| `historical_cohort.csv` | Model training | Last year's 1,500 students with their known academic and placement outcomes |
+## The data
 
-The files are deliberately messy, like real exports: inconsistent ID formats (`stu-0012`, ` STU0012 `), duplicate rows, CGPA typed as a percentage, text such as `AB` in marks, attendance above classes held, and students missing from some systems. The pipeline fixes each issue and logs it.
+We generate a synthetic campus of 1,200 students across six departments, because no college hands
+out real student records for a hackathon. The generator writes eight source files covering every
+category the brief listed: academics, subject marks, attendance, LMS activity, engagement,
+placement, skills and feedback, plus six months of monthly trends and last year's graduating cohort
+with their known outcomes.
 
-## How the score works
+We made the files messy on purpose, the way real exports are. Student IDs appear four different ways
+(`STU0012`, `stu-0012`, `stu_0012`, with stray spaces). Some rows are duplicated. A few CGPAs were
+typed as percentages. Marks columns contain `AB` and `absent`. Some attendance records claim more
+classes attended than were held. Whole students are missing from some systems.
 
-Seven pillars, each scored 0-100, combined with fixed weights:
+The pipeline fixes each of these and writes what it did to the cleaning log on screen, so nothing
+changes silently. Students missing from a source get the median for their department and year, and
+their record says which sources were missing.
 
-Academic 25 · Attendance 20 · Placement 20 · LMS 15 · Skills 10 · Engagement 5 · Feedback 5
+## The Student Success Score
 
-Risk flag: **High** if the score is below 45 or 2+ early-warning triggers fire; **Medium** if below 58 or 1 trigger; otherwise **Low**. Full detail in [`docs/success_score_note.md`](docs/success_score_note.md).
+Seven pillars, each scored 0-100 from raw indicators, then weighted:
+
+- Academic, 25 percent, from CGPA, average marks and backlogs
+- Attendance, 20 percent
+- Placement, 20 percent, from aptitude, coding and mock interviews
+- LMS, 15 percent, from assignments, login frequency and recency
+- Skills, 10 percent
+- Engagement, 5 percent
+- Feedback, 5 percent
+
+A student is High risk below 45 or with two or more early-warning triggers, Medium below 58 or with
+one trigger, Low otherwise. The six triggers are attendance under 65 percent, two or more backlogs,
+CGPA under 5.5, fewer than half the assignments submitted, no LMS login in 14 days, and attendance
+down ten points over three months.
+
+Weights and triggers are in `src/pipeline.py` and explained in `docs/success_score_note.md`. A
+college can disagree with a weight and change one line.
 
 ## Where the AI is
 
-The score and flags are transparent rules, so faculty can check them. Next to them, two logistic-regression models are trained on last year's cohort (1,500 students whose year-end outcome is known) and give every current student a probability of:
+The score is deliberately rule-based so faculty can check it. The prediction sits next to it.
 
-- a poor **academic** outcome (failed course, dropout, formal intervention) — AUC 0.87 on held-out students
-- a poor **placement** outcome (no offer or not placement-ready) — AUC 0.85
+We train two logistic regressions on last year's cohort, where the outcome is already known. One
+predicts a poor academic outcome, a failed course or dropout or formal intervention, and reaches an
+AUC of 0.87 on students it never saw. The other predicts a poor placement outcome and reaches 0.85.
 
-Keeping them separate matters: a student can be heading for a good degree and still be unprepared for placement, and those two groups need different help. Students who are Low risk by the rules but above 50% by either model go on a watchlist, which is where the earliest catches are.
+Two models rather than one, because they are not the same students. A student can be heading for a
+good degree and still be nowhere near placement-ready, and those two groups need completely
+different help.
 
-## Tech stack
+We chose logistic regression over something stronger on purpose. The coefficients can be shown to
+faculty as the reason behind each probability, and a college has to be able to defend a flag to the
+student it is about.
 
-Python · pandas · NumPy · scikit-learn · Plotly · Streamlit
+The sharpest result: 143 students are Low risk by every rule, yet a model puts them above 50
+percent. A threshold report would miss all of them. They get their own watchlist.
 
-```
-app.py                  Streamlit dashboard (8 views)
-src/generate_data.py    Synthetic multi-source data generator
-src/pipeline.py         Cleaning, integration, scoring, risk flags, segments, explainability
-src/risk_model.py       Early-warning models (logistic regression, one per outcome)
-src/summary.py          Auto-generated mentor summary
-data/                   Source CSV files
-docs/                   Success Score note
-```
-
-## Run locally
+## Running it
 
 ```bash
 pip install -r requirements.txt
@@ -83,8 +95,26 @@ streamlit run app.py
 
 To regenerate the data: `python src/generate_data.py`
 
-## Notes for evaluators
+## What is in here
 
-No login is needed. Use the sidebar to switch views and filter by department and year. On **Student 360**, the student list is sorted with the lowest scores first, so the first few students show the risk reasons, explanation chart and simulator best.
+```
+app.py                  the dashboard, all eight views
+src/pipeline.py         cleaning, integration, scoring, risk flags, segments
+src/risk_model.py       the two early-warning models
+src/summary.py          the written mentor summary
+src/generate_data.py    the synthetic campus
+data/                   the source CSV files
+docs/                   Success Score note, slides, demo walkthrough
+```
 
-All data is synthetic. No real student information is used.
+Built with Python, pandas, scikit-learn, Plotly and Streamlit.
+
+## For evaluators
+
+No login needed. Start on Overview, then open Student 360, where the list is sorted lowest score
+first, so the first student shows everything the page can do.
+
+Deliverables: the dashboard is the live link above, the Success Score note is
+`docs/success_score_note.md`, and the slides are `docs/CampusIQ_Deck.pdf`.
+
+All data is synthetic. No real student information is used anywhere in this project.
