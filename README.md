@@ -4,7 +4,9 @@ HacXLerate 2026, Round 1. Problem statement: **AI-Powered Student Analytics and 
 
 CampusIQ joins eight separate campus data sources into one record per student, computes a transparent **Student Success Score**, flags at-risk students with the reasons, and tells faculty what to do next.
 
-**Live demo:** _add your deployment link here_
+**Live demo:** https://campusiq-74yntvtpyggp7bsmmshwa8.streamlit.app
+
+**Deliverables:** working dashboard (live link above) · [Student Success Score note](docs/success_score_note.md) · [slides](docs/CampusIQ_Deck.pdf)
 
 ## What it does
 
